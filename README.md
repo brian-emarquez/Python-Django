@@ -38,6 +38,11 @@ _Install Django - 3.0.8_
 ```
 pip install Django==3.0.8
 ```
+_Version de Django_
+```
+import django
+django.VERSION
+```
 
 ## Arquitectura
 
