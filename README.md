@@ -19,7 +19,7 @@ un Framework es un marco de trabajo formado por un conjunto de herramientas, lib
 - Hay tareas que son repetitivas, pesadas y comunes en el momento de crear deferentes sitios web, django viene a facilitar la realizacion de estas tareas.
 - Hay codigos que podemos reutilizar de un sitio web a otro, Django tambien nos permite esta reutilizacion de forma sencilla.
 
-##  Modelo Vista Controlador
+##  Modelo Vista Controlador (Model Template View)
 ![django](./Images/MTV.png)
 
 ## Características
@@ -32,14 +32,6 @@ un Framework es un marco de trabajo formado por un conjunto de herramientas, lib
 - Un despachador de URLs basado en expresiones regulares.
 - Soporte de internacionalización, incluyendo traducciones incorporadas de la interfaz de administración.
 
-## Comandos 🧑‍💻
-
-_Verifica la versión de Python_
-
-```
-python --version
-```
-
 ## Arquitectura
 
 Aunque Django está fuertemente inspirado en la filosofía de desarrollo Modelo Vista Controlador, sus desarrolladores declaran públicamente que no se sienten especialmente atados a observar estrictamente ningún paradigma particular, y en cambio prefieren hacer "lo que les parece correcto". Como resultado, por ejemplo, lo que se llamaría "controlador" en un "verdadero" framework MVC se llama en Django "vista", y lo que se llamaría "vista" se llama "plantilla".
@@ -50,13 +42,10 @@ Aunque Django está fuertemente inspirado en la filosofía de desarrollo Modelo 
 - Entity
 - Foundation
 
+[WIKIPEDIA](https://es.wikipedia.org/wiki/Django_(framework)).<br>
 
-[WIKIPEDIA](https://es.wikipedia.org/wiki/Python).<br>
-
+📦 [Install Django](https://www.djangoproject.com/) Intalador de Django.<br>
 📦 [Install Python](https://www.python.org/) Instalador de Python.<br>
-📦 [Install Anaconda](https://www.anaconda.com/) Intalador de Anaconda.<br>
-📦 [Install Visual studio Code](https://code.visualstudio.com/) Intalador de Visual Studio Code
-[BLOG](https://www.anaconda.com/blog).<br>
 
 ## Spotify
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
