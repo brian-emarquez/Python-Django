@@ -9,17 +9,16 @@ Django es un framework de desarrollo web de código abierto, escrito en Python, 
 
 La meta fundamental de Django es facilitar la creación de sitios web complejos. Django pone énfasis en el re-uso, la conectividad y extensibilidad de componentes, el desarrollo rápido y el principio No te repitas (DRY, del inglés Don't Repeat Yourself). Python es usado en todas las partes del framework, incluso en configuraciones, archivos, y en los modelos de datos.
 
+## Características
 
-### Ejemplos
-```
->>> 2 + 3
-5
-```
+- Un mapeador objeto-relacional.
+- Aplicaciones "enchufables" que pueden instalarse en cualquier página gestionada con Django.
+- Una API de base de datos robusta.
+- Un sistema incorporado de "vistas genéricas" que ahorra tener que escribir la lógica de ciertas tareas comunes.
+- Un sistema extensible de plantillas basado en etiquetas, con herencia de plantillas.
+- Un despachador de URLs basado en expresiones regulares.
+- Soporte de internacionalización, incluyendo traducciones incorporadas de la interfaz de administración.
 
-```
->>> 2 ** 3
-8
-```
 ## Comandos 🧑‍💻
 
 _Verifica la versión de Python_
