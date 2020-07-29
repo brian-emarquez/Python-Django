@@ -1,7 +1,7 @@
 
 <h2 align="center">Python Django - Learn Django &nbsp;:heart:&nbsp;</h2>
 
-![python](./Images/django.png.png)
+![python](./Images/django.png)
 
 ## ¿Que es Django? 💻
 
