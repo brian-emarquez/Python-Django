@@ -32,6 +32,13 @@ un Framework es un marco de trabajo formado por un conjunto de herramientas, lib
 - Un despachador de URLs basado en expresiones regulares.
 - Soporte de internacionalización, incluyendo traducciones incorporadas de la interfaz de administración.
 
+## Comandos
+
+_Install Django - 3.0.8_
+```
+pip install Django==3.0.8
+```
+
 ## Arquitectura
 
 Aunque Django está fuertemente inspirado en la filosofía de desarrollo Modelo Vista Controlador, sus desarrolladores declaran públicamente que no se sienten especialmente atados a observar estrictamente ningún paradigma particular, y en cambio prefieren hacer "lo que les parece correcto". Como resultado, por ejemplo, lo que se llamaría "controlador" en un "verdadero" framework MVC se llama en Django "vista", y lo que se llamaría "vista" se llama "plantilla".
