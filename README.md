@@ -49,8 +49,8 @@ _Primer Proyecto_
 _Version de Django_
 ```
 import django
-django.VERSION
 ```
+django.VERSION
 ```
 
 ## Arquitectura
