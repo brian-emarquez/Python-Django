@@ -44,6 +44,15 @@ import django
 django.VERSION
 ```
 
+_Primer Proyecto_
+```
+_Version de Django_
+```
+import django
+django.VERSION
+```
+```
+
 ## Arquitectura
 
 Aunque Django está fuertemente inspirado en la filosofía de desarrollo Modelo Vista Controlador, sus desarrolladores declaran públicamente que no se sienten especialmente atados a observar estrictamente ningún paradigma particular, y en cambio prefieren hacer "lo que les parece correcto". Como resultado, por ejemplo, lo que se llamaría "controlador" en un "verdadero" framework MVC se llama en Django "vista", y lo que se llamaría "vista" se llama "plantilla".
