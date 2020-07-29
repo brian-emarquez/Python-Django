@@ -27,54 +27,6 @@ _Verifica la versión de Python_
 python --version
 ```
 
-_Actualiza el  PIP de Python_
-
-```
-python -m pip install --upgrade pip
-```
-
-_Creacion de un Instalador_
-
-```
-pip install pyinstaller
-```
-
-_Creacion de un .exe_
-
-```
-pyinstaller --windowed nombreArchivo.py
-```
-
-_Creacion de un .exe - un solo archivo_
-
-```
-pyinstaller --windowed --onefile nombreArchivo.py
-```
-
-_Listado de Modulos instalados en Python_
-
-```
-pip list 
-```
-
-_Desinstalar Modulos_
-
-```
-pip uninstall nombreModulo
-```
-
-_Conectar Base de datos - SQL SERVER_
-
-```
-pip install pyodbc
-```
-
-_Conectar Base de datos - MariaDB_
-
-```
-pip3 install mariadb
-```
-
 ## Arquitectura
 
 Aunque Django está fuertemente inspirado en la filosofía de desarrollo Modelo Vista Controlador, sus desarrolladores declaran públicamente que no se sienten especialmente atados a observar estrictamente ningún paradigma particular, y en cambio prefieren hacer "lo que les parece correcto". Como resultado, por ejemplo, lo que se llamaría "controlador" en un "verdadero" framework MVC se llama en Django "vista", y lo que se llamaría "vista" se llama "plantilla".
