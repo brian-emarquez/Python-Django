@@ -1,8 +1,7 @@
 
 <h2 align="center">Learn Django &nbsp;:heart:&nbsp;</h2>
-Framework Gratuito y de codigo avierto escrito en python
 
-![python](./Images/django.png)
+![django](./Images/django.png)
 
 ## ¿Que es Django? 💻
 
@@ -19,6 +18,9 @@ un Framework es un marco de trabajo formado por un conjunto de herramientas, lib
 - Para crear sitios web (Complejos) de forma rapida y sencilla
 - Hay tareas que son repetitivas, pesadas y comunes en el momento de crear deferentes sitios web, django viene a facilitar la realizacion de estas tareas.
 - Hay codigos que podemos reutilizar de un sitio web a otro, Django tambien nos permite esta reutilizacion de forma sencilla.
+
+##  Modelo Vista Controlador
+![django](./Images/MTV.png)
 
 ## Características
 
