@@ -35,13 +35,33 @@ un Framework es un marco de trabajo formado por un conjunto de herramientas, lib
 ## Comandos
 
 _Install Django - 3.0.8_
+
 ```
 pip install Django==3.0.8
 ```
 _Version de Django_
+
 ```
 import django
 django.VERSION
+```
+
+_Primer Proyecto_
+
+```
+django-admin startproject PrimerProyecto
+```
+
+_Migrate_
+
+```
+python manage.py migrate
+```
+
+_Ejecutar Servidor Django_
+
+```
+python manage.py runserver
 ```
 
 ## Arquitectura
