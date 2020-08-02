@@ -1,21 +1,12 @@
-# PARAMETRO EN URL
-# Envio de 2 variables 
+# Plantillas
+#  
 
 from django.http import HttpResponse
 import datetime
 
-
-# Contenido Dinamico
 def saludo (request):
-    documento = """
-    <html>
-    <body>
-    <h1>
-    Hola github esta es nuestra primera pagina con Djangoo
-    </h1>
-    </boddy>
-    </html>
-    """
+
+    doc_externo.open("C:/Users/brian/Documents/Python-Django/Plantillas/Plantillas/plantillas")
 
     return HttpResponse(documento)
 
