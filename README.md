@@ -11,7 +11,7 @@ La meta fundamental de Django es facilitar la creación de sitios web complejos.
 
 ## Framework
 
-un Framework es un marco de trabajo formado por un conjunto de herramientas, librerias y buenas practicas.
+Un Framework es un marco de trabajo formado por un conjunto de herramientas, librerias y buenas practicas.
 
 ## ¿Para qué Sirve Django?
 
