@@ -13,7 +13,7 @@ La meta fundamental de Django es facilitar la creación de sitios web complejos.
 
 un Framework es un marco de trabajo formado por un conjunto de herramientas, librerias y buenas practicas.
 
-## Para que sirce Django
+## ¿Para qué Sirve Django?
 
 - Para crear sitios web (Complejos) de forma rapida y sencilla
 - Hay tareas que son repetitivas, pesadas y comunes en el momento de crear deferentes sitios web, django viene a facilitar la realizacion de estas tareas.
