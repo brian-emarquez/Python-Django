@@ -1,23 +1,39 @@
-# Plantillas I
+# Plantillas II
 
 from django.http import HttpResponse
 import datetime
 from django.template import Template, Context
 
+
+class Persona(object):
+
+    def __init__(self, nombre, apellido):
+        self.nombre=nombre
+        self.apellido=apellido
+
 def saludo (request): # primera vista
 
-    #Template
-    doc_externo=open("C:/Users/brian/Documents/Python-Django/Plantillas/template/myTemplate.html")
+    p1 = Persona("Brian", "Marquez")
+
+    #nombre = "Brian"
+    #apellido= "Marquez"
+    ahora=datetime.datetime.now()
+
+    doc_externo=open("C:/Users/brian/Documents/Python-Django/PlantillasII/template/myTemplate.html")
     plt = Template(doc_externo.read())
+    
     doc_externo.close()
-    ctx=Context()
+
+    #ctx=Context({"nombre_persona":nombre, "apellido_persona": apellido, "momento_actual": ahora}) #Diccionario donde se guadar los nombres
+    ctx=Context({"nombre_persona":p1.nombre, "apellido_persona": p1.apellido, "momento_actual": ahora}) #Diccionario donde se guadar los nombres
+
+
     documento=plt.render(ctx)
+
     return HttpResponse(documento)
 
 def despedida (request):
     return HttpResponse("Hasta luego Github")
-
-
 
 # Funcion que muestra la fecha Actual
 def dameFecha(request):
