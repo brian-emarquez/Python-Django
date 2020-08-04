@@ -7,7 +7,8 @@ from django.template import Template, Context
 
 class Persona(object):
 
-    def __init__(self, nombre, apellido):
+    # Constructor
+    def __init__(self, nombre, apellido): 
         self.nombre=nombre
         self.apellido=apellido
 
