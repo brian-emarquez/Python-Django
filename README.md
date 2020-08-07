@@ -73,6 +73,13 @@ Aunque Django está fuertemente inspirado en la filosofía de desarrollo Modelo 
 - Entity
 - Foundation
 
+## Jerarquia u orden de llamadas desde plantilla
+
+-   Diccionario
+-   Atributo
+-   Metodo
+-   Indice de lista
+
 [WIKIPEDIA](https://es.wikipedia.org/wiki/Django_(framework)).<br>
 
 📦 [Install Django](https://www.djangoproject.com/) Intalador de Django.<br>

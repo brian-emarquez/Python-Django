@@ -1,4 +1,5 @@
 # Plantillas III
+# Diccionario
 
 from django.http import HttpResponse
 import datetime
@@ -16,16 +17,16 @@ def saludo (request): # primera vista
 
     p1 = Persona("Brian", "Marquez")
 
+    temasDelCurso = ["Plantillas", "Modelos", "Formularios", "Vistas", "despliegue"]
+
     ahora=datetime.datetime.now()
 
-    doc_externo=open("C:/Users/brian/Documents/Python-Django/PlantillasII/template/myTemplate.html")
+    doc_externo = open("C:/Users/brian/Documents/Python-Django/PlantillasIII/template/myTemplate.html")
     plt = Template(doc_externo.read())
     
     doc_externo.close()
 
-    #ctx=Context({"nombre_persona":nombre, "apellido_persona": apellido, "momento_actual": ahora}) #Diccionario donde se guadar los nombres
-    ctx=Context({"nombre_persona":p1.nombre, "apellido_persona": p1.apellido, "momento_actual": ahora}) #Diccionario donde se guadar los nombres
-
+    ctx=Context({"nombre_persona":p1.nombre, "apellido_persona": p1.apellido, "momento_actual": ahora, "temas":temasDelCurso}) #Diccionario donde se guadar los nombres
 
     documento=plt.render(ctx)
 

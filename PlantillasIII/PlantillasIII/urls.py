@@ -24,4 +24,3 @@ urlpatterns = [
     path('fecha/', dameFecha),
     path('edades/<int:edad>/<int:agno>',calculaEdad),
 ]
-
