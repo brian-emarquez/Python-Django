@@ -80,6 +80,8 @@ Aunque Django está fuertemente inspirado en la filosofía de desarrollo Modelo 
 -   Metodo
 -   Indice de lista
 
+## Instalador
+
 📦 [Install Django](https://www.djangoproject.com/) Intalador de Django.<br>
 📦 [Install Python](https://www.python.org/) Instalador de Python.<br>
 

@@ -56,8 +56,6 @@ def dameFecha(request):
 # Funcion que calcula la edad en fecha indeterminadas
 def calculaEdad(request, agno, edad):
     
-    #edadActual=18 
-
     periodo = agno-2020
     edadFutura = edad+periodo
     documento="<html><body><h2>En el año %s tendras %s años" %(agno, edadFutura)
