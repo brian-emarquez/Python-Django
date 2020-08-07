@@ -18,6 +18,7 @@ def saludo (request): # primera vista
     p1 = Persona("Brian", "Marquez")
 
     temasDelCurso = ["Plantillas", "Modelos", "Formularios", "Vistas", "despliegue"]
+    #temasDelCurso = []
 
     ahora=datetime.datetime.now()
 
