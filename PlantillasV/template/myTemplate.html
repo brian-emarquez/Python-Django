@@ -1,0 +1,52 @@
+<html>
+    <body>
+    <h2 style="color:red">
+        Uso de Templates IV
+    </h2>
+
+<!--Comentarios-->
+
+    {% comment %} 
+        NO TEMAS DISEÑAORES!
+        IGNORA ESTA PARTE
+    {% endcomment %}
+
+    {# Otra manera de comentar #}
+
+    {% if nombre_persona == 'Brian' %}
+    <p> El curso lo imparte el profesor </p>
+
+    {% else %}
+    <p> EEl curso lo imparte el profesor suplente </p>
+
+
+    {% endif %}
+
+        <!-- <p>El nombre del programador es: {{nombre_persona.upper}} {{apellido_persona.upper}} </p>-->
+        <p>El nombre del programador es: {{nombre_persona|upper}} {{apellido_persona.upper}}</p>
+        <P>Estamos viendo el tema de las plantillas a dia: {{momento_actual.day}} / {{momento_actual.month}}</P>
+        <p><strong>Temas del Curso: </strong></p>
+
+<!--Estructura de  control de flujo-->
+        <p>
+            <!--ul Y ol-->
+            <ol>
+            {% if temas %}
+                {% for elTema in temas %}
+
+                    <li>{{elTema}}</li>
+                    {# <li>{{elTema|first|lower}}</li> #}
+
+                {% endfor %}
+
+            {% else %}
+            <p> No hay elemento que buscar</p>
+
+            {% endif %}
+            </ol>
+
+        </p>
+    </boddy>
+</html>
+
+<!--{{momento_actual.day}} solo accede al dia -->
