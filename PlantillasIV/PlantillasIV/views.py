@@ -1,10 +1,12 @@
-# Plantillas III
-# Estructuras de control de flujo
+# Plantillas IV
+# Condicionales, filtros y cargadores de plantillas
+# Filosifia de django sueprar la parte logica del diseño
+# https://docs.djangoproject.com/en/3.1/ref/templates/builtins/
 
 from django.http import HttpResponse
 import datetime
 from django.template import Template, Context
-
+from django.template import loader
 
 class Persona(object):
 
@@ -18,19 +20,16 @@ def saludo (request): # primera vista
     p1 = Persona("Brian", "Marquez")
 
     temasDelCurso = ["Plantillas", "Modelos", "Formularios", "Vistas", "despliegue"]
-    #temasDelCurso = []
-
     ahora=datetime.datetime.now()
 
-    doc_externo = open("C:/Users/brian/Documents/Python-Django/PlantillasIV/template/myTemplate.html")
-    plt = Template(doc_externo.read())
-    
-    doc_externo.close()
+    # CARGADORES DE PLANTILLA
+    #doc_externo = open("C:/Users/brian/Documents/Python-Django/PlantillasIV/template/myTemplate.html")
+    #plt = Template(doc_externo.read())
+    #doc_externo.close()
 
-    ctx=Context({"nombre_persona":p1.nombre, "apellido_persona": p1.apellido, "momento_actual": ahora, "temas":temasDelCurso}) #Diccionario donde se guadar los nombres
+    doc_externo = loader.get_template('myTemplate.html')
 
-    documento=plt.render(ctx)
-
+    documento=doc_externo.render({"nombre_persona":p1.nombre, "apellido_persona": p1.apellido, "momento_actual": ahora, "temas":temasDelCurso}) 
     return HttpResponse(documento)
 
 def despedida (request):
