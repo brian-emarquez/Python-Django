@@ -1,5 +1,5 @@
 # Plantillas III
-# Diccionario
+# Estructuras de control de flujo
 
 from django.http import HttpResponse
 import datetime
