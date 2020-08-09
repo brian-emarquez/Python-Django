@@ -54,7 +54,7 @@ ROOT_URLCONF = 'PlantillasV.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['C:/Users/brian/Documents/Python-Django/PlantillasV/template'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
