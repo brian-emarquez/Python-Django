@@ -101,7 +101,7 @@ Con conectores ofrecidos por terceros:
 
 ## Proyecto vs Aplicacion
 
-![django](./Images/django.png)
+![django](./Images/proyectoApliacion.png)
 
 ## Spotify
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
