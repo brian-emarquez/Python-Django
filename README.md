@@ -99,6 +99,10 @@ Con conectores ofrecidos por terceros:
 - DB2
 - Firebird
 
+## Proyecto vs Aplicacion
+
+![django](./Images/django.png)
+
 ## Spotify
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
 
