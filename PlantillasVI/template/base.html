@@ -12,11 +12,12 @@
 <body>
     
     <h1 style="background-color: darkolivegreen; color:white; text-align: center;">Curso de Django</h1>
+    {% include "barra.html" %}
     <h3>Curso de programacion , ofimatica y deseño web</h3>
 
     {% block content %}{% endblock %}
 
-    <p style="background-color: darkolivegreen; color:white; text-align: center;">Curso Gratuito. gracias por su visita</p>
+    <p style="background-color: darkolivegreen; color:white; text-align: right;">Curso Gratuito. gracias por su visita</p>
 
 </body>
 </html>

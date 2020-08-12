@@ -15,7 +15,8 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from PlantillasVI.views import saludo, despedida, dameFecha, calculaEdad, cursoC
+from PlantillasVI.views import saludo, despedida, dameFecha, calculaEdad, cursoC, cursoCss
+
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -24,4 +25,5 @@ urlpatterns = [
     path('fecha/', dameFecha),
     path('edades/<int:edad>/<int:agno>',calculaEdad),
     path('cursoC/', cursoC),
+    path('cursoCss/', cursoCss),
 ]

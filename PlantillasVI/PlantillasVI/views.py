@@ -60,7 +60,9 @@ def cursoC(request):
     fecha_actual=datetime.datetime.now()
     return render(request, "CursoC.html",{"dameFecha":fecha_actual})
 
+def cursoCss(request):
 
-
+    fecha_actual=datetime.datetime.now()
+    return render(request, "CursoCss.html",{"dameFecha":fecha_actual})
 
 
