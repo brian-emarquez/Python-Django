@@ -85,6 +85,20 @@ Aunque Django está fuertemente inspirado en la filosofía de desarrollo Modelo 
 📦 [Install Django](https://www.djangoproject.com/) Intalador de Django.<br>
 📦 [Install Python](https://www.python.org/) Instalador de Python.<br>
 
+## Django BBDD
+
+Soportados Oficialmente:
+- SQLite3 : Gestor de BBDD por defecto
+- PostgreSQL: Gestor Recomendado
+- MySql
+- Oracle
+
+Con conectores ofrecidos por terceros:
+- SQL Server
+- SAP SQL
+- DB2
+- Firebird
+
 ## Spotify
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
 
