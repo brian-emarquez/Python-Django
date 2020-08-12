@@ -1,4 +1,4 @@
-"""PlantillasVI URL Configuration
+"""ParametrosEnURL URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/3.0/topics/http/urls/
@@ -15,13 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from PlantillasVI.views import saludo, despedida, dameFecha, calculaEdad, cursoC
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('saludo/', saludo),
-    path('nosvemos/', despedida),
-    path('fecha/', dameFecha),
-    path('edades/<int:edad>/<int:agno>',calculaEdad),
-    path('cursoC/', cursoC),
 ]
