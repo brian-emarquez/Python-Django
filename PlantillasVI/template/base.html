@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+
+        {% block title %} {% endblock %}
+
+    </title>
+</head>
+<body>
+    
+    <h1 style="background-color: darkolivegreen; color:white; text-align: center;">Curso de Django</h1>
+    {% include "barra.html" %}
+    <h3>Curso de programacion , ofimatica y deseño web</h3>
+
+    {% block content %}{% endblock %}
+
+    <p style="background-color: darkolivegreen; color:white; text-align: right;">Curso Gratuito. gracias por su visita</p>
+
+</body>
+</html>
