@@ -62,8 +62,7 @@ _Ejecutar Servidor Django_
 ```
 python manage.py runserver
 ```
-
--Crear Aplicacion - consola_
+_Crear Aplicacion - consola_
 ```
 python manage.py startapp nombreAplicacion
 ```
