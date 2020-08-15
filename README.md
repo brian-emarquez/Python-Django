@@ -71,7 +71,7 @@ python manage.py startapp nombreAplicacion
 _Check_
 
 ```
-python manage.py check gestionPedido
+python manage.py check nombreAplicacion
 ```
 ## Arquitectura
 
