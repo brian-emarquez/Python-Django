@@ -63,8 +63,15 @@ _Ejecutar Servidor Django_
 python manage.py runserver
 ```
 _Crear Aplicacion - consola_
+
 ```
 python manage.py startapp nombreAplicacion
+```
+
+_Check_
+
+```
+python manage.py check gestionPedido
 ```
 ## Arquitectura
 
