@@ -68,11 +68,18 @@ _Crear Aplicacion - consola_
 python manage.py startapp nombreAplicacion
 ```
 
-_Check_
+_Check de la Aplicacion_
 
 ```
 python manage.py check nombreAplicacion
 ```
+
+_Generar la Base de Datos_
+
+```
+python manage.py makemigrations
+```
+
 ## Arquitectura
 
 Aunque Django está fuertemente inspirado en la filosofía de desarrollo Modelo Vista Controlador, sus desarrolladores declaran públicamente que no se sienten especialmente atados a observar estrictamente ningún paradigma particular, y en cambio prefieren hacer "lo que les parece correcto". Como resultado, por ejemplo, lo que se llamaría "controlador" en un "verdadero" framework MVC se llama en Django "vista", y lo que se llamaría "vista" se llama "plantilla". [WIKIPEDIA](https://es.wikipedia.org/wiki/Django_(framework)).<br>
