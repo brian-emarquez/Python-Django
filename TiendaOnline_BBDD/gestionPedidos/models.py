@@ -19,7 +19,7 @@ class Pedidos(models.Model):
     nombre=models.ImageField()
     fecha=models.DateField()
     entregado=models.BooleanField()
-    
+
 
 
 
