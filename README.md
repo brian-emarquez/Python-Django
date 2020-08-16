@@ -83,7 +83,7 @@ python manage.py makemigrations
 _Generar Codigo SQL_
 
 ```
-python manage.py sqlmigrate gestionPedido 000n
+python manage.py sqlmigrate nobreAplicacion 000n
 ```
 
 ## Arquitectura
