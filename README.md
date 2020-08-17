@@ -51,12 +51,6 @@ _Primer Proyecto_
 django-admin startproject PrimerProyecto
 ```
 
-_Migrate_
-
-```
-python manage.py migrate
-```
-
 _Ejecutar Servidor Django_
 
 ```
@@ -84,6 +78,11 @@ _Generar Codigo SQL_
 
 ```
 python manage.py sqlmigrate nobreAplicacion 000n
+```
+_Migrate_
+
+```
+python manage.py migrate
 ```
 
 ## Arquitectura
