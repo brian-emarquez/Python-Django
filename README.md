@@ -45,7 +45,7 @@ _Version de Django_
 import django | django.VERSION
 ```
 
-_Primer Proyecto_
+_Primer Projecto_
 
 ```
 django-admin startproject PrimerProyecto
