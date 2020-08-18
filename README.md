@@ -96,7 +96,6 @@ python manage.py shell
 from gestionPedido.models import Articulos
 art=Articulos(nombre='mesa', seccion='decoracion', precio=50)
 art.save() 
-
 ```
 
 ## Arquitectura
