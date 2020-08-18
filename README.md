@@ -90,7 +90,14 @@ _Shell_
 ```
 python manage.py shell
 ```
-## Ingreso de datos BBDD
+## Ingreso de datos BBDD - Consola
+
+```
+from gestionPedido.models import Articulos
+art=Articulos(nombre='mesa', seccion='decoracion', precio=50)
+art.save() 
+```
+## Actualizar datos BBDD - Consola
 
 ```
 from gestionPedido.models import Articulos
