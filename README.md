@@ -77,7 +77,7 @@ python manage.py makemigrations
 _Generar Codigo SQL_
 
 ```
-python manage.py sqlmigrate noMbreAplicacion 000n
+python manage.py sqlmigrate nombreAplicacion 000n
 ```
 _Migrate_
 
