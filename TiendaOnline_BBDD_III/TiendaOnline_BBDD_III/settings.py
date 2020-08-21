@@ -77,8 +77,8 @@ WSGI_APPLICATION = 'TiendaOnline_BBDD_III.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'articulosClientes',
-        'USER': 'postgres',
+        'NAME': 'articulosclientes',
+        'USER': 'briandb',
         'PASSWORD': 'briandb',
         'HOST': '127.0.0.1',
         'DATABASE_PORT': '5432',
