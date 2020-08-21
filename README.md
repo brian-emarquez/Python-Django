@@ -154,7 +154,7 @@ Con conectores ofrecidos por terceros:
 ## SQL
 
 ```
-- Renombrar DATA BASE
+- Renombrar Database
 Alter database nombredatabase rename to nombreactualizado;
 ```
 ## Proyecto vs Aplicacion
