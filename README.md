@@ -112,7 +112,6 @@ art.save
 from nombreAplicacion.models import nombreTabla
 variableborrar=nombeTabla.objects.get(id=3) 
 variableborrar.delete()
-
 ```
 
 ## Arquitectura
