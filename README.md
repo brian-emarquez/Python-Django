@@ -90,19 +90,29 @@ _Shell_
 ```
 python manage.py shell
 ```
-## Ingreso de datos BBDD - Consola
+## Insertar datos BBDD - Consola
 
 ```
-from gestionPedido.models import Articulos
-art=Articulos(nombre='mesa', seccion='decoracion', precio=50)
-art.save() 
+from nombreAplicacion.models import nombreTabla
+art=nombreTabla(inten1='nombre', iten2='nombre', iten3=numero)
+art.save()
+#art2= nombreTabla.objects.create(iten1="nombre", iten2="campo", iten3=numero)   
 ```
 ## Actualizar datos BBDD - Consola
 
 ```
-from gestionPedido.models import Articulos
-art=Articulos(nombre='mesa', seccion='decoracion', precio=50)
-art.save() 
+from nombreAplicacion.models import nombreTabla
+art.precio=100 
+art.save
+```
+
+## borrar datos BBDD - Consola
+
+```
+from nombreAplicacion.models import nombreTabla
+variableborrar=nombeTabla.objects.get(id=3) 
+variableborrar.delete()
+
 ```
 
 ## Arquitectura
