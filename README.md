@@ -48,7 +48,7 @@ import django | django.VERSION
 _Primer Projecto_
 
 ```
-django-admin startproject PrimerProyecto
+django-admin startproject nombreProyecto
 ```
 
 _Ejecutar Servidor Django_
@@ -89,6 +89,12 @@ _Shell_
 
 ```
 python manage.py shell
+```
+
+_Driver para PostgreSQL_
+
+```
+pip install psycopg2
 ```
 ## Insertar datos BBDD - Consola
 

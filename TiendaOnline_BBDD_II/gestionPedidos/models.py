@@ -2,10 +2,10 @@ from django.db import models
 
 # Create your models here.
 
+# TiendaOnline_BBDD_II
 # Creacion de Tablas
 # Insertar
 # Actualizar
-
 
 class Clientes(models.Model):
     nombre=models.CharField(max_length=30)
