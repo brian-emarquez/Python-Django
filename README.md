@@ -150,6 +150,13 @@ Con conectores ofrecidos por terceros:
 - DB2
 - Firebird
 
+
+## SQL
+
+```
+_Renombrar DATA BASE_
+Alter database nombredatabase rename to nombreactualizado;
+```
 ## Proyecto vs Aplicacion
 
 ![django](./Images/proyectoApliacion.png)
