@@ -97,6 +97,13 @@ _Driver para PostgreSQL_
 ```
 pip install psycopg2
 ```
+
+## Crear Super Usuario
+
+```
+python manage.py createsuperuser
+```
+
 ## Insertar datos BBDD - Consola
 
 ```
