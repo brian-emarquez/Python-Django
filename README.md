@@ -103,7 +103,11 @@ pip install psycopg2
 ```
 python manage.py createsuperuser
 ```
+## Conector Mysql/MariaDb 
 
+```
+pip install mysqlclient
+```
 ## Insertar datos BBDD - Consola
 
 ```
