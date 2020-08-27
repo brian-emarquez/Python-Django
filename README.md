@@ -108,6 +108,20 @@ python manage.py createsuperuser
 ```
 pip install mysqlclient
 ```
+
+```
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'articulosclientes',
+        'USER': 'briandb',
+        'PASSWORD': 'briandb',
+        'HOST': '127.0.0.1',
+        'PORT': 3307,
+    }
+}
+```
+
 ## Insertar datos BBDD - Consola
 
 ```
