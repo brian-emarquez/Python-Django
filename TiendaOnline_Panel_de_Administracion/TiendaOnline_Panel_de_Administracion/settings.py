@@ -74,14 +74,25 @@ WSGI_APPLICATION = 'TiendaOnline_Panel_de_Administracion.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
+
+#DATABASES = {
+#    'default': {
+#        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+#        'NAME': 'articulosclientes',
+#        'USER': 'briandb',
+#        'PASSWORD': 'briandb',
+#        'HOST': '127.0.0.1',
+#        'DATABASE_POR
+#}
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'ENGINE': 'django.db.backends.mysql',
         'NAME': 'articulosclientes',
         'USER': 'briandb',
         'PASSWORD': 'briandb',
         'HOST': '127.0.0.1',
-        'DATABASE_PORT': '5432',
+        'PORT': 3307,
     }
 }
 
