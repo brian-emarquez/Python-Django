@@ -139,7 +139,7 @@ art.precio=100
 art.save
 ```
 
-## borrar datos BBDD - Consola
+## Borrar datos BBDD - Consola
 
 ```
 from nombreAplicacion.models import nombreTabla
