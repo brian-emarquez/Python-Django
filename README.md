@@ -183,7 +183,6 @@ Con conectores ofrecidos por terceros:
 - DB2
 - Firebird
 
-
 ## SQL
 
 ```
