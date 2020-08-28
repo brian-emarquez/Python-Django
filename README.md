@@ -37,7 +37,8 @@ Un Framework es un marco de trabajo formado por un conjunto de herramientas, lib
 _Install Django - 3.0.8_
 
 ```
-pip install Django==3.0.8
+https://www.djangoproject.com/download/
+pip install Django==3.1
 ```
 _Version de Django_
 
@@ -105,8 +106,7 @@ python manage.py createsuperuser
 ```
 ## Conector Mysql/MariaDb 
 
-```
-pip install mysqlclient
+``PIP
 ```
 
 ```
