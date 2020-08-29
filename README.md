@@ -111,7 +111,7 @@ python manage.py createsuperuser
 ## Conector Mysql/MariaDb 
 
 ```
-pip  install pyodbc
+pip install mysqlclient
 ```
 
 ```
