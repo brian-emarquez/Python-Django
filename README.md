@@ -38,7 +38,8 @@ _Install Django - 3.0.8_
 
 ```
 pip install Django==3.1
-https://www.djangoproject.com/download/
+[Pagina Web](https://www.djangoproject.com/download/)
+
 ```
 _Actualiza Django_
 ```
