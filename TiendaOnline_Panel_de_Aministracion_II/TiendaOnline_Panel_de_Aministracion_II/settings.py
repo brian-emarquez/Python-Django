@@ -74,13 +74,18 @@ WSGI_APPLICATION = 'TiendaOnline_Panel_de_Aministracion_II.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/2.1/ref/settings/#databases
 
+# CONECTAR CON MYSQL/MARIADB
+#pip install --upgrade django==1.6.5
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'articulosclientes',
+        'USER': 'briandb',
+        'PASSWORD': 'briandb',
+        'HOST': '127.0.0.1',
+        'PORT': 3307,
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/2.1/ref/settings/#auth-password-validators
