@@ -128,6 +128,11 @@ DATABASES = {
 }
 ```
 ## Conector SQLSERVER
+
+```
+pip install pyodbc
+```
+
 _Conectar Python Django con SQL Server_
 
 ```
