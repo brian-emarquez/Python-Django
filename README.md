@@ -129,6 +129,11 @@ DATABASES = {
 ```
 ## Conector SQLSERVER
 
+_Driver_
+```
+https://www.microsoft.com/es-es/download/details.aspx?id=56567
+```
+
 ```
 pip install pyodbc
 ```
