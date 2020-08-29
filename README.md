@@ -95,19 +95,36 @@ _Shell_
 ```
 python manage.py shell
 ```
-## Drivers
-
-_Driver para PostgreSQL_
-
-```
-pip install psycopg2
-```
 
 ## Crear Super Usuario
 
 ```
 python manage.py createsuperuser
 ```
+
+
+## Conector PostgreSQL
+_Driver_
+```
+pip install psycopg2
+```
+
+_Libreria_
+```
+pip install mysqlclient
+```
+```
+#DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'articulosclientes',
+        'USER': 'briandb',
+        'PASSWORD': 'briandb',
+        'HOST': '127.0.0.1',
+        'DATABASE_POR
+}
+```
+
 ## Conector Mysql/MariaDb 
 
 ```
@@ -133,7 +150,7 @@ _Driver_
 ```
 https://www.microsoft.com/es-es/download/details.aspx?id=56567
 ```
-
+_Libreria_
 ```
 pip install pyodbc
 ```
