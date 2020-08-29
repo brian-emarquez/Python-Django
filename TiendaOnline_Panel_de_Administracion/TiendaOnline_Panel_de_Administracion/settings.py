@@ -74,7 +74,7 @@ WSGI_APPLICATION = 'TiendaOnline_Panel_de_Administracion.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
-
+# CONECTAR CON POSTGRESQL
 #DATABASES = {
 #    'default': {
 #        'ENGINE': 'django.db.backends.postgresql_psycopg2',
@@ -85,14 +85,32 @@ WSGI_APPLICATION = 'TiendaOnline_Panel_de_Administracion.wsgi.application'
 #        'DATABASE_POR
 #}
 
+# CONECTAR CON MYSQL/MARIADB
+#pip install --upgrade django==1.6.5
+#DATABASES = {
+#    'default': {
+#        'ENGINE': 'django.db.backends.mysql',
+#        'NAME': 'articulosclientes',
+#        'USER': 'briandb',
+#        'PASSWORD': 'briandb',
+#        'HOST': '127.0.0.1',
+#        'PORT': 3307,
+#    }
+#}
+
+# CONECTAR CON SQLSERVER
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'articulosclientes',
-        'USER': 'briandb',
-        'PASSWORD': 'briandb',
+        'ENGINE': 'sql_server.pyodbc',
+        'NAME': 'db_almacen',
+        'USER': 'usr_almacen',
+        'PASSWORD': 'mipassword',
         'HOST': '127.0.0.1',
-        'PORT': 3307,
+        'PORT': '1433',
+
+        'OPTIONS': {
+            'driver': 'ODBC Driver 13 for SQL Server',
+        },
     }
 }
 

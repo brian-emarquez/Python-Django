@@ -40,7 +40,7 @@ _Install Django - 3.0.8_
 pip install Django==3.1
 https://www.djangoproject.com/download/
 ```
-_Actualiza Django
+_Actualiza Django_
 ```
 pip install --upgrade django==x.x.x
 ```
@@ -123,6 +123,25 @@ DATABASES = {
         'PASSWORD': 'briandb',
         'HOST': '127.0.0.1',
         'PORT': 3307,
+    }
+}
+```
+## Conector SQLSERVER
+_Conectar Python Django con SQL Server_
+
+```
+DATABASES = {
+    'default': {
+        'ENGINE': 'sql_server.pyodbc',
+        'NAME': 'db_almacen',
+        'USER': 'usr_almacen',
+        'PASSWORD': 'mipassword',
+        'HOST': '127.0.0.1',
+        'PORT': '1433',
+
+        'OPTIONS': {
+            'driver': 'ODBC Driver 13 for SQL Server',
+        },
     }
 }
 ```
