@@ -92,7 +92,7 @@ WSGI_APPLICATION = 'TiendaOnline_Panel_de_Administracion.wsgi.application'
 #pip install --upgrade django==1.6.5
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
+        'ENGINE': 'django.db.backends.mysql',+
         'NAME': 'articulosclientes',
         'USER': 'briandb',
         'PASSWORD': 'briandb',
