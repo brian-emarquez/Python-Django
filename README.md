@@ -102,7 +102,6 @@ python manage.py shell
 python manage.py createsuperuser
 ```
 
-
 ## Conector PostgreSQL
 _Driver_
 ```
