@@ -111,10 +111,11 @@ python manage.py createsuperuser
 ## Conector Mysql/MariaDb 
 
 ```
-pip install mysqlclient
+pip  install pyodbc
 ```
 
 ```
+_Conectar Python Django con Mysql/MariaDb_
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
