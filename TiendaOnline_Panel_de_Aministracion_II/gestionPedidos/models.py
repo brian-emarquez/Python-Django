@@ -4,9 +4,14 @@ from django.db import models
 
 class Clientes(models.Model):
     nombre=models.CharField(max_length=30)
-    direccion=models.CharField(max_length=50)
+    direccion=models.CharField(max_length=50, verbose_name="La direccion") # Personalisa como se vera el Mensage
     email=models.EmailField(blank=True, null=True) # campo no requerido
     tfno=models.CharField(max_length=7)
+
+    # Show names
+    def __str__(self):
+        return self.nombre # mostar el nombre en el panel
+
 
 class Articulos(models.Model):
     nombre=models.CharField(max_length=30)
