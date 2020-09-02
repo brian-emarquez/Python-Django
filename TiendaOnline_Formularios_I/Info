@@ -1,7 +1,9 @@
 TiendaOnline_Panel_Formularios_I
 Se Incluyeron lo siguintes Archivos:
 
-- 
+- Trabajo con TiendaOnline_Panel_Formularios_I
+. creacion de formularios(manual) y enio de datos al servidor
+    . Objetos HTTPRequest
 
 - user name db: esconprimir base de datos
 mariadb
