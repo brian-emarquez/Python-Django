@@ -38,11 +38,11 @@ _Install Django_
 
 [www.djangoproject.com](https://www.djangoproject.com/download/)
 ```
-pip install Django==3.1
+pip install Django==X.X.X
 ```
 _Actualiza Django_
 ```
-pip install --upgrade django==x.x.x
+pip install --upgrade django==X.X.X
 ```
 _Version de Django_
 
