@@ -113,7 +113,7 @@ _Libreria_
 pip install mysqlclient
 ```
 ```
-#DATABASES = {
+DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'articulosclientes',

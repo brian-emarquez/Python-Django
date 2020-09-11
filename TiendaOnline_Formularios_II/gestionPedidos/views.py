@@ -9,5 +9,15 @@ def busqueda_productos(request):
 
 def buscar(request):
 
-    mensaje="Articulos buscado: %r" %request.GET["prd"]
+    if request.GET["prd"]:
+        #mensaje="Articulos buscado: %r" %request.GET["prd"]
+        producto = request.GET["prd"]
+
+        articulos=articulos.objects.filter(nombre__icontains=producto)# consultar con la base de datos
+
+        return render(request, "resultado_busqueda.html", {"articulos": articulos, "query":producto})
+        
+    else:
+        mensaje="NO HAS INTRODUCIDO NADA"
+
     return HttpResponse(mensaje)
