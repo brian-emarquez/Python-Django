@@ -2,4 +2,5 @@ TiendaOnline_Panel_EnvioEmail
 Se Incluyeron lo siguintes Archivos:
 
 - Envio de mail desde django - Uso de liberia core.mail
+https://blog.mailtrap.io/django-send-email/
 
