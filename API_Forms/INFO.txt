@@ -1,0 +1,9 @@
+API forms
+Se Incluyeron lo siguintes Archivos:
+
+- Envio de mail desde django - Uso de liberia core.mail
+https://blog.mailtrap.io/django-send-email/
+
+* user name db: desconprimir base de datos
+mariadb
+23Otr654-..
