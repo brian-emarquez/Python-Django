@@ -259,6 +259,16 @@ Con conectores ofrecidos por terceros:
 - Renombrar Database
 Alter database nombredatabase rename to nombreactualizado;
 ```
+
+## API FORM
+
+```
+from nombreAplicacion.forms import FormularioContacto 
+miformulario = FormularioContacto()
+```
+_Mostrar Formulario_
+print(miformulario)
+
 ## Proyecto vs Aplicacion
 
 ![django](./Images/proyectoApliacion.png)
