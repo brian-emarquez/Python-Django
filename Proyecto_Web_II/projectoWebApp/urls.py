@@ -4,10 +4,10 @@ from projectoWebApp import views
 
 urlpatterns = [
 
-    path('', views.home, name="Home"),
-    path('servivios', views.servivios, name="Servivios"),
-    path('tienda', views.tienda, name="Tienda"),
-    path('blog', views.blog, name="Blog"),
-    path('contacto', views.contacto, name="Contacto"),
+    path('', views.home, name="home"),
+    path('servicios', views.servicios, name="servicios"),
+    path('tienda', views.tienda, name="tienda"),
+    path('blog', views.blog, name="blog"),
+    path('contacto', views.contacto, name="contacto"),
 
 ]
