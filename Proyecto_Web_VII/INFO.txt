@@ -1,0 +1,18 @@
+Projecto Web VII
+
+#--------------------------------------#
+ - Creacon de otra aplicacion "Servicios"
+
+ - Registro de APP  en el panel de administraicion
+ 
+ 
+
+
+
+
+
+ - Formato a sitio web con Bootstrap:
+    . framework CSS
+    https://getbootstrap.com/
+    
+  
