@@ -1,0 +1,11 @@
+Projecto Web IX
+
+#--------------------------------------#
+ - Creacion de imagenes
+
+ 
+ - Formato a sitio web con Bootstrap:
+    . framework CSS
+    https://getbootstrap.com/
+    
+  
