@@ -1,7 +1,9 @@
 Projecto Web IV
 
 #--------------------------------------#
- -
+ - Creacon de otra aplicacion "Servicios"
+
+ - Mapeo OMR - Objetos relacionales
  
  - Formato a sitio web con Bootstrap:
     . framework CSS
