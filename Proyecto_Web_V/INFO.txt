@@ -5,5 +5,5 @@ Projecto Web IV
     . framework CSS
     https://getbootstrap.com/
     
- - Creacion de plantillas (templates)
- - Herencia de plantillas y estructiras del sitio
+ - Completar resto de paginas con herencia de plantillas
+  
