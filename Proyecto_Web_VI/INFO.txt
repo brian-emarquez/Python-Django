@@ -1,0 +1,9 @@
+Projecto Web VI
+
+#--------------------------------------#
+ - Formato a sitio web con Bootstrap:
+    . framework CSS
+    https://getbootstrap.com/
+    
+ - Completar resto de paginas con herencia de plantillas
+  
