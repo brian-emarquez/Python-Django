@@ -1,5 +1,5 @@
 
-<h2 align="center">Learn Django &nbsp;:heart:&nbsp;</h2>
+<h2 align="center">🦄 Learn Django &nbsp;:heart:&nbsp;</h2>
 
 ![django](./Images/django.png)
 
