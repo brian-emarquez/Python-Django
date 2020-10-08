@@ -7,4 +7,4 @@ def servicios(request):
 
     # importar todos lo servicios
     servicios=Servicio.objects.all()
-    return render(request, "proyectoWebApp/servicios.html", {"servicios":servicios})
+    return render(request, "servicios/servicios.html", {"servicios":servicios})
