@@ -1,7 +1,7 @@
 Projecto Web VIII
 
 #--------------------------------------#
- - Creacion de imagenes
+ - Mostrando Servicios
 
  
  - Formato a sitio web con Bootstrap:
