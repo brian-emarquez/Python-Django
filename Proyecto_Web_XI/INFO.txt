@@ -1,7 +1,7 @@
 Projecto Web XI
 
 #--------------------------------------#
- - Configurando la App Servicios
+ - Terminando la App Sevicios
 
  
  - Formato a sitio web con Bootstrap:
