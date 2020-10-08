@@ -1,5 +1,5 @@
 """
-ASGI config for Proyecto_Web_VI project.
+ASGI config for Proyecto_Web_IX project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
