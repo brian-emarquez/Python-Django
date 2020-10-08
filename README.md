@@ -127,7 +127,7 @@ DATABASES = {
 ## Conector Mysql/MariaDb 
 
 ```
-pip install mysqlclient
+pip3 install mariadb
 ```
 
 ```
