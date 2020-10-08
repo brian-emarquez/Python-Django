@@ -1,7 +1,7 @@
-Projecto Web VIII
+Projecto Web X
 
 #--------------------------------------#
- - Mostrando Servicios
+ - Configurando la App Servicios
 
  
  - Formato a sitio web con Bootstrap:
