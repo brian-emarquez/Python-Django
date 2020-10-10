@@ -20,7 +20,7 @@ Un Framework es un marco de trabajo formado por un conjunto de herramientas, lib
 - Hay codigos que podemos reutilizar de un sitio web a otro, Django tambien nos permite esta reutilizacion de forma sencilla.
 
 ##  Modelo Vista Controlador (Model Template View)
-![django](./Images/MTV1.png)
+![django](./Images/MTV1.jpg)
 
 ## Características
 
