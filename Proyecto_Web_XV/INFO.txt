@@ -1,10 +1,8 @@
   
-Projecto Web XIV
+Projecto Web XV
 
 #--------------------------------------#
-- Corregir Olvidos
--  Agregar autor de cada post
-- Agregar categorias de post publicados
+- Funcionalidad Categorias
 
  
  - Formato a sitio web con Bootstrap:
