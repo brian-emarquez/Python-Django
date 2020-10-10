@@ -2,7 +2,9 @@
 Projecto Web XIV
 
 #--------------------------------------#
- - App Blog
+- Corregir Olvidos
+-  Agregar autor de cada post
+- Agregar categorias de post publicados
 
  
  - Formato a sitio web con Bootstrap:
