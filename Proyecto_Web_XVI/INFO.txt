@@ -1,8 +1,11 @@
   
-Projecto Web XV
+Projecto Web XVI
 
 #--------------------------------------#
-- Funcionalidad Categorias
+- APP Blog
+
+   - Fucnionalidad a categorias
+      - Links a categorias
 
  
  - Formato a sitio web con Bootstrap:

@@ -34,8 +34,9 @@
 
         {% for post in posts %}
           {% for categoria in post.categorias.all%}
+            <!-- Creal los vinvulos -->
+            <a href="{% url 'categoria' categoria.id %}" class="linksCategoria"> {{categoria.nombre}} </a> &nbsp;&nbsp;&nbsp;
 
-            {{categoria.nombre}} &nbsp;
           {% endfor %}
         {% endfor %}
 
