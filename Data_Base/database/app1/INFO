@@ -1,0 +1,6 @@
+* Conociendo la Base de DATOS
+    - db.sqlite3
+
+* Exportar Requerimientos
+    - pip freeze > requerimentos.txt
+
