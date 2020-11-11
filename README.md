@@ -131,7 +131,6 @@ pip3 install mariadb
 ```
 
 ```
-_Conectar Python Django con Mysql/MariaDb_
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
