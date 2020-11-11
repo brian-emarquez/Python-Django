@@ -236,6 +236,7 @@ Aunque Django está fuertemente inspirado en la filosofía de desarrollo Modelo 
 ## Instalador
 
 📦 [Install Django](https://www.djangoproject.com/) Intalador de Django.<br>
+📦 [Install PyCham](https://www.jetbrains.com/es-es/pycharm/download/#section=windows) Intalador de PyCham.<br>
 📦 [Install Python](https://www.python.org/) Instalador de Python.<br>
 
 ## Django BBDD
