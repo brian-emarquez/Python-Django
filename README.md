@@ -131,6 +131,10 @@ pip3 install mariadb
 ```
 
 ```
+pip install mysqlclient
+```
+
+```
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
