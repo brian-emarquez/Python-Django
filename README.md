@@ -103,14 +103,15 @@ python manage.py createsuperuser
 ```
 
 ## Conector PostgreSQL
+
 _Driver_
 ```
-pip install psycopg2
+📦 pip install psycopg2
 ```
 
 _Libreria_
 ```
-pip install mysqlclient
+📦 pip install mysqlclient
 ```
 ```
 DATABASES = {
@@ -127,11 +128,11 @@ DATABASES = {
 ## Conector Mysql/MariaDb 
 
 ```
-pip3 install mariadb
+📦 pip3 install mariadb
 ```
 
 ```
-pip install mysqlclient
+📦 pip install mysqlclient
 ```
 
 ```
@@ -151,10 +152,12 @@ DATABASES = {
 _Driver_
 ```
 https://www.microsoft.com/es-es/download/details.aspx?id=56567
+
 ```
 _Libreria_
+
 ```
-pip install pyodbc
+📦 pip install pyodbc
 ```
 
 _Conectar Python Django con SQL Server_
