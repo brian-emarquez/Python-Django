@@ -273,6 +273,14 @@ print(miformulario)
 
 ![django](./Images/proyectoApliacion.png)
 
+## Configuración Entorno Pycharm
+
+![django](./Images/conf.png)
+
+- Carpeta
+    -   app
+    -   env
+
 ## Spotify
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
 
