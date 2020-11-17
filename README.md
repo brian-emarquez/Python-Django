@@ -96,6 +96,12 @@ _Shell_
 python manage.py shell
 ```
 
+_mysqlclient_
+
+```
+pip install mysqlclient
+```
+
 ## Crear Super Usuario
 
 ```
