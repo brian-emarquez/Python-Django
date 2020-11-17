@@ -286,13 +286,31 @@ print(miformulario)
 
 ![django](./Images/proyectoApliacion.png)
 
+# Pycharm
+
+_Pagina Principal_
+
+[JETBRAINS](https://www.jetbrains.com/es-es/pycharm/).<br>
+
+![django](./Images/pycharm.png)
+
 ## Configuración Entorno Pycharm
+
+_Pantalla de creacion de Proyecto_
 
 ![django](./Images/conf.png)
 
 - Carpeta
-    -   app
-    -   env
+    -   app : Aqui se coloca todos lo archivos
+    -   env : Se coloca la version Python
+
+## Models 
+
+Un modelo es la fuente única y definitiva de información sobre sus datos. Contiene los campos y comportamientos esenciales de los datos que está almacenando. Generalmente, cada modelo se asigna a una sola tabla de base de datos.
+[DOCS.DJANGOPROJECT](https://docs.djangoproject.com/en/3.1/topics/db/models/).<br>
+
+![django](./Images/models.png)
+
 
 ## Spotify
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
