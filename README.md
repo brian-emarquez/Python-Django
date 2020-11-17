@@ -38,74 +38,74 @@ _Install Django_
 
 [www.djangoproject.com](https://www.djangoproject.com/download/)
 ```
-pip install Django==X.X.X
+📦 pip install Django==X.X.X
 ```
 _Actualiza Django_
 ```
-pip install --upgrade django==X.X.X
+📦 pip install --upgrade django==X.X.X
 ```
 _Version de Django_
 
 ```
-import django | django.VERSION
+📦 import django | django.VERSION
 ```
 
 _Primer Projecto_
 
 ```
-django-admin startproject nombreProyecto
+📦 django-admin startproject nombreProyecto
 ```
 
 _Ejecutar Servidor Django_
 
 ```
-python manage.py runserver
+📦 python manage.py runserver
 ```
 _Crear Aplicacion_
 
 ```
-python manage.py startapp nombreAplicacion
+📦 python manage.py startapp nombreAplicacion
 ```
 
 _Check de la Aplicacion_
 
 ```
-python manage.py check nombreAplicacion
+📦 python manage.py check nombreAplicacion
 ```
 
 _Generar la Base de Datos_
 
 ```
-python manage.py makemigrations
+📦 python manage.py makemigrations
 ```
 
 _Generar Codigo SQL_
 
 ```
-python manage.py sqlmigrate nombreAplicacion 000n
+📦 python manage.py sqlmigrate nombreAplicacion 000n
 ```
 _Migrate_
 
 ```
-python manage.py migrate
+📦 python manage.py migrate
 ```
 
 _Shell_
 
 ```
-python manage.py shell
+📦 python manage.py shell
 ```
 
 _mysqlclient_
 
 ```
-pip install mysqlclient
+📦 pip install mysqlclient
 ```
 
 ## Crear Super Usuario
 
 ```
-python manage.py createsuperuser
+📦 python manage.py createsuperuser
 ```
 
 ## Conector PostgreSQL
@@ -288,9 +288,7 @@ print(miformulario)
 
 # Pycharm
 
-_Pagina Principal_
-
-[JETBRAINS](https://www.jetbrains.com/es-es/pycharm/).<br>
+_Pagina Principal_[JETBRAINS](https://www.jetbrains.com/es-es/pycharm/).<br>
 
 ![django](./Images/pycharm.png)
 
