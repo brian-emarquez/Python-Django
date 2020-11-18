@@ -300,7 +300,7 @@ _Pantalla de creacion de Proyecto_
 
 - Carpeta
     -   app : Aqui se coloca todos lo archivos
-    -   env : Se coloca la version Python
+    -   env : Aqui Se coloca la version Python
 
 ## Models 
 
@@ -309,6 +309,10 @@ Un modelo es la fuente única y definitiva de información sobre sus datos. Cont
 
 ![django](./Images/models.png)
 
+
+## ORM
+
+Un ORM es un modelo de programación que permite mapear las estructuras de una base de datos relacional (SQL Server, Oracle, MySQL, etc.), en adelante RDBMS (Relational Database Management System), sobre una estructura lógica de entidades con el objeto de simplificar y acelerar el desarrollo de nuestras aplicaciones.S
 
 ## Spotify
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
