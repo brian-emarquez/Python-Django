@@ -314,7 +314,7 @@ Un modelo es la fuente única y definitiva de información sobre sus datos. Cont
 
 Un ORM es un modelo de programación que permite mapear las estructuras de una base de datos relacional (SQL Server, Oracle, MySQL, etc.), en adelante RDBMS (Relational Database Management System), sobre una estructura lógica de entidades con el objeto de simplificar y acelerar el desarrollo de nuestras aplicaciones.S
 
-## Spotify
+## Spotify Django
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
 
 ![python](./Images/django2.jpg)
