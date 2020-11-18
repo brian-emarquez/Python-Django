@@ -288,7 +288,7 @@ print(miformulario)
 
 # Pycharm
 
-_Pagina Principal_[JETBRAINS](https://www.jetbrains.com/es-es/pycharm/).<br>
+_Pagina Principal_ [JETBRAINS](https://www.jetbrains.com/es-es/pycharm/).<br>
 
 ![django](./Images/pycharm.png)
 
