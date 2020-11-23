@@ -1,6 +1,6 @@
 # ORM
 
-## HACER UNA INSERIONN 
+## HACER UNA INSERION 
 ```
 t = Type()
 # #t = Type(name = "Test 1")
