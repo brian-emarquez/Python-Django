@@ -2,26 +2,23 @@ from ORM_II.wsgi import *# importamos lo modulos de la carpeta wsgi.py
 
 from core.erp.models import Type
 
-# Listar
+# LISTAR
 
-#*********** HACER UNA CONSULTA ***********
-query = Type.objects.all()
-print(query) # muestra lo registro de la tabla Type
+# EJECUTAR FILTROS - AYUDA EN LA BUSQUEDA - LIKE SQL
+# obj = Type.objects.filter(name__contains='pre') #BUusca la palabrs que empiesa a Pre
+obj = Type.objects.filter(name__endswith='a') #Busca la palabra que termina con a
 
-#********* HACER UNA INSERIONN ***********
-#t = Type()
-# #t = Type(name = "Test 1")
-# t.name = "Test 1"
-# t.save()
+print(obj)
 
-#********* HACER UNA MODIFICACION ***********
+# Ver el SQL DE LA CONSULTA
+obj1 = Type.objects.filter(name__contains='terry').query
+print(obj1)
 
-t = Type.objects.get(id=3) # Recuperacion de Objeto
-#print(t.name)
-t.name = "Test 2"
-t.save()
+# Excluir
+obj2= Type.objects.filter(name__icontains='a').exclude(id=5) # no toma el cuenta el numero 5
+print(obj2)
 
-#********* HACER UNA ELIMINACION ***********
-
-t = Type.objects.get(id=3) # Recuperacion de Objeto
-t.delete()
+# Interando
+# Excluir
+for i in Type.objects.filter(name__icontains='a').exclude(id=5): # no toma el cuenta el numero 5
+    print(i.name)

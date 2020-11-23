@@ -306,7 +306,10 @@ CREATE TABLE IF NOT EXISTS `erp_type` (
 /*!40000 ALTER TABLE `erp_type` DISABLE KEYS */;
 INSERT INTO `erp_type` (`id`, `name`) VALUES
 	(1, 'Accionista'),
-	(2, 'presidente');
+	(2, 'presidente'),
+	(4, 'prueba'),
+	(5, 'vibra'),
+	(6, 'hola');
 /*!40000 ALTER TABLE `erp_type` ENABLE KEYS */;
 
 /*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;
