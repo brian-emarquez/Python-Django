@@ -1,9 +1,12 @@
   
-Projecto Web XVIi
+Projecto Web XVII
 
 #-----------------------------------------------------------------------------------------------------#
 
- 
+-  Creacion de Formularios
+
+   *  App Contacto
+   
  - Formato a sitio web con Bootstrap:
-    . framework CSS
+   * framework CSS
     https://getbootstrap.com/
