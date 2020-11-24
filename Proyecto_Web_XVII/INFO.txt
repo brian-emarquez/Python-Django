@@ -6,6 +6,7 @@ Projecto Web XVII
 -  Creacion de Formularios
 
    *  App Contacto
+   * forms - https://docs.djangoproject.com/en/3.1/topics/forms/https://docs.djangoproject.com/en/3.1/topics/forms/
    
  - Formato a sitio web con Bootstrap:
    * framework CSS
