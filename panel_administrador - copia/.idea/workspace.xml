@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe475110-e3f0-4978-83c0-7bb0478e1130" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Templates_I/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Templates_I/core/erp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Templates_I/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates_I/Templates_I/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates_I/Templates_I/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates_I/core/erp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates_I/core/erp/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +12,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -31,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -46,7 +50,7 @@
       <workItem from="1606322250595" duration="635000" />
       <workItem from="1606323595765" duration="327000" />
       <workItem from="1606324903437" duration="421000" />
-      <workItem from="1606330023763" duration="862000" />
+      <workItem from="1606330023763" duration="2712000" />
     </task>
     <servers />
   </component>
