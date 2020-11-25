@@ -1,3 +1,13 @@
-* ORM II
+* VIEWS
+- Modelo Vista controlador
 
-- Consultas mas avanzadas
+M = Modelo (Base de Datos)
+V = Vista
+C = Controlador (Funciones)
+
+
+- Modelo Vista Template
+
+M = Modelo (Base de Datos)
+V = Vista (Funciones)
+C = Templates (Pantallas)

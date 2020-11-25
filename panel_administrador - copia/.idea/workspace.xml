@@ -2,14 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe475110-e3f0-4978-83c0-7bb0478e1130" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Mi_primera_view/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mi_primera_view/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../panel_administrador/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../panel_administrador/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mi_primera_view/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mi_primera_view/core/erp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mi_primera_view/INFO" beforeDir="false" afterPath="$PROJECT_DIR$/../Mi_primera_view/INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mi_primera_view/Mi_primera_view/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Mi_primera_view/Mi_primera_view/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mi_primera_view/core/erp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Mi_primera_view/core/erp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mi_primera_view/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Mi_primera_view/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -24,6 +35,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\brian\Documents\Python-Django\Mi_primera_view\core\erp" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DjangoTestsConfigurationType">
@@ -199,7 +215,7 @@
       <workItem from="1606322250595" duration="635000" />
       <workItem from="1606323595765" duration="327000" />
       <workItem from="1606324903437" duration="421000" />
-      <workItem from="1606326099055" duration="1433000" />
+      <workItem from="1606326099055" duration="3665000" />
     </task>
     <servers />
   </component>
