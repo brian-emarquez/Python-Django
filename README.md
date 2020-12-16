@@ -119,7 +119,7 @@ _Libreria_
 ```
 📦 pip install mysqlclient
 ```
-```
+```python
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
@@ -141,7 +141,7 @@ DATABASES = {
 📦 pip install mysqlclient
 ```
 
-```
+```python
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
@@ -168,7 +168,7 @@ _Libreria_
 
 _Conectar Python Django con SQL Server_
 
-```
+```python
 DATABASES = {
     'default': {
         'ENGINE': 'sql_server.pyodbc',
@@ -187,7 +187,7 @@ DATABASES = {
 
 ## Insertar datos BBDD - Consola
 
-```
+```python
 from nombreAplicacion.models import nombreTabla
 art=nombreTabla(inten1='nombre', iten2='nombre', iten3=numero)
 art.save()
@@ -195,7 +195,7 @@ art.save()
 ```
 ## Actualizar datos BBDD - Consola
 
-```
+```python
 from nombreAplicacion.models import nombreTabla
 art.precio=100 
 art.save
@@ -203,7 +203,7 @@ art.save
 
 ## Borrar datos BBDD - Consola
 
-```
+```python
 from nombreAplicacion.models import nombreTabla
 variableborrar=nombeTabla.objects.get(id=3) 
 variableborrar.delete()
@@ -211,7 +211,7 @@ variableborrar.delete()
 ## Email
 _Incresar en el Archivo Setting_
 
-```
+```python
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST="smtp.gmail.com"
 EMAIL_USE_TLS=True
