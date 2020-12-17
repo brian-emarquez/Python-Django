@@ -1,27 +1,21 @@
 <!DOCTYPE html>
+{% load static %}
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Template</title>
+    <title>Bootstrap 4 Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{% static 'lib/bootstrap-4.4.1-dist/css/bootstrap.min.css' %}">
+    <script src="{% static 'lib/bootstrap-4.4.1-dist/js/jquery-3.4.1.slim.min.js' %}"></script>
+    <script src="{% static 'lib/bootstrap-4.4.1-dist/js/popper.min.js' %}"></script>
+    <script src="{% static 'lib/bootstrap-4.4.1-dist/js/bootstrap.min.js' %}"></script>
 </head>
 <body>
 
-<h1>
-    MI PRIMERA PAGINA WEB
-</h1>
+<div class="container">
+    <h1>My First Bootstrap Page</h1>
+    <p>This is some text.</p>
+</div>
 
-
-{% block content %}
-
-    <a href="{% url 'vista2' %}">click 2
-    <ul>
-        {% for category in categories %}
-        <li>{{category.id}} / {{category.name}}</li>
-        {% endfor %}
-    </ul>
-{% endblock %}
-
-
-<!--<p>{{name}}</p>-->
 </body>
 </html>
