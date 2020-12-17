@@ -2,9 +2,33 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Template</title>
 </head>
 <body>
-    <p>Hola esto es una plantilla II</p>
+
+<h1>
+    <!-- verifica si hay datos-->
+    <!--{% if categories %}
+        SI HAY DATOS
+    {% else %}
+        NO HAY DATOS
+    {% endif %}-->
+
+    MI PRIMERA PAGINA WEB
+</h1>
+
+
+{% block content %}
+
+    <a href="{% url 'vista2' %}">click 2
+    <ul>
+        {% for category in categories %}
+        <li>{{category.id}} / {{category.name}}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
+
+
+<!--<p>{{name}}</p>-->
 </body>
 </html>
