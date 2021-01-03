@@ -1,9 +1,9 @@
 
-<h2 align="center">🦄Framework Web - Learn Django &nbsp;:heart:&nbsp;</h2>
+<h2 align="center">🦄Framework Web - Learn Django</h2>
 
 ![django](./Images/django.png)
 
-## ¿Que es Django? 💻
+## ¿Que es Django? 
 
 Django es un framework de desarrollo web de código abierto, escrito en Python, que respeta el patrón de diseño conocido como MVC (Modelo–Vista–Controlador). Fue desarrollado en origen para gestionar varias páginas orientadas a noticias de la World Company de Lawrence, Kansas, y fue liberada al público bajo una licencia BSD en julio de 2005; el framework fue nombrado en alusión al guitarrista de jazz gitano Django Reinhardt. En junio de 2008 fue anunciado que la recién formada Django Software Foundation se haría cargo de Django en el futuro.
 
