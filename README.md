@@ -1,6 +1,24 @@
 
 <h2 align="center">🦄Framework Web - Learn Django</h2>
 
+<p align="center">
+    
+  <a href="https://github.com/BrianMarquez3/Python-Django/tags">
+    <img src="https://img.shields.io/github/tag/BrianMarquez3/Python-Django.svg?label=version&style=flat" alt="Version">
+  </a>
+  <a href="https://github.com/BrianMarquez3/Python-Django/stargazers">
+    <img src="https://img.shields.io/github/stars/BrianMarquez3/Python-Django.svg?style=flat" alt="Stars">
+  </a>
+  <a href="https://github.com/BrianMarquez3/Python-Django/network">
+    <img src="https://img.shields.io/github/forks/BrianMarquez3/PPython-Django.svg?style=flat" alt="Forks">
+  </a>
+   </a>  
+ </a>
+   <a href="https://github.com/BrianMarquez3/PHP-Course/network">
+    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
+  </a>
+ </p>
+
 ![django](./Images/django.png)
 
 ## ¿Que es Django? 
