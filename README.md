@@ -14,7 +14,7 @@
   </a>
    </a>  
  </a>
-   <a href="https://github.com/BrianMarquez3/PHP-Course/network">
+   <a href="https://github.com/BrianMarquez3/Python-Django/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a>
  </p>
