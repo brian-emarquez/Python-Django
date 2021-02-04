@@ -60,7 +60,7 @@ pip install Django==X.X.X
 ```
 _Actualiza Django_
 ```
-pip install --upgrade django==X.X.X
+pip install --upgrade Django
 ```
 _Version de Django_
 
