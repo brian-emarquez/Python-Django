@@ -1,41 +1,27 @@
-{% extends 'body.html'%}
+{% extends 'list.html'%}
 
-{% block content %}
-            <div class="card card-default">
-              <div class="card-header">
-                <h3 class="card-title">
-                  <i class="fas fa-search"></i>
-                    {{ title }}
-                </h3>
-              </div>
-              <!-- /.card-header -->
-              <div class="card-body">
-                <table class="table">
-                  <thead>
-                    <tr>
-                      <th scope="col">Numero</th>
-                      <th scope="col">Nombre</th>
-                      <th scope="col">Opciones</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {%  for c  in categorias %}
-                        <tr>
-                            <td> {{ c.id }}<td>
-                            <td> {{ c.name }}<td>
-                            <td>
-                                <button type="button" class="btn btn-primary btn-xs"><i class="fas fa-edit"></i></button>
-                                <button type="button" class="btn btn-danger btn-xs"><i class="far fa-trash-alt"></i></button>
-                            <td>
-                        </td>
-                    {% endfor %}
-                  </tbody>
-                </table>
-              </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.card -->
-          </div>
+{% block columns %}
+     <tr>
+         <th scope="col">Numero</th>
+         <th scope="col">Nombre</th>
+         <th scope="col">Opciones</th>
+     </tr>
+{% endblock %}
+
+{% block row %}
+    {%  for c  in categorias %}
+        <tr>
+        <td> {{ c.id }}</td>
+
+        <td> {{ c.name }}</td>
+
+        <td>
+            <button type="button" class="btn btn-warning btn-xs"><i class="fas fa-edit"></i></button>
+            <button type="button" class="btn btn-danger btn-xs"><i class="far fa-trash-alt"></i></button>
+        </td>
+    </tr>
+    {% endfor %}
+
 
 {% endblock %}
 
