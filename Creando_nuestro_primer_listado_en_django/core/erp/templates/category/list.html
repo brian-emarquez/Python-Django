@@ -1,6 +1,41 @@
 {% extends 'body.html'%}
 
 {% block content %}
+            <div class="card card-default">
+              <div class="card-header">
+                <h3 class="card-title">
+                  <i class="fas fa-search"></i>
+                    {{ title }}
+                </h3>
+              </div>
+              <!-- /.card-header -->
+              <div class="card-body">
+                <table class="table">
+                  <thead>
+                    <tr>
+                      <th scope="col">Numero</th>
+                      <th scope="col">Nombre</th>
+                      <th scope="col">Opciones</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {%  for c  in categorias %}
+                        <tr>
+                            <td> {{ c.id }}<td>
+                            <td> {{ c.name }}<td>
+                            <td>
+                                <button type="button" class="btn btn-primary"></button>
+                                <button type="button" class="btn btn-primary"></button>
+                            <td>
+                        </td>
+                    {% endfor %}
+                  </tbody>
+                </table>
+              </div>
+              <!-- /.card-body -->
+            </div>
+            <!-- /.card -->
+          </div>
 
 {% endblock %}
 
