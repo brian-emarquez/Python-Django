@@ -6,7 +6,7 @@ async-generator==1.10
 attrs==20.2.0
 Babel==2.8.0
 backcall==0.2.0
-bleach==3.2.1
+bleach==3.3.0
 certifi==2020.6.20
 cffi==1.14.3
 chardet==3.0.4
@@ -51,7 +51,7 @@ nbclient==0.5.1
 nbconvert==6.0.7
 nbformat==5.0.8
 nest-asyncio==1.4.2
-notebook==6.1.4
+notebook==6.1.5
 numpy==1.19.2
 openpyxl==3.0.5
 packaging==20.4
