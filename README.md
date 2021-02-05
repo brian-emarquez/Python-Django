@@ -21,25 +21,40 @@
 
 ![django](./Images/django.png)
 
-## ¿Que es Django? 
+## Tabla de Contenidos
+
+| Numeration       | Check         |Topic                   |
+| ---------------- |---------------|----------------------- |
+| 1                |✔️            | [Que es Django  ](#Que-es-Django ) | 
+| 2                |✔️            | [Modelo Vista Controlador  ](#Modelo-Vista-Controlador) | 
+| 3                |✔️            | [Características ](#Características) | 
+| 4                |✔️            | [Principales Comandos ](#Principales-Comandos) |
+| 5                |✔️            | [Base de datos](#Base-de-datos) |
+| 5                |✔️            | [API Forms ](#api-form) |
+
+## Que es Django 
 
 Django es un framework de desarrollo web de código abierto, escrito en Python, que respeta el patrón de diseño conocido como MVC (Modelo–Vista–Controlador). Fue desarrollado en origen para gestionar varias páginas orientadas a noticias de la World Company de Lawrence, Kansas, y fue liberada al público bajo una licencia BSD en julio de 2005; el framework fue nombrado en alusión al guitarrista de jazz gitano Django Reinhardt. En junio de 2008 fue anunciado que la recién formada Django Software Foundation se haría cargo de Django en el futuro.
 
 La meta fundamental de Django es facilitar la creación de sitios web complejos. Django pone énfasis en el re-uso, la conectividad y extensibilidad de componentes, el desarrollo rápido y el principio No te repitas (DRY, del inglés Don't Repeat Yourself). Python es usado en todas las partes del framework, incluso en configuraciones, archivos, y en los modelos de datos.
 
-## Framework
+### Framework
 
 Un Framework es un marco de trabajo formado por un conjunto de herramientas, librerias y buenas practicas.
 
-## ¿Para qué Sirve Django?
+### Para qué Sirve Django
 
 - Para crear sitios web (Complejos) de forma rapida y sencilla
 - Hay tareas que son repetitivas, pesadas y comunes en el momento de crear deferentes sitios web, django viene a facilitar la realizacion de estas tareas.
 - Hay codigos que podemos reutilizar de un sitio web a otro, Django tambien nos permite esta reutilizacion de forma sencilla.
 
-##  Modelo Vista Controlador (Model Template View)
+---
+##  Modelo Vista Controlador 
+
+- Model Template View
 ![django](./Images/MTV1.jpg)
 
+---
 ## Características
 
 - Un mapeador objeto-relacional.
@@ -50,7 +65,9 @@ Un Framework es un marco de trabajo formado por un conjunto de herramientas, lib
 - Un despachador de URLs basado en expresiones regulares.
 - Soporte de internacionalización, incluyendo traducciones incorporadas de la interfaz de administración.
 
-## Comandos
+---
+
+## Principales Comandos
 
 _Install Django_
 
@@ -119,14 +136,16 @@ _mysqlclient_
 ```
 pip install mysqlclient
 ```
+---
+## Base de datos
 
-## Crear Super Usuario
+### Crear Super Usuario
 
 ```
 python manage.py createsuperuser
 ```
 
-## Conector PostgreSQL
+### Conector PostgreSQL
 
 _Driver_
 ```
@@ -149,7 +168,7 @@ DATABASES = {
 }
 ```
 
-## Conector Mysql/MariaDb 
+### Conector Mysql/MariaDb 
 
 ```
 pip3 install mariadb
