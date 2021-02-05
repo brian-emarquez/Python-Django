@@ -25,12 +25,24 @@
 
 | Numeration       | Check         |Topic                   |
 | ---------------- |---------------|----------------------- |
-| 1                |✔️            | [Que es Django  ](#Que-es-Django ) | 
-| 2                |✔️            | [Modelo Vista Controlador  ](#Modelo-Vista-Controlador) | 
-| 3                |✔️            | [Características ](#Características) | 
-| 4                |✔️            | [Principales Comandos ](#Principales-Comandos) |
-| 5                |✔️            | [Base de datos](#Base-de-datos) |
-| 5                |✔️            | [API Forms ](#api-form) |
+| 1                |✔️            | [Que es Django ](#Que-es-Django) | 
+| 2                |✔️            | [Instalador ](#Instalador) |
+| 3                |✔️            | [Modelo Vista Controlador  ](#Modelo-Vista-Controlador) | 
+| 4                |✔️            | [Características ](#Características) | 
+| 5                |✔️            | [Principales Comandos ](#Principales-Comandos) |
+| 6                |✔️            | [Base de datos](#Base-de-datos) |
+| 7                |✔️            | [Manejo de datos por Consola ](#Manejo-de-datos-por-Consola) |
+| 8                |✔️            | [Arquitectura](#Arquitectura) |
+| 9                |✔️            | [Jerarquia u orden de llamadas desde plantilla](#Jerarquia-u-orden-de-llamadas-desde-plantilla) |
+| 10                |✔️            | [API Forms ](#api-form) |
+| 11                |✔️            | [Proyecto vs Aplicacion ](#Proyecto-vs-Aplicacion) |
+| 12                |✔️            | [Pycharm ](#Pycharm) |
+| 12                |✔️            | [Envio de Email ](#Envio-de-Email) |
+| 13                |✔️            | [Models ](#Models ) |
+| 14                |✔️            | [ORM ](#ORM ) |
+
+
+Manejo de datos por Consola
 
 ## Que es Django 
 
@@ -47,6 +59,14 @@ Un Framework es un marco de trabajo formado por un conjunto de herramientas, lib
 - Para crear sitios web (Complejos) de forma rapida y sencilla
 - Hay tareas que son repetitivas, pesadas y comunes en el momento de crear deferentes sitios web, django viene a facilitar la realizacion de estas tareas.
 - Hay codigos que podemos reutilizar de un sitio web a otro, Django tambien nos permite esta reutilizacion de forma sencilla.
+
+---
+
+## Instalador
+
+📦 [Install Django](https://www.djangoproject.com/) Intalador de Django.<br>
+📦 [Install PyCham](https://www.jetbrains.com/es-es/pycharm/download/#section=windows) Intalador de PyCham.<br>
+📦 [Install Python](https://www.python.org/) Instalador de Python.<br>
 
 ---
 ##  Modelo Vista Controlador 
@@ -191,7 +211,7 @@ DATABASES = {
     }
 }
 ```
-## Conector SQLSERVER
+### Conector SQLSERVER
 
 _Driver_
 ```
@@ -222,8 +242,23 @@ DATABASES = {
     }
 }
 ```
+### Django BBDD
 
-## Insertar datos BBDD - Consola
+Soportados Oficialmente:
+- SQLite3 : Gestor de BBDD por defecto
+- PostgreSQL: Gestor Recomendado
+- MySql
+- Oracle
+
+Con conectores ofrecidos por terceros:
+- SQL Server
+- SAP SQL
+- DB2
+- Firebird
+
+---
+## Manejo de datos por Consola
+### Insertar datos BBDD - Consola
 
 ```python
 from nombreAplicacion.models import nombreTabla
@@ -231,7 +266,7 @@ art=nombreTabla(inten1='nombre', iten2='nombre', iten3=numero)
 art.save()
 #art2= nombreTabla.objects.create(iten1="nombre", iten2="campo", iten3=numero)   
 ```
-## Actualizar datos BBDD - Consola
+### Actualizar datos BBDD - Consola
 
 ```python
 from nombreAplicacion.models import nombreTabla
@@ -239,14 +274,73 @@ art.precio=100
 art.save
 ```
 
-## Borrar datos BBDD - Consola
+### Borrar datos BBDD - Consola
 
 ```python
 from nombreAplicacion.models import nombreTabla
 variableborrar=nombeTabla.objects.get(id=3) 
 variableborrar.delete()
 ```
-## Email
+---
+
+## Arquitectura
+
+Aunque Django está fuertemente inspirado en la filosofía de desarrollo Modelo Vista Controlador, sus desarrolladores declaran públicamente que no se sienten especialmente atados a observar estrictamente ningún paradigma particular, y en cambio prefieren hacer "lo que les parece correcto". Como resultado, por ejemplo, lo que se llamaría "controlador" en un "verdadero" framework MVC se llama en Django "vista", y lo que se llamaría "vista" se llama "plantilla". [WIKIPEDIA](https://es.wikipedia.org/wiki/Django_(framework)).<br>
+
+- Presentacion
+- Control
+- Mediator
+- Entity
+- Foundation
+
+---
+## Jerarquia u orden de llamadas desde plantilla
+
+-   Diccionario
+-   Atributo
+-   Metodo
+-   Indice de lista
+
+---
+
+
+## API FORM
+
+```
+from nombreAplicacion.forms import FormularioContacto 
+miformulario = FormularioContacto()
+```
+_Mostrar Formulario_
+print(miformulario)
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [API FORM](https://github.com/BrianMarquez3/Python-Django/tree/master/API_Forms)          |      ✔️     | 
+
+---
+
+## Proyecto vs Aplicacion
+
+![django](./Images/proyectoApliacion.png)
+
+## Pycharm
+
+_Pagina Principal_ [ JETBRAINS](https://www.jetbrains.com/es-es/pycharm/).<br>
+
+![django](./Images/pycharm.png)
+
+### Configuración Entorno Pycharm
+
+_Pantalla de creacion de Proyecto_
+
+![django](./Images/conf.png)
+
+- Carpeta
+    -   app : Aqui se coloca todos lo archivos
+    -   env : Aqui Se coloca la version Python
+
+---
+## Envio de Email
 _Incresar en el Archivo Setting_
 
 ```python
@@ -267,79 +361,12 @@ from django.core.mail import send_mail
 ```
 send_mail('el asusntoo', 'mensaje del correo, 'tu correo', ['correo destinatario'], fail_silently=False,)
 ```
-## Arquitectura
 
-Aunque Django está fuertemente inspirado en la filosofía de desarrollo Modelo Vista Controlador, sus desarrolladores declaran públicamente que no se sienten especialmente atados a observar estrictamente ningún paradigma particular, y en cambio prefieren hacer "lo que les parece correcto". Como resultado, por ejemplo, lo que se llamaría "controlador" en un "verdadero" framework MVC se llama en Django "vista", y lo que se llamaría "vista" se llama "plantilla". [WIKIPEDIA](https://es.wikipedia.org/wiki/Django_(framework)).<br>
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Envio de Email](https://github.com/BrianMarquez3/Python-Django/tree/master/TiendaOnline_EnvioEmails)          |      ✔️     | 
 
-- Presentacion
-- Control
-- Mediator
-- Entity
-- Foundation
-
-## Jerarquia u orden de llamadas desde plantilla
-
--   Diccionario
--   Atributo
--   Metodo
--   Indice de lista
-
-## Instalador
-
-📦 [Install Django](https://www.djangoproject.com/) Intalador de Django.<br>
-📦 [Install PyCham](https://www.jetbrains.com/es-es/pycharm/download/#section=windows) Intalador de PyCham.<br>
-📦 [Install Python](https://www.python.org/) Instalador de Python.<br>
-
-## Django BBDD
-
-Soportados Oficialmente:
-- SQLite3 : Gestor de BBDD por defecto
-- PostgreSQL: Gestor Recomendado
-- MySql
-- Oracle
-
-Con conectores ofrecidos por terceros:
-- SQL Server
-- SAP SQL
-- DB2
-- Firebird
-
-## SQL
-
-```
-- Renombrar Database
-Alter database nombredatabase rename to nombreactualizado;
-```
-
-## API FORM
-
-```
-from nombreAplicacion.forms import FormularioContacto 
-miformulario = FormularioContacto()
-```
-_Mostrar Formulario_
-print(miformulario)
-
-## Proyecto vs Aplicacion
-
-![django](./Images/proyectoApliacion.png)
-
-# Pycharm
-
-_Pagina Principal_ [ JETBRAINS](https://www.jetbrains.com/es-es/pycharm/).<br>
-
-![django](./Images/pycharm.png)
-
-## Configuración Entorno Pycharm
-
-_Pantalla de creacion de Proyecto_
-
-![django](./Images/conf.png)
-
-- Carpeta
-    -   app : Aqui se coloca todos lo archivos
-    -   env : Aqui Se coloca la version Python
-
+---
 ## Models 
 
 Un modelo es la fuente única y definitiva de información sobre sus datos. Contiene los campos y comportamientos esenciales de los datos que está almacenando. Generalmente, cada modelo se asigna a una sola tabla de base de datos.
@@ -347,10 +374,22 @@ Un modelo es la fuente única y definitiva de información sobre sus datos. Cont
 
 ![django](./Images/models.png)
 
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Model](https://github.com/BrianMarquez3/Python-Django/tree/master/Models)          |      ✔️     | 
+| [Model Relaciones](https://github.com/BrianMarquez3/Python-Django/tree/master/Models_II_Relaciones)          |      ✔️     | 
+
+
+---
 
 ## ORM
 
-Un ORM es un modelo de programación que permite mapear las estructuras de una base de datos relacional (SQL Server, Oracle, MySQL, etc.), en adelante RDBMS (Relational Database Management System), sobre una estructura lógica de entidades con el objeto de simplificar y acelerar el desarrollo de nuestras aplicaciones.S
+Un ORM es un modelo de programación que permite mapear las estructuras de una base de datos relacional (SQL Server, Oracle, MySQL, etc.), en adelante RDBMS (Relational Database Management System), sobre una estructura lógica de entidades con el objeto de simplificar y acelerar el desarrollo de nuestras aplicaciones.
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [ORM I](https://github.com/BrianMarquez3/Python-Django/tree/master/ORM)          |      ✔️     | 
+| [ORM II](https://github.com/BrianMarquez3/Python-Django/tree/master/ORM_II)          |      ✔️     | 
 
 ## Spotify Django
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
