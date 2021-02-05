@@ -40,6 +40,8 @@
 | 12                |✔️            | [Envio de Email ](#Envio-de-Email) |
 | 13                |✔️            | [Models ](#Models ) |
 | 14                |✔️            | [ORM ](#ORM ) |
+| 15                |✔️            | [Archivos estaticos](#Archivos_estaticos) |
+
 
 
 Manejo de datos por Consola
@@ -390,6 +392,25 @@ Un ORM es un modelo de programación que permite mapear las estructuras de una b
 |----------------------------|:-----------:|
 | [ORM I](https://github.com/BrianMarquez3/Python-Django/tree/master/ORM)          |      ✔️     | 
 | [ORM II](https://github.com/BrianMarquez3/Python-Django/tree/master/ORM_II)          |      ✔️     | 
+
+## Archivos estaticos
+
+- Archivos Estaticos
+  
+[Documentacion Django](https://docs.djangoproject.com/en/3.1/howto/static-files/) Archivos Estaticos.<br>
+  
+- Bootstrap
+
+[Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/download/) Descargar Bootstrap.<br>
+
+- Ejemplo
+
+[w3schools](https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp) Ejemplo.<br>
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Archivos_estaticos](https://github.com/BrianMarquez3/Python-Django/tree/master/Archivos_estaticos)          |      ✔️     | 
+
 
 ## Spotify Django
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
