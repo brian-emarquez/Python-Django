@@ -40,7 +40,7 @@
 | 12                |✔️            | [Envio de Email ](#Envio-de-Email) |
 | 13                |✔️            | [Models ](#Models ) |
 | 14                |✔️            | [ORM ](#ORM ) |
-| 15                |✔️            | [Archivos estaticos](#Archivos_estaticos) |
+| 15                |✔️            | [Archivos estaticos](#Archivos-estaticos) |
 
 
 
