@@ -41,8 +41,13 @@
 | 13                |✔️            | [Models ](#Models ) |
 | 14                |✔️            | [ORM ](#ORM ) |
 | 15                |✔️            | [Archivos estaticos](#Archivos-estaticos) |
+| 15                |✔️            | [Views](#views) |
+| 15                |✔️            | [Parametros](#Parametros) |
+| 15                |✔️            | [Plantillas](#plantillas) |
+| 15                |✔️            | [Panel de Administrador](#Panel-de-Administrador) |
 
 
+---
 
 Manejo de datos por Consola
 
@@ -258,6 +263,10 @@ Con conectores ofrecidos por terceros:
 - DB2
 - Firebird
 
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [BAse de Datos Config](Data_Base_Config)          |      ✔️     | 
+
 ---
 ## Manejo de datos por Consola
 ### Insertar datos BBDD - Consola
@@ -412,10 +421,62 @@ Un ORM es un modelo de programación que permite mapear las estructuras de una b
 | [Archivos_estaticos](https://github.com/BrianMarquez3/Python-Django/tree/master/Archivos_estaticos)          |      ✔️     | 
 
 
+---
+## Views
+
+* VIEW
+_Modelo Vista controlador_
+```
+M = Modelo (Base de Datos)
+V = Vista
+C = Controlador (Funciones)
+```
+
+_Modelo Vista Template_
+
+```
+M = Modelo (Base de Datos)
+V = Vista (Funciones)
+C = Templates (Pantallas)
+```
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Mi Primera View](https://github.com/BrianMarquez3/Python-Django/tree/master/Mi_primera_view)          |      ✔️     | 
+
+
+## Parametros
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Paramentros URL](https://github.com/BrianMarquez3/Python-Django/tree/master/ParametroURL)          |      ✔️     | 
+| [Parametros En URL](https://github.com/BrianMarquez3/Python-Django/tree/master/ParametrosEnURL)          |      ✔️     | 
+
+## Plantillas
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [PLantillas I](https://github.com/BrianMarquez3/Python-Django/tree/master/Plantillas)          |      ✔️     | 
+| [PLantillas II](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasII)          |      ✔️     | 
+| [PLantillas III](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasIII)          |      ✔️     | 
+| [PLantillas IV](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasIV)          |      ✔️     | 
+| [PLantillas V ](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasV)          |      ✔️     | 
+| [PLantillas IV](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasVI)          |      ✔️     | 
+| [Templates I](https://github.com/BrianMarquez3/Python-Django/tree/master/Templates_I)          |      ✔️     | 
+| [Templates II](https://github.com/BrianMarquez3/Python-Django/tree/master/Templates_II)          |      ✔️     | 
+| [Templates Integrando Platntilla adminLT3](https://github.com/BrianMarquez3/Python-Django/tree/master/Templates_III_%20Integrando_Platntilla_adminLT3)          |      ✔️     | 
+
+---
+
+## Panel de Administrador
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Panel de Adminitracion](https://github.com/BrianMarquez3/Python-Django/tree/master/panel_administrador)          |      ✔️     | 
+
+---
 ## Spotify Django
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
 
 ![python](./Images/django2.jpg)
-
-
 
