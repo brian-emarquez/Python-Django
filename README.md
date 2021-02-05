@@ -480,3 +480,11 @@ Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKls
 
 ![python](./Images/django2.jpg)
 
+---
+
+## Paypal
+
+🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+
+
+
