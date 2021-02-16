@@ -400,6 +400,8 @@ Un ORM es un modelo de programación que permite mapear las estructuras de una b
 | [ORM I](https://github.com/BrianMarquez3/Python-Django/tree/master/ORM)          |      ✔️     | 
 | [ORM II](https://github.com/BrianMarquez3/Python-Django/tree/master/ORM_II)          |      ✔️     | 
 
+---
+
 ## Archivos estaticos
 
 - Archivos Estaticos
