@@ -37,14 +37,16 @@
 | 10                |✔️            | [API Forms ](#api-form) |
 | 11                |✔️            | [Proyecto vs Aplicacion ](#Proyecto-vs-Aplicacion) |
 | 12                |✔️            | [Pycharm ](#Pycharm) |
-| 12                |✔️            | [Envio de Email ](#Envio-de-Email) |
-| 13                |✔️            | [Models ](#Models ) |
-| 14                |✔️            | [ORM ](#ORM ) |
-| 15                |✔️            | [Archivos estaticos](#Archivos-estaticos) |
-| 16                |✔️            | [Views](#views) |
-| 17                |✔️            | [Parametros](#Parametros) |
-| 18               |✔️            | [Plantillas](#plantillas) |
-| 19                |✔️            | [Panel de Administrador](#Panel-de-Administrador) |
+| 13                |✔️            | [Envio de Email ](#Envio-de-Email) |
+| 15                |✔️            | [Models ](#Models ) |
+| 16                |✔️            | [ORM ](#ORM ) |
+| 17                |✔️            | [Archivos estaticos](#Archivos-estaticos) |
+| 18                |✔️            | [Views](#views) |
+| 19                |✔️            | [Parametros](#Parametros) |
+| 20                |✔️            | [Plantillas](#plantillas) |
+| 21                |✔️            | [Panel de Administrador](#Panel-de-Administrador) |
+| 22                |✔️            | [ListView vistas basadas en clases](#PListView-vistas-basadas-en-clases) |
+| 22                |✔️            | [ListView vistas basadas en clases](#PListView-vistas-basadas-en-clases) |
 
 
 ---
