@@ -41,15 +41,13 @@
 | 13                |✔️            | [Models ](#Models ) |
 | 14                |✔️            | [ORM ](#ORM ) |
 | 15                |✔️            | [Archivos estaticos](#Archivos-estaticos) |
-| 15                |✔️            | [Views](#views) |
-| 15                |✔️            | [Parametros](#Parametros) |
-| 15                |✔️            | [Plantillas](#plantillas) |
-| 15                |✔️            | [Panel de Administrador](#Panel-de-Administrador) |
+| 16                |✔️            | [Views](#views) |
+| 17                |✔️            | [Parametros](#Parametros) |
+| 18               |✔️            | [Plantillas](#plantillas) |
+| 19                |✔️            | [Panel de Administrador](#Panel-de-Administrador) |
 
 
 ---
-
-Manejo de datos por Consola
 
 ## Que es Django 
 
