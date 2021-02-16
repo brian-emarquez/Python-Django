@@ -163,6 +163,13 @@ _mysqlclient_
 ```
 pip install mysqlclient
 ```
+
+_Django- yodbc azure_
+
+```
+pip install django-pyodbc-azure
+```
+
 ---
 ## Base de datos
 
