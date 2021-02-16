@@ -444,7 +444,7 @@ C = Templates (Pantallas)
 |----------------------------|:-----------:|
 | [Mi Primera View](https://github.com/BrianMarquez3/Python-Django/tree/master/Mi_primera_view)          |      ✔️     | 
 
-
+---
 ## Parametros
 
 | Carpeta                    | Link |     
@@ -452,6 +452,7 @@ C = Templates (Pantallas)
 | [Paramentros URL](https://github.com/BrianMarquez3/Python-Django/tree/master/ParametroURL)          |      ✔️     | 
 | [Parametros En URL](https://github.com/BrianMarquez3/Python-Django/tree/master/ParametrosEnURL)          |      ✔️     | 
 
+---
 ## Plantillas
 
 | Carpeta                    | Link |     
