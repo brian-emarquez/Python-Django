@@ -13,14 +13,27 @@ SQLITE = {
 }
 
 
-MARIADB = {
+#MARIADB = {
+#    'default': {
+#        'ENGINE': 'django.db.backends.mysql',
+#        'NAME': 'db',
+#        'USER': 'briandb',
+#        'PASSWORD': 'briandb',
+#        'HOST': '127.0.0.1',
+#        'PORT': 3307,
+#    }
+#}
+
+
+POSTGRES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'db',
         'USER': 'briandb',
         'PASSWORD': 'briandb',
         'HOST': '127.0.0.1',
-        'PORT': 3307,
+        'DATABASE_PORT': '5432',
     }
 }
+
 

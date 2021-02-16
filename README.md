@@ -199,7 +199,7 @@ DATABASES = {
         'USER': 'briandb',
         'PASSWORD': 'briandb',
         'HOST': '127.0.0.1',
-        'DATABASE_POR
+        'DATABASE_PORT': '5432',
 }
 ```
 

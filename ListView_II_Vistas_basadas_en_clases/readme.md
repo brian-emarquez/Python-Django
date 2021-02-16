@@ -1,7 +1,7 @@
 ### ListView II Vistas basadas en clases
 
-_Django- yodbc azure_
+_Postgres_
 
 ```
-pip install django-pyodbc-azure
+pip install psycopg2
 ```

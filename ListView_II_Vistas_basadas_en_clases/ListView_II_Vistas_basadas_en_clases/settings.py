@@ -74,7 +74,7 @@ WSGI_APPLICATION = 'ListView_II_Vistas_basadas_en_clases.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
-DATABASES = db.MARIADB
+DATABASES = db.POSTGRES
 
 # Password validation
 # https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators
