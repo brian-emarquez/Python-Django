@@ -1,5 +1,4 @@
 import os
-import pyodbc
 import sys
 import time
 
@@ -13,16 +12,16 @@ SQLITE = {
 }
 
 
-#MARIADB = {
-#    'default': {
-#        'ENGINE': 'django.db.backends.mysql',
-#        'NAME': 'db',
-#        'USER': 'briandb',
-#        'PASSWORD': 'briandb',
-#        'HOST': '127.0.0.1',
-#        'PORT': 3307,
-#    }
-#}
+MARIADB = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'db',
+        'USER': 'briandb',
+        'PASSWORD': 'briandb',
+        'HOST': '127.0.0.1',
+        'PORT': 3307,
+    }
+}
 
 
 POSTGRES = {
