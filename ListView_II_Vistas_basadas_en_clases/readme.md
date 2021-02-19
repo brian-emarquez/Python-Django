@@ -19,4 +19,4 @@ ALTER SEQUENCE erp_category_id_seq RESTART WITH 1;
 
 [https://datatables.net/download/]
 
-![django](./Images/secuencias.png)
+![django](../Images/secuencias.png)
