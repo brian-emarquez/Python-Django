@@ -14,3 +14,5 @@ ALTER SEQUENCE erp_product_id_seq RESTART WITH 1;
 delete from erp_category;
 ALTER SEQUENCE erp_category_id_seq RESTART WITH 1;
 ```
+
+![django](./Images/secuencias.png)
