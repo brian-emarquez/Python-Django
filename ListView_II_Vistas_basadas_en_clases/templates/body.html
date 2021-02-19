@@ -1,4 +1,5 @@
 {% extends 'home.html' %}
+
 {% block body %}
     <body class="hold-transition layout-top-nav">
     <div class="wrapper">
@@ -32,5 +33,11 @@
         <!-- Footer -->
         {% include 'footer.html' %}
     </div>
+    
+    <!-- javascrips -->
+    {% block javascript %}
+
+    {% endblock %}
+
     </body>
 {% endblock %}

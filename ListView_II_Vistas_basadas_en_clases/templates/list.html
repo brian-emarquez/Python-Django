@@ -1,4 +1,13 @@
 {% extends 'body.html' %}
+{% load static %}
+{% block head %}
+    <link rel="stylesheet" href="{% static 'lib/datatables-1.10.20/css/dataTables.bootstrap4.min.css' %}"/>
+    <link rel="stylesheet" href="{% static 'lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.bootstrap4.min.css' %}"/>
+    <script src="{% static 'lib/datatables-1.10.20/js/jquery.dataTables.js' %}"></script>
+    <script src="{% static 'lib/datatables-1.10.20/js/dataTables.bootstrap4.min.js' %}"></script>
+    <script src="{% static 'lib/datatables-1.10.20/plugins/responsive-2.2.3/js/dataTables.responsive.min.js' %}"></script>
+    <script src="{% static 'lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.bootstrap4.min.js' %}"></script>    
+{% endblock %}
 
 {% block content %}
     <div class="card card-default">
@@ -9,7 +18,7 @@
             </h3>
         </div>
         <div class="card-body">
-            <table class="table">
+            <table class="table" id="data">
                 <thead>
                 {% block columns %}
 
@@ -28,4 +37,21 @@
             </button>
         </div>
     </div>
+{% endblock %}
+
+<!-- javascrips -->
+{% block javascript %}
+    <script type="application/javascript">
+        $(function() {
+            $('#data').DataTable({
+                responsive: true,
+                autoWidth: false,
+                // Cambio de Idioma
+                //"language": {
+                //    url: '{% static "lib/datatables-1.10.20/ingles.txt" %}'
+                //}
+            });
+        });
+    </script>
+
 {% endblock %}
