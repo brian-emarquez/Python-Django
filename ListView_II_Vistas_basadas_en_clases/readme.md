@@ -15,4 +15,8 @@ delete from erp_category;
 ALTER SEQUENCE erp_category_id_seq RESTART WITH 1;
 ```
 
+### DataTable
+
+[https://datatables.net/download/]
+
 ![django](./Images/secuencias.png)
