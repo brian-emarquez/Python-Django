@@ -46,7 +46,7 @@
 | 20                |✔️            | [Plantillas](#plantillas) |
 | 21                |✔️            | [Panel de Administrador](#Panel-de-Administrador) |
 | 22                |✔️            | [ListView vistas basadas en clases](#ListView-vistas-basadas-en-clases) |
-| 22                |✔️            | [ListView II vistas basadas en clases](#ListView-II--vistas-basadas-en-clases) |
+| 22                |✔️            | [ListView II vistas basadas en clases](#ListView-II-vistas-basadas-en-clases) |
 | 22                |✔️            | [](#) |
 
 
@@ -495,7 +495,7 @@ C = Templates (Pantallas)
 
 ---
 
-## ListView IIvistas basadas en clases
+## ListView II vistas basadas en clases
 
 
 | Carpeta                    | Link |     
