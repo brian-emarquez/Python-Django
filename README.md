@@ -46,6 +46,7 @@
 | 20                |✔️            | [Plantillas](#plantillas) |
 | 21                |✔️            | [Panel de Administrador](#Panel-de-Administrador) |
 | 22                |✔️            | [ListView vistas basadas en clases](#ListView-vistas-basadas-en-clases) |
+| 22                |✔️            | [ListView II vistas basadas en clases](#ListView-II-vistas-basadas-en-clases) |
 | 22                |✔️            | [](#) |
 
 
@@ -491,6 +492,15 @@ C = Templates (Pantallas)
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
 | [ListView_vistas_basadas_en_clases](https://github.com/BrianMarquez3/Python-Django/tree/master/ListView_vistas_basadas_en_clases)          |      ✔️     | 
+
+---
+
+## ListView II vistas basadas en clases
+
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [ListView II_vistas_basadas_en_clases](https://github.com/BrianMarquez3/Python-Django/tree/master/ListView_II_Vistas_basadas_en_clases)          |      ✔️     | 
 
 ---
 ## Spotify Django
