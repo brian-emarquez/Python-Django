@@ -1,5 +1,5 @@
 
-<h2 align="center">🦄Framework Web - Learn Django</h2>
+<h2 align="center">🦄Framework Web -- Learn Django</h2>
 
 <p align="center">
     
