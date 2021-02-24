@@ -47,7 +47,8 @@
 | 21                |✔️            | [Panel de Administrador](#Panel-de-Administrador) |
 | 22                |✔️            | [ListView vistas basadas en clases](#ListView-vistas-basadas-en-clases) |
 | 22                |✔️            | [ListView II vistas basadas en clases](#ListView-II-vistas-basadas-en-clases) |
-| 22                |✔️            | [](#) |
+| 23                |✔️            | [Sobreescritura del metodo dispatch](#Sobreescritura-del-metodo-dispatch) |
+| 24                |✔️            | [Implementando decoradores](#Implementando-decoradores) |
 
 ---
 
@@ -502,6 +503,27 @@ C = Templates (Pantallas)
 | [ListView II_vistas_basadas_en_clases](https://github.com/BrianMarquez3/Python-Django/tree/master/ListView_II_Vistas_basadas_en_clases)          |      ✔️     | 
 
 ---
+
+## Sobreescritura del metodo dispatch 
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Sobreescritura del metodo dispatch](https://github.com/BrianMarquez3/Python-Django/tree/master/Sobreescritura_del_metodo_dispatch)          |      ✔️     |
+
+---
+
+## Implementando decoradores
+
+_Documentacion_
+
+[Decoradores Django](https://pywombat.com/articles/decoradores-django)
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Implementando decoradores](https://github.com/BrianMarquez3/Python-Django/tree/master/Implementando_decoradores)          |      ✔️     |
+
+---
+## 
 ## Spotify Django
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
 
