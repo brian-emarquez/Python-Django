@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'ListView_II_Vistas_basadas_en_clases.urls'
+ROOT_URLCONF = 'Sobreescritura_del_metodo_dispatch.urls'
 
 TEMPLATES = [
     {
@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'ListView_II_Vistas_basadas_en_clases.wsgi.application'
+WSGI_APPLICATION = 'Sobreescritura_del_metodo_dispatch.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases

@@ -49,7 +49,6 @@
 | 22                |✔️            | [ListView II vistas basadas en clases](#ListView-II-vistas-basadas-en-clases) |
 | 22                |✔️            | [](#) |
 
-
 ---
 
 ## Que es Django 
