@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Sobreescritura_del_metodo_dispatch.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Implementando_decoradores.settings')
 
 application = get_asgi_application()

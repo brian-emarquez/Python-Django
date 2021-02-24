@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'Sobreescritura_del_metodo_dispatch.urls'
+ROOT_URLCONF = 'Implementando_decoradores.urls'
 
 TEMPLATES = [
     {
@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'Sobreescritura_del_metodo_dispatch.wsgi.application'
+WSGI_APPLICATION = 'Implementando_decoradores.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
