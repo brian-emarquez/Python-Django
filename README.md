@@ -37,30 +37,30 @@
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-| 001          |:heavy_check_mark:      | [Que es Django ](#Que-es-Django) | :hourglass:     | - | - | [ ⬅️ Atras]
-| 002          |:heavy_check_mark:      | [Instalador ](#Instalador) | :hourglass:     | - | - | [ ⬅️ Atras]
-| 003          |:heavy_check_mark:      | [Modelo Vista Controlador  ](#Modelo-Vista-Controlador) | :hourglass:     | - | - | [ ⬅️ Atras]
-| 003          |:heavy_check_mark:      | [Características ](#Características) | :hourglass:     | - | - | [ ⬅️ Atras]
-| 004          |:heavy_check_mark:      |[Principales Comandos ](#Principales-Comandos) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 005          |:heavy_check_mark:      | [Base de datos](#Base-de-datos) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 006          |:heavy_check_mark:      | [Manejo de datos por Consola ](#Manejo-de-datos-por-Consola) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 007          |:heavy_check_mark:      | [Arquitectura](#Arquitectura) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 008          |:heavy_check_mark:      | [Jerarquia u orden de llamadas desde plantilla](#Jerarquia-u-orden-de-llamadas-desde-plantilla) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 009          |:heavy_check_mark:      | [API Forms ](#api-form) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 010          |:heavy_check_mark:      | [Proyecto vs Aplicacion ](#Proyecto-vs-Aplicacion) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 011          |:heavy_check_mark:      | [Pycharm ](#Pycharm) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 012          |:heavy_check_mark:      | [Envio de Email ](#Envio-de-Email) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 013          |:heavy_check_mark:      | [Models ](#Models ) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 014          |:heavy_check_mark:      | [ORM ](#ORM ) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 015          |:heavy_check_mark:      | [Archivos estaticos](#Archivos-estaticos) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 016          |:heavy_check_mark:      | [Views](#views) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 017          |:heavy_check_mark:      | [Parametros](#Parametros) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 018          |:heavy_check_mark:      | [Plantillas](#plantillas) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 019          |:heavy_check_mark:      | [Panel de Administrador](#Panel-de-Administrador) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 020          |:heavy_check_mark:      | [ListView vistas basadas en clases](#ListView-vistas-basadas-en-clases) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 021          |:heavy_check_mark:      | [ListView II vistas basadas en clases](#ListView-II-vistas-basadas-en-clases) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 022          |:heavy_check_mark:      | [Sobreescritura del metodo dispatch](#Sobreescritura-del-metodo-dispatch) |:hourglass:     | - | - | [ ⬅️ Atras]
-| 023          |:heavy_check_mark:      | [Implementando decoradores](#Implementando-decoradores) |:hourglass:     | - | - | [ ⬅️ Atras]
+| 001          |:heavy_check_mark:      | [Que es Django ](#Que-es-Django) | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 002          |:heavy_check_mark:      | [Instalador ](#Instalador) | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 003          |:heavy_check_mark:      | [Modelo Vista Controlador  ](#Modelo-Vista-Controlador) | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 003          |:heavy_check_mark:      | [Características ](#Características) | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 004          |:heavy_check_mark:      |[Principales Comandos ](#Principales-Comandos) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 005          |:heavy_check_mark:      | [Base de datos](#Base-de-datos) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 006          |:heavy_check_mark:      | [Manejo de datos por Consola ](#Manejo-de-datos-por-Consola) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 007          |:heavy_check_mark:      | [Arquitectura](#Arquitectura) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 008          |:heavy_check_mark:      | [Jerarquia u orden de llamadas desde plantilla](#Jerarquia-u-orden-de-llamadas-desde-plantilla) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 009          |:heavy_check_mark:      | [API Forms ](#api-form) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 010          |:heavy_check_mark:      | [Proyecto vs Aplicacion ](#Proyecto-vs-Aplicacion) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 011          |:heavy_check_mark:      | [Pycharm ](#Pycharm) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 012          |:heavy_check_mark:      | [Envio de Email ](#Envio-de-Email) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 013          |:heavy_check_mark:      | [Models ](#Models ) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 014          |:heavy_check_mark:      | [ORM ](#ORM ) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 015          |:heavy_check_mark:      | [Archivos estaticos](#Archivos-estaticos) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 016          |:heavy_check_mark:      | [Views](#views) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 017          |:heavy_check_mark:      | [Parametros](#Parametros) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 018          |:heavy_check_mark:      | [Plantillas](#plantillas) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 019          |:heavy_check_mark:      | [Panel de Administrador](#Panel-de-Administrador) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 020          |:heavy_check_mark:      | [ListView vistas basadas en clases](#ListView-vistas-basadas-en-clases) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 021          |:heavy_check_mark:      | [ListView II vistas basadas en clases](#ListView-II-vistas-basadas-en-clases) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 022          |:heavy_check_mark:      | [Sobreescritura del metodo dispatch](#Sobreescritura-del-metodo-dispatch) |:hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 023          |:heavy_check_mark:      | [Implementando decoradores](#Implementando-decoradores) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
 
