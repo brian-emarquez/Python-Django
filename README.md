@@ -2,30 +2,42 @@
 <h2 align="center">🦄Framework Web -- Learn Django</h2>
 
 <p align="center">
-    
-  <a href="https://github.com/BrianMarquez3/Python-Django/tags">
-    <img src="https://img.shields.io/github/tag/BrianMarquez3/Python-Django.svg?label=version&style=flat" alt="Version">
+  
+   </a>
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Python-Django?color=red">
   </a>
   <a href="https://github.com/BrianMarquez3/Python-Django/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/Python-Django.svg?style=flat" alt="Stars">
   </a>
   <a href="https://github.com/BrianMarquez3/Python-Django/network">
-    <img src="https://img.shields.io/github/forks/BrianMarquez3/PPython-Django.svg?style=flat" alt="Forks">
+    <img src="https://img.shields.io/github/forks/BrianMarquez3/Python-Django.svg?style=flat" alt="Forks">
   </a>
-   </a>  
- </a>
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Python-Django?color=gren&label=Version&logo=python">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Python-Django">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Python-Django/total?color=violet">
+  </a>
+  
+   </a>
    <a href="https://github.com/BrianMarquez3/Python-Django/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
-  </a>
- </p>
+  </a><br>
+ 
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Django?color=yelow&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Python-Django?style=for-the-badge">
 
 ![django](./Images/django.png)
 
 ## Tabla de Contenidos
 
-| Numeration       | Check         |Topic                   |
-| ---------------- |---------------|----------------------- |
-| 1                |✔️            | [Que es Django ](#Que-es-Django) | 
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+| 1                |✔️            | [Que es Django ](#Que-es-Django) | :hourglass:     | - | - | [ ⬅️ Atras]
 | 2                |✔️            | [Instalador ](#Instalador) |
 | 3                |✔️            | [Modelo Vista Controlador  ](#Modelo-Vista-Controlador) | 
 | 4                |✔️            | [Características ](#Características) | 
