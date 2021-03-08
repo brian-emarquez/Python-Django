@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
  
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Django?color=yelow&style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Django?color=yellow&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Python-Django?style=for-the-badge">
 
 ![django](./Images/django.png)
