@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'ListView_II_Vistas_basadas_en_clases.urls'
+ROOT_URLCONF = 'Implementando_decoradores.urls'
 
 TEMPLATES = [
     {
@@ -69,12 +69,15 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'ListView_II_Vistas_basadas_en_clases.wsgi.application'
+WSGI_APPLICATION = 'Implementando_decoradores.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
-DATABASES = db.MARIADB
+#DATABASES = db.MARIADB
+DATABASES = db.POSTGRES
+
+
 
 # Password validation
 # https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators

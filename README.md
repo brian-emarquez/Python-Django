@@ -1,53 +1,66 @@
 
-<h2 align="center">🦄Framework Web - Learn Django</h2>
+<h2 align="center">🦄Framework Web | Learn Django</h2>
 
 <p align="center">
-    
-  <a href="https://github.com/BrianMarquez3/Python-Django/tags">
-    <img src="https://img.shields.io/github/tag/BrianMarquez3/Python-Django.svg?label=version&style=flat" alt="Version">
+  
+   </a>
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Python-Django?color=red">
   </a>
   <a href="https://github.com/BrianMarquez3/Python-Django/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/Python-Django.svg?style=flat" alt="Stars">
   </a>
   <a href="https://github.com/BrianMarquez3/Python-Django/network">
-    <img src="https://img.shields.io/github/forks/BrianMarquez3/PPython-Django.svg?style=flat" alt="Forks">
+    <img src="https://img.shields.io/github/forks/BrianMarquez3/Python-Django.svg?style=flat" alt="Forks">
   </a>
-   </a>  
- </a>
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Python-Django?color=gren&label=Version&logo=python">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Python-Django">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Python-Django/total?color=violet">
+  </a>
+  
+   </a>
    <a href="https://github.com/BrianMarquez3/Python-Django/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
-  </a>
- </p>
+  </a><br>
+ 
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Django?color=yellow&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Python-Django?style=for-the-badge">
 
 ![django](./Images/sider.gif)
 
 ## Tabla de Contenidos
 
-| Numeration       | Check         |Topic                   |
-| ---------------- |---------------|----------------------- |
-| 1                |✔️            | [Que es Django ](#Que-es-Django) | 
-| 2                |✔️            | [Instalador ](#Instalador) |
-| 3                |✔️            | [Modelo Vista Controlador  ](#Modelo-Vista-Controlador) | 
-| 4                |✔️            | [Características ](#Características) | 
-| 5                |✔️            | [Principales Comandos ](#Principales-Comandos) |
-| 6                |✔️            | [Base de datos](#Base-de-datos) |
-| 7                |✔️            | [Manejo de datos por Consola ](#Manejo-de-datos-por-Consola) |
-| 8                |✔️            | [Arquitectura](#Arquitectura) |
-| 9                |✔️            | [Jerarquia u orden de llamadas desde plantilla](#Jerarquia-u-orden-de-llamadas-desde-plantilla) |
-| 10                |✔️            | [API Forms ](#api-form) |
-| 11                |✔️            | [Proyecto vs Aplicacion ](#Proyecto-vs-Aplicacion) |
-| 12                |✔️            | [Pycharm ](#Pycharm) |
-| 13                |✔️            | [Envio de Email ](#Envio-de-Email) |
-| 15                |✔️            | [Models ](#Models ) |
-| 16                |✔️            | [ORM ](#ORM ) |
-| 17                |✔️            | [Archivos estaticos](#Archivos-estaticos) |
-| 18                |✔️            | [Views](#views) |
-| 19                |✔️            | [Parametros](#Parametros) |
-| 20                |✔️            | [Plantillas](#plantillas) |
-| 21                |✔️            | [Panel de Administrador](#Panel-de-Administrador) |
-| 22                |✔️            | [ListView vistas basadas en clases](#ListView-vistas-basadas-en-clases) |
-| 22                |✔️            | [](#) |
-
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+| 001          |:heavy_check_mark:      | [Que es Django ](#Que-es-Django) | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 002          |:heavy_check_mark:      | [Instalador ](#Instalador) | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 003          |:heavy_check_mark:      | [Modelo Vista Controlador  ](#Modelo-Vista-Controlador) | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 003          |:heavy_check_mark:      | [Características ](#Características) | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 004          |:heavy_check_mark:      |[Principales Comandos ](#Principales-Comandos) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 005          |:heavy_check_mark:      | [Base de datos](#Base-de-datos) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 006          |:heavy_check_mark:      | [Manejo de datos por Consola ](#Manejo-de-datos-por-Consola) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 007          |:heavy_check_mark:      | [Arquitectura](#Arquitectura) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 008          |:heavy_check_mark:      | [Jerarquia u orden de llamadas desde plantilla](#Jerarquia-u-orden-de-llamadas-desde-plantilla) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 009          |:heavy_check_mark:      | [API Forms ](#api-form) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 010          |:heavy_check_mark:      | [Proyecto vs Aplicacion ](#Proyecto-vs-Aplicacion) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 011          |:heavy_check_mark:      | [Pycharm ](#Pycharm) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 012          |:heavy_check_mark:      | [Envio de Email ](#Envio-de-Email) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 013          |:heavy_check_mark:      | [Models ](#Models ) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 014          |:heavy_check_mark:      | [ORM ](#ORM ) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 015          |:heavy_check_mark:      | [Archivos estaticos](#Archivos-estaticos) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 016          |:heavy_check_mark:      | [Views](#views) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 017          |:heavy_check_mark:      | [Parametros](#Parametros) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 018          |:heavy_check_mark:      | [Plantillas](#plantillas) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 019          |:heavy_check_mark:      | [Panel de Administrador](#Panel-de-Administrador) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 020          |:heavy_check_mark:      | [ListView vistas basadas en clases](#ListView-vistas-basadas-en-clases) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 021          |:heavy_check_mark:      | [ListView II vistas basadas en clases](#ListView-II-vistas-basadas-en-clases) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 022          |:heavy_check_mark:      | [Sobreescritura del metodo dispatch](#Sobreescritura-del-metodo-dispatch) |:hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 023          |:heavy_check_mark:      | [Implementando decoradores](#Implementando-decoradores) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
 
@@ -199,7 +212,7 @@ DATABASES = {
         'USER': 'briandb',
         'PASSWORD': 'briandb',
         'HOST': '127.0.0.1',
-        'DATABASE_POR
+        'DATABASE_PORT': '5432',
 }
 ```
 
@@ -270,9 +283,10 @@ Con conectores ofrecidos por terceros:
 - DB2
 - Firebird
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [BAse de Datos Config](Data_Base_Config)          |      ✔️     | 
+
+| Carpeta                    | Link         |     Home   |  Code       | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [BAse de Datos Config](Data_Base_Config)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Manejo de datos por Consola
@@ -331,9 +345,9 @@ miformulario = FormularioContacto()
 _Mostrar Formulario_
 print(miformulario)
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [API FORM](https://github.com/BrianMarquez3/Python-Django/tree/master/API_Forms)          |      ✔️     | 
+| Carpeta                    | Link         |     Home   |  Code       | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [API FORM](https://github.com/BrianMarquez3/Python-Django/tree/master/API_Forms)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
@@ -380,9 +394,9 @@ from django.core.mail import send_mail
 send_mail('el asusntoo', 'mensaje del correo, 'tu correo', ['correo destinatario'], fail_silently=False,)
 ```
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Envio de Email](https://github.com/BrianMarquez3/Python-Django/tree/master/TiendaOnline_EnvioEmails)          |      ✔️     | 
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Envio de Email](https://github.com/BrianMarquez3/Python-Django/tree/master/TiendaOnline_EnvioEmails)          |      ✔️     |[⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ | 
 
 ---
 ## Models 
@@ -392,10 +406,10 @@ Un modelo es la fuente única y definitiva de información sobre sus datos. Cont
 
 ![django](./Images/models.png)
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Model](https://github.com/BrianMarquez3/Python-Django/tree/master/Models)          |      ✔️     | 
-| [Model Relaciones](https://github.com/BrianMarquez3/Python-Django/tree/master/Models_II_Relaciones)          |      ✔️     | 
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Model](https://github.com/BrianMarquez3/Python-Django/tree/master/Models)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Model Relaciones](https://github.com/BrianMarquez3/Python-Django/tree/master/Models_II_Relaciones)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ | 
 
 
 ---
@@ -404,10 +418,11 @@ Un modelo es la fuente única y definitiva de información sobre sus datos. Cont
 
 Un ORM es un modelo de programación que permite mapear las estructuras de una base de datos relacional (SQL Server, Oracle, MySQL, etc.), en adelante RDBMS (Relational Database Management System), sobre una estructura lógica de entidades con el objeto de simplificar y acelerar el desarrollo de nuestras aplicaciones.
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [ORM I](https://github.com/BrianMarquez3/Python-Django/tree/master/ORM)          |      ✔️     | 
-| [ORM II](https://github.com/BrianMarquez3/Python-Django/tree/master/ORM_II)          |      ✔️     | 
+
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [ORM I](https://github.com/BrianMarquez3/Python-Django/tree/master/ORM)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [ORM II](https://github.com/BrianMarquez3/Python-Django/tree/master/ORM_II)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
@@ -425,9 +440,9 @@ Un ORM es un modelo de programación que permite mapear las estructuras de una b
 
 [w3schools](https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp) Ejemplo.<br>
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Archivos_estaticos](https://github.com/BrianMarquez3/Python-Django/tree/master/Archivos_estaticos)          |      ✔️     | 
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Archivos_estaticos](https://github.com/BrianMarquez3/Python-Django/tree/master/Archivos_estaticos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
 ---
@@ -449,50 +464,80 @@ V = Vista (Funciones)
 C = Templates (Pantallas)
 ```
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Mi Primera View](https://github.com/BrianMarquez3/Python-Django/tree/master/Mi_primera_view)          |      ✔️     | 
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Mi Primera View](https://github.com/BrianMarquez3/Python-Django/tree/master/Mi_primera_view)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Parametros
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Paramentros URL](https://github.com/BrianMarquez3/Python-Django/tree/master/ParametroURL)          |      ✔️     | 
-| [Parametros En URL](https://github.com/BrianMarquez3/Python-Django/tree/master/ParametrosEnURL)          |      ✔️     | 
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Paramentros URL](https://github.com/BrianMarquez3/Python-Django/tree/master/ParametroURL)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Parametros En URL](https://github.com/BrianMarquez3/Python-Django/tree/master/ParametrosEnURL)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Plantillas
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [PLantillas I](https://github.com/BrianMarquez3/Python-Django/tree/master/Plantillas)          |      ✔️     | 
-| [PLantillas II](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasII)          |      ✔️     | 
-| [PLantillas III](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasIII)          |      ✔️     | 
-| [PLantillas IV](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasIV)          |      ✔️     | 
-| [PLantillas V ](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasV)          |      ✔️     | 
-| [PLantillas IV](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasVI)          |      ✔️     | 
-| [Templates I](https://github.com/BrianMarquez3/Python-Django/tree/master/Templates_I)          |      ✔️     | 
-| [Templates II](https://github.com/BrianMarquez3/Python-Django/tree/master/Templates_II)          |      ✔️     | 
-| [Templates Integrando Platntilla adminLT3](https://github.com/BrianMarquez3/Python-Django/tree/master/Templates_III_%20Integrando_Platntilla_adminLT3)          |      ✔️     | 
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [PLantillas I](https://github.com/BrianMarquez3/Python-Django/tree/master/Plantillas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [PLantillas II](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasII)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [PLantillas III](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasIII)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [PLantillas IV](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasIV)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [PLantillas V ](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasV)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [PLantillas IV](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasVI)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Templates I](https://github.com/BrianMarquez3/Python-Django/tree/master/Templates_I)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Templates II](https://github.com/BrianMarquez3/Python-Django/tree/master/Templates_II)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Templates Integrando Platntilla adminLT3](https://github.com/BrianMarquez3/Python-Django/tree/master/Templates_III_%20Integrando_Platntilla_adminLT3)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
 ## Panel de Administrador
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Panel de Adminitracion](https://github.com/BrianMarquez3/Python-Django/tree/master/panel_administrador)          |      ✔️     | 
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Panel de Adminitracion](https://github.com/BrianMarquez3/Python-Django/tree/master/panel_administrador)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |    | 
 
 
 ## ListView vistas basadas en clases
 
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [ListView_vistas_basadas_en_clases](https://github.com/BrianMarquez3/Python-Django/tree/master/ListView_vistas_basadas_en_clases)          |      ✔️     | 
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [ListView_vistas_basadas_en_clases](https://github.com/BrianMarquez3/Python-Django/tree/master/ListView_vistas_basadas_en_clases)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
+
+## ListView II vistas basadas en clases
+
+
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [ListView II_vistas_basadas_en_clases](https://github.com/BrianMarquez3/Python-Django/tree/master/ListView_II_Vistas_basadas_en_clases)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+---
+
+## Sobreescritura del metodo dispatch 
+
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Sobreescritura del metodo dispatch](https://github.com/BrianMarquez3/Python-Django/tree/master/Sobreescritura_del_metodo_dispatch)          |    ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+
+---
+
+## Implementando decoradores
+
+_Documentacion_
+
+[Decoradores Django](https://pywombat.com/articles/decoradores-django)
+
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Implementando decoradores](https://github.com/BrianMarquez3/Python-Django/tree/master/Implementando_decoradores)          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
+
+---
+## 
 ## Spotify Django
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
 
