@@ -19,7 +19,7 @@
   </a>
  </p>
 
-![django](./Images/django.png)
+![django](./Images/sider.gif)
 
 ## Tabla de Contenidos
 
