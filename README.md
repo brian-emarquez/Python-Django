@@ -536,7 +536,31 @@ _Documentacion_
 | [Implementando decoradores](https://github.com/BrianMarquez3/Python-Django/tree/master/Implementando_decoradores)          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
 
 ---
-## 
+
+## Book
+
+<table>
+
+  <tr>
+      <td>Name</td>
+      <td>Authors</td>
+      <td>Editorial</td>
+      <td>ISBN</td>
+      <td>Link</td>
+      <td>Password</td>
+  </tr>
+
+  <tr>
+      <td>Lightweight Django</td>
+      <td>Julia Elman, Mark Lavin</td>
+      <td>O'REILLY</td>
+      <td> 978-1-491-94594-0</td>
+      <td><a href="Enalce:https://dubox.com/s/1yU_njs0ehwCBsSvK3PPcrQ Código de extracción:sn5c">Lightweight Django</a></td>
+      <td>sn5c</td>
+  </tr>
+
+</table>
+
 ## Spotify Django
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
 
@@ -548,5 +572,22 @@ Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKls
 
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
+---
+
+ <table align="center">
+    <tr>
+      <td colspan="3">A</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <td>C</td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./images/Clifford-torus" /></td>
+        <td>E</td>
+      </tr>
+      <tr>
+      <td colspan="3">F</td>
+        <td>G</td>
+    </tr>
+</table>
 
 
