@@ -581,7 +581,7 @@ Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKls
       </tr>
       <tr>
         <td>C</td>
-      <td colspan="2"><img align="center" style="padding=0;" src="./images/Clifford-torus" /></td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./Images/Clifford-torus" /></td>
         <td>E</td>
       </tr>
       <tr>
