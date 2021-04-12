@@ -555,7 +555,7 @@ _Documentacion_
       <td>Julia Elman, Mark Lavin</td>
       <td>O'REILLY</td>
       <td> 978-1-491-94594-0</td>
-      <td><a href="Enalce:https://dubox.com/s/1yU_njs0ehwCBsSvK3PPcrQ Código de extracción:sn5c">Lightweight Django</a></td>
+      <td><a href="https://dubox.com/s/1yU_njs0ehwCBsSvK3PPcrQ">Lightweight Django</a></td>
       <td>sn5c</td>
   </tr>
 
@@ -581,7 +581,7 @@ Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKls
       </tr>
       <tr>
         <td>C</td>
-      <td colspan="2"><img align="center" style="padding=0;" src="./Images/Clifford-torus" /></td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./Images/Clifford-torus.gif" /></td>
         <td>E</td>
       </tr>
       <tr>
