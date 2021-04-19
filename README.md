@@ -30,7 +30,15 @@
   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Django?color=yellow&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Python-Django?style=for-the-badge">
 
-![django](./Images/sider.gif)
+<!-- ![django](./Images/sider.gif) -->
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/sider.gif" />
+    </td>
+  </tr>
+</table>
 
 ## Tabla de Contenidos
 
