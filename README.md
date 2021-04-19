@@ -550,10 +550,9 @@ _Documentacion_
 
 ## Sobreescriturdel metodo post
 
-| Carpeta                    | Link |     Home   |  Code | Version | Estado |
-|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Sobreescriturdel metodo post](https://github.com/BrianMarquez3/Python-Django/tree/master/Implementando_decoradores)          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
-
+|Number   | Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|024| [Sobreescriturdel metodo post](https://github.com/BrianMarquez3/Python-Django/tree/master/24_Sobreescritura_del_metodo_post)          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
 
 
 ---
