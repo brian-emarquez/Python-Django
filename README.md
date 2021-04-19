@@ -68,6 +68,9 @@
 | 021          |:heavy_check_mark:      | [ListView II vistas basadas en clases](#ListView-II-vistas-basadas-en-clases) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 022          |:heavy_check_mark:      | [Sobreescritura del metodo dispatch](#Sobreescritura-del-metodo-dispatch) |:hourglass:     | - | - |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 023          |:heavy_check_mark:      | [Implementando decoradores](#Implementando-decoradores) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 024          |:heavy_check_mark:      | [Sobreescritura del metodo post](#Sobreescritura-del-metodo-post) |:hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+
 
 ---
 
@@ -542,6 +545,16 @@ _Documentacion_
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Implementando decoradores](https://github.com/BrianMarquez3/Python-Django/tree/master/Implementando_decoradores)          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
+
+
+
+## Sobreescriturdel metodo post
+
+| Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Sobreescriturdel metodo post](https://github.com/BrianMarquez3/Python-Django/tree/master/Implementando_decoradores)          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
+
+
 
 ---
 
