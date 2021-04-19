@@ -79,7 +79,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Django server.server" />
+      <item itemvalue="Django Server.server" />
       <item itemvalue="Python.tests" />
     </list>
   </component>
