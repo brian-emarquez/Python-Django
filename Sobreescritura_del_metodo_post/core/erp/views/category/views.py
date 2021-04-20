@@ -18,13 +18,13 @@ def category_list(request):
 class CategoryListView(ListView):
     model = Category
     template_name = 'category/list.html'
-
+    # Permite visualizar el post en el navegador
     @method_decorator(csrf_exempt)
     def dispatch(self, request, *args, **kwargs):
         return super().dispatch(request, *args, **kwargs)
 
     def post(self, request, *args, **kwargs):
-        data = {'name': 'William'}
+        data = {'name': 'Brian'}
         return JsonResponse(data)
 
     def get_context_data(self, **kwargs):

@@ -1,7 +1,293 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f02fdb8-04da-48e2-a39c-0fea66b285d3" name="Default Changelist" comment="" />
+    <list default="true" id="8f02fdb8-04da-48e2-a39c-0fea66b285d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/.idea/Sobreescritura_del_metodo_post.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/config/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/config/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/config/db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/config/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/config/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/erp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/core/erp/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/erp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/core/erp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/erp/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/core/erp/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/erp/choices.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/core/erp/choices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/erp/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/core/erp/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/erp/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/core/erp/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/erp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/core/erp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/erp/templates/category/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/core/erp/templates/category/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/erp/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/core/erp/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/erp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/core/erp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/erp/views/category/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/core/erp/views/category/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/requirements/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/user.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/img/user.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/adminlte.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/adminlte.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/adminlte.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/adminlte.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/adminlte.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/adminlte.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/adminlte.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/adminlte.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.components.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.components.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.components.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.components.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.components.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.components.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.components.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.components.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.core.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.core.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.core.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.core.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.core.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.core.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.core.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.core.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.extra-components.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.extra-components.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.extra-components.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.extra-components.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.extra-components.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.extra-components.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.extra-components.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.extra-components.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.pages.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.pages.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.pages.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.pages.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.pages.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.pages.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.pages.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.plugins.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.plugins.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.plugins.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.plugins.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.plugins.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.plugins.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/css/alt/adminlte.plugins.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/css/alt/adminlte.plugins.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/AdminLTELogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/AdminLTELogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/avatar.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/avatar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/avatar04.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/avatar04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/avatar2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/avatar2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/avatar3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/avatar3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/avatar5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/avatar5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/boxed-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/boxed-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/boxed-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/boxed-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/credit/american-express.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/credit/american-express.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/credit/cirrus.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/credit/cirrus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/credit/mastercard.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/credit/mastercard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/credit/mestro.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/credit/mestro.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/credit/paypal.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/credit/paypal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/credit/paypal2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/credit/paypal2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/credit/visa.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/credit/visa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/default-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/default-150x150.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/icons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/photo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/photo1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/photo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/photo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/photo3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/photo3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/photo4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/photo4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/prod-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/prod-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/prod-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/prod-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/prod-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/prod-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/prod-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/prod-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/prod-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/prod-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/user1-128x128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/user1-128x128.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/user2-160x160.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/user2-160x160.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/user3-128x128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/user3-128x128.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/user4-128x128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/user4-128x128.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/user5-128x128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/user5-128x128.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/user6-128x128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/user6-128x128.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/user7-128x128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/user7-128x128.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/img/user8-128x128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/img/user8-128x128.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/js/adminlte.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/js/adminlte.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/js/adminlte.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/js/adminlte.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/js/adminlte.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/js/adminlte.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/js/adminlte.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/js/adminlte.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/js/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/js/demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/js/pages/dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/js/pages/dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/js/pages/dashboard2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/js/pages/dashboard2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/js/pages/dashboard3.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/js/pages/dashboard3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/bootstrap/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/bootstrap/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/all.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/brands.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/brands.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/brands.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/brands.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/fontawesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/fontawesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/fontawesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/fontawesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/regular.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/regular.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/regular.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/regular.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/solid.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/solid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/solid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/solid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/svg-with-js.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/svg-with-js.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/svg-with-js.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/svg-with-js.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/v4-shims.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/v4-shims.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/v4-shims.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/css/v4-shims.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/all.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/all.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/brands.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/brands.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/brands.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/brands.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/conflict-detection.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/conflict-detection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/conflict-detection.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/conflict-detection.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/fontawesome.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/fontawesome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/fontawesome.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/fontawesome.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/regular.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/regular.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/regular.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/regular.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/solid.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/solid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/solid.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/solid.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/v4-shims.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/v4-shims.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/v4-shims.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/js/v4-shims.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-brands-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-regular-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-regular-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-regular-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-solid-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/font-awesome-5.11.1/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/jquery/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/jquery/core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/jquery/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/jquery/jquery.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/jquery/jquery.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/jquery/jquery.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/jquery/jquery.slim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/jquery/jquery.slim.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/jquery/jquery.slim.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/adminlte-3.0.4/plugins/jquery/jquery.slim.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/adminlte-3.0.4/plugins/jquery/jquery.slim.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/js/jquery-3.4.1.slim.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/js/jquery-3.4.1.slim.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/bootstrap-4.4.1-dist/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/bootstrap-4.4.1-dist/js/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/css/dataTables.bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/css/dataTables.bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/css/dataTables.bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/css/dataTables.bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/css/dataTables.bootstrap4.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/css/dataTables.bootstrap4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/css/dataTables.bootstrap4.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/css/dataTables.bootstrap4.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/css/dataTables.foundation.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/css/dataTables.foundation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/css/dataTables.foundation.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/css/dataTables.foundation.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/css/dataTables.jqueryui.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/css/dataTables.jqueryui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/css/dataTables.jqueryui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/css/dataTables.jqueryui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/css/dataTables.semanticui.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/css/dataTables.semanticui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/css/dataTables.semanticui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/css/dataTables.semanticui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/css/jquery.dataTables.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/css/jquery.dataTables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/css/jquery.dataTables.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/css/jquery.dataTables.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/datatables.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/datatables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/datatables.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/datatables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/datatables.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/datatables.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/datatables.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/datatables.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/images/sort_asc.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/images/sort_asc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/images/sort_asc_disabled.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/images/sort_asc_disabled.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/images/sort_both.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/images/sort_both.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/images/sort_desc.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/images/sort_desc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/images/sort_desc_disabled.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/images/sort_desc_disabled.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/js/dataTables.bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/js/dataTables.bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/js/dataTables.bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/js/dataTables.bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/js/dataTables.bootstrap4.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/js/dataTables.bootstrap4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/js/dataTables.bootstrap4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/js/dataTables.bootstrap4.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/js/dataTables.foundation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/js/dataTables.foundation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/js/dataTables.foundation.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/js/dataTables.foundation.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/js/dataTables.jqueryui.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/js/dataTables.jqueryui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/js/dataTables.jqueryui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/js/dataTables.jqueryui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/js/dataTables.semanticui.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/js/dataTables.semanticui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/js/dataTables.semanticui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/js/dataTables.semanticui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/js/jquery.dataTables.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/js/jquery.dataTables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/js/jquery.dataTables.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/js/jquery.dataTables.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/bootstrap-4-4.1.1/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/bootstrap-4-4.1.1/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/bootstrap-4-4.1.1/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/bootstrap-4-4.1.1/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/bootstrap-4-4.1.1/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/bootstrap-4-4.1.1/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/bootstrap-4-4.1.1/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/bootstrap-4-4.1.1/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/bootstrap-4-4.1.1/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/bootstrap-4-4.1.1/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/bootstrap-4-4.1.1/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/bootstrap-4-4.1.1/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.bootstrap4.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.bootstrap4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.bootstrap4.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.bootstrap4.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.dataTables.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.dataTables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.dataTables.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.dataTables.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.foundation.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.foundation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.foundation.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.foundation.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.jqueryui.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.jqueryui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.jqueryui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.jqueryui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.semanticui.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.semanticui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.semanticui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/buttons.semanticui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/css/mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.bootstrap4.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.bootstrap4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.bootstrap4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.bootstrap4.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.colVis.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.colVis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.colVis.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.colVis.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.flash.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.flash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.flash.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.flash.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.foundation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.foundation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.foundation.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.foundation.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.html5.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.html5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.html5.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.html5.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.jqueryui.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.jqueryui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.jqueryui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.jqueryui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.print.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.print.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.print.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.print.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.semanticui.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.semanticui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.semanticui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/buttons.semanticui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/dataTables.buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/dataTables.buttons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/dataTables.buttons.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/js/dataTables.buttons.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/swf/flashExport.swf" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/buttons-1.6.1/swf/flashExport.swf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/jszip-2.5.0/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/jszip-2.5.0/jszip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/jszip-2.5.0/jszip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/jszip-2.5.0/jszip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/pdfmake-0.1.36/pdfmake.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/pdfmake-0.1.36/pdfmake.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/pdfmake-0.1.36/pdfmake.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/pdfmake-0.1.36/pdfmake.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/pdfmake-0.1.36/vfs_fonts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/pdfmake-0.1.36/vfs_fonts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.bootstrap4.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.bootstrap4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.bootstrap4.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.bootstrap4.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.dataTables.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.dataTables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.dataTables.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.dataTables.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.foundation.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.foundation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.foundation.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.foundation.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.jqueryui.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.jqueryui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.jqueryui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.jqueryui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.semanticui.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.semanticui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.semanticui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/css/responsive.semanticui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/dataTables.responsive.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/dataTables.responsive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/dataTables.responsive.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/dataTables.responsive.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.bootstrap4.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.bootstrap4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.bootstrap4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.bootstrap4.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.foundation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.foundation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.foundation.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.foundation.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.jqueryui.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.jqueryui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.jqueryui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.jqueryui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.semanticui.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.semanticui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.semanticui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/plugins/responsive-2.2.3/js/responsive.semanticui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/lib/datatables-1.10.20/spanish.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/static/lib/datatables-1.10.20/spanish.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/body.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/templates/body.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/templates/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/templates/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/templates/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/second.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Sobreescritura_del_metodo_post/templates/second.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,21 +305,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZhFi7wFKPw9AsxG71KwhitSVHM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/Sistemas de Venta/Django/Trabajos/2020/anuket/app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Python.tests">
     <configuration name="tests" type="PythonConfigurationType" factoryName="Python">
-      <module name="app" />
+      <module name="Sobreescritura_del_metodo_post" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -55,7 +345,7 @@
       <method v="2" />
     </configuration>
     <configuration name="server" type="Python.DjangoServer" factoryName="Django server">
-      <module name="app" />
+      <module name="Sobreescritura_del_metodo_post" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -83,6 +373,7 @@
       <item itemvalue="Python.tests" />
     </list>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -109,53 +400,26 @@
       <workItem from="1585799002347" duration="8966000" />
       <workItem from="1585844458943" duration="93000" />
       <workItem from="1585846979152" duration="6087000" />
+      <workItem from="1618874085596" duration="878000" />
+      <workItem from="1618877911890" duration="15000" />
+      <workItem from="1618877928688" duration="655000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585804637379">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585804637379" />
-    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585799779180">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585799779180" />
-    <state x="694" y="282" key="EnvironmentVariablesDialog" timestamp="1585800463176">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="694" y="282" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585800463176" />
-    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1585861327013">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585861327013" />
-    <state width="1877" height="330" key="GridCell.Tab.0.bottom" timestamp="1585872242657">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585872242657" />
-    <state width="1877" height="330" key="GridCell.Tab.0.center" timestamp="1585872242657">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="330" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585872242657" />
-    <state width="1877" height="330" key="GridCell.Tab.0.left" timestamp="1585872242657">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="330" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585872242657" />
-    <state width="1877" height="330" key="GridCell.Tab.0.right" timestamp="1585872242657">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="330" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585872242657" />
-    <state x="614" y="133" key="SettingsEditor" timestamp="1585803984659">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="614" y="133" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585803984659" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585844468666">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585844468666" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/app$tests.coverage" NAME="tests Coverage Results" MODIFIED="1585853573785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core/erp" />

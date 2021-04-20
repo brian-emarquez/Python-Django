@@ -552,7 +552,7 @@ _Documentacion_
 
 |Number   | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|024| [Sobreescriturdel metodo post](https://github.com/BrianMarquez3/Python-Django/tree/master/24_Sobreescritura_del_metodo_post)          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
+|024| [Sobreescriturdel metodo post](https://github.com/BrianMarquez3/Python-Django/tree/master/Sobreescritura_del_metodo_dispatch)          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
 
 
 ---
