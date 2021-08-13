@@ -557,31 +557,32 @@ _Documentacion_
 
 ---
 
-## Book
+## Books
 
 <table>
 
   <tr>
+      <td>Server</td>
       <td>Name</td>
       <td>Authors</td>
       <td>Editorial</td>
       <td>ISBN</td>
       <td>Link</td>
-      <td>Password</td>
   </tr>
 
   <tr>
+      <td>OneDrive</td>
       <td>Lightweight Django</td>
       <td>Julia Elman, Mark Lavin</td>
       <td>O'REILLY</td>
       <td> 978-1-491-94594-0</td>
-      <td><a href="https://dubox.com/s/1yU_njs0ehwCBsSvK3PPcrQ">Lightweight Django</a></td>
-      <td>sn5c</td>
+      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/EQeNs6BGoM9ItgPgwJwK0xkBFIDhN9ChVugFrms984V5bw?e=SeRB5w">Lightweight Django</a></td>
   </tr>
 
 </table>
 
 ## Spotify Django
+
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
 
 ![python](./Images/django2.jpg)
