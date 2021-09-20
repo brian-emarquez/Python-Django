@@ -126,12 +126,20 @@ _Install Django_
 pip install Django==X.X.X
 ```
 _Actualiza Django_
-```
+
+```python
 pip install --upgrade Django
 ```
 
-_Crear Env_
+_Actualizar PIP_
+
+```python
+pip install --upgrade pip
 ```
+
+_Crear Env_
+
+```python
 python -m venv env
 ```
 
@@ -143,13 +151,13 @@ env\Scripts\activate
 
 _Instalar requirements.txt_
 
-```
+```python
 pip install -r requirements.txt
 ```
 
 _Version de Django_
 
-```
+```python
 import django | django.VERSION
 ```
 
@@ -159,55 +167,60 @@ _Primer Projecto_
 django-admin startproject nombreProyecto
 ```
 
+_Crear listado de requerimeintos_
+```python
+python freeze > requerimientos.txt
+```
+
 _Ejecutar Servidor Django_
 
-```
+```python
 python manage.py runserver
 ```
 _Crear Aplicacion_
 
-```
+```python
 python manage.py startapp nombreAplicacion
 ```
 
 _Check de la Aplicacion_
 
-```
+```python
 python manage.py check nombreAplicacion
 ```
 
 _Generar la Base de Datos_
 
-```
+```python
 python manage.py makemigrations
 ```
 
 _Generar Codigo SQL_
 
-```
+```python
 python manage.py sqlmigrate nombreAplicacion 000n
 ```
 _Migrate_
 
-```
+```python
 python manage.py migrate
 ```
 
 _Shell_
 
-```
+```python
 python manage.py shell
 ```
 
 _mysqlclient_
 
-```
+```python
 pip install mysqlclient
 ```
 
 _Django- yodbc azure_
 
-```
+```python
 pip install django-pyodbc-azure
 ```
 
@@ -217,7 +230,7 @@ pip install django-pyodbc-azure
 _Principales conectores a gestores de base de datos_
 ### Crear Super Usuario
 
-```
+```python
 python manage.py createsuperuser
 ```
 
