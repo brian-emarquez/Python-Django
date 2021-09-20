@@ -168,6 +168,7 @@ django-admin startproject nombreProyecto
 ```
 
 _Crear listado de requerimeintos_
+
 ```python
 python freeze > requerimientos.txt
 ```
