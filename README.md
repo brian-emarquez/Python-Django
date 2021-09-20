@@ -129,6 +129,24 @@ _Actualiza Django_
 ```
 pip install --upgrade Django
 ```
+
+_Crear Env_
+```
+python -m venv env
+```
+
+_Activar Env_
+
+```
+env\Scripts\activate
+```
+
+_Instalar requirements.txt_
+
+```
+pip install -r requirements.txt
+```
+
 _Version de Django_
 
 ```
