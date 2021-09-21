@@ -119,12 +119,10 @@ Un Framework es un marco de trabajo formado por un conjunto de herramientas, lib
 
 ## Principales Comandos
 
-_Install Django_
+_Instalar Django_
 
 [www.djangoproject.com](https://www.djangoproject.com/download/)
-```
-pip install Django==X.X.X
-```
+
 _Actualiza Django_
 
 ```python
@@ -137,13 +135,13 @@ _Actualizar PIP_
 pip install --upgrade pip
 ```
 
-_Crear Env_
+_Crear Entornos Virtuales y Paquetes(env)_
 
 ```python
 python -m venv env
 ```
 
-_Activar Env_
+_Activar Entorno Virtuale y Paquete(env)_
 
 ```
 env\Scripts\activate
@@ -165,12 +163,6 @@ _Primer Projecto_
 
 ```
 django-admin startproject nombreProyecto
-```
-
-_Crear listado de requerimeintos_
-
-```python
-python freeze > requerimientos.txt
 ```
 
 _Ejecutar Servidor Django_
@@ -224,6 +216,19 @@ _Django- yodbc azure_
 ```python
 pip install django-pyodbc-azure
 ```
+
+_Crear listado de requerimeintos_
+
+```python
+python freeze > requerimientos.txt
+```
+
+_Crear un superusuario_
+
+```python
+python manage.py createsuperuser
+```
+
 
 ---
 ## Base de datos
