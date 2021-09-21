@@ -158,7 +158,7 @@ pip install -r requirements.txt
 _Version de Django_
 
 ```python
-import django | django.VERSION
+python -m django --version
 ```
 
 _Primer Projecto_
