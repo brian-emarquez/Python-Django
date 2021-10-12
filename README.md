@@ -30,8 +30,6 @@
   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Django?color=yellow&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Python-Django?style=for-the-badge">
 
-<!-- ![django](./Images/sider.gif) -->
-
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -76,6 +74,16 @@
 
 
 ---
+
+
+## Fundamentos Django
+
+| Numeration   | Check           |    Topic           |   Quantization    |    Edit Gitpot     |    Downloads     |  link                                         |
+|:------------:|:---------------:|-------------------:|:-----------------:|:------------------:|:----------------:|:---------------------------------------------:|
+| A1          |:heavy_check_mark:| [Mysite ](#mysite) | :hourglass:       | -                  | -                | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+---
+
 
 ## Que es Django 
 
@@ -602,6 +610,31 @@ _Documentacion_
 |Number   | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |024| [Sobreescriturdel metodo post](https://github.com/BrianMarquez3/Python-Django/tree/master/Sobreescritura_del_metodo_dispatch)          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
+
+
+
+
+---
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/sider.gif" />
+    </td>
+  </tr>
+</table>
+
+
+## Mysite
+
+- Solicitudes y respuestas
+- Modelos y sitio de administración 
+
+Mas Informacion documentacion [docs.djangoproject](https://docs.djangoproject.com/en/3.2/)
+
+|Number   | Carpeta                    | Link |     Home   |  Code | Version | Estado |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|A1| [Mysite]()          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
 
 
 ---
