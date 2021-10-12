@@ -138,6 +138,12 @@ _Actualizar PIP_
 pip install --upgrade pip
 ```
 
+_Django Version_
+
+```
+pip install Django==3.2.8
+```
+
 _Crear Entornos Virtuales y Paquetes(env)_
 
 ```python
@@ -231,6 +237,9 @@ _Crear un superusuario_
 ```python
 python manage.py createsuperuser
 ```
+
+
+
 
 
 ---
