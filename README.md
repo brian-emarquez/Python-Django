@@ -45,7 +45,7 @@
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-| 001          |:heavy_check_mark:      | [Que es Django ](#Que-es-Django) | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 001          |:heavy_check_mark:      | [Que es Django ](#Que-es-Django) |  <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 002          |:heavy_check_mark:      | [Instalador ](#Instalador) | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 003          |:heavy_check_mark:      | [Modelo Vista Controlador  ](#Modelo-Vista-Controlador) | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 003          |:heavy_check_mark:      | [Características ](#Características) | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
