@@ -78,9 +78,12 @@
 
 ## Fundamentos Django
 
-| Numeration   | Check           |    Topic           |   Quantization    |    Edit Gitpot     |    Downloads     |  link                                         |
-|:------------:|:---------------:|-------------------:|:-----------------:|:------------------:|:----------------:|:---------------------------------------------:|
-| A1          |:heavy_check_mark:| [Mysite ](#mysite) | :hourglass:       | -                  | -                | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| A1         |:heavy_check_mark:      | [Mysite ](#mysite) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+| A2         |:heavy_check_mark:      | [SHELL ](#SHELL) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+
+
+
+
 
 ---
 
@@ -614,6 +617,8 @@ _Documentacion_
 
 ---
 
+**Fundamentos en Django**
+
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -635,6 +640,25 @@ Mas Informacion documentacion [docs.djangoproject](https://docs.djangoproject.co
 |A1| [Mysite]()          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
 
 
+## SHELL
+
+```
+>>> python manage.py shell
+```
+
+```
+>>> Post.objects.first()
+```
+
+```
+>>> Post.objects.get() 
+```
+
+```
+>>> post = Post.objects.create(title="Mi segundo Blog", content="Contenido de segundo blog")
+>>> post.title = "otro blog"
+>>> post.save()
+```
 ---
 
 ## Books
