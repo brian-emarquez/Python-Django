@@ -216,12 +216,6 @@ _Migrate_
 python manage.py migrate
 ```
 
-_Shell_
-
-```python
-python manage.py shell
-```
-
 _mysqlclient_
 
 ```python
