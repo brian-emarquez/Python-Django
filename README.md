@@ -246,7 +246,11 @@ _Crear un superusuario_
 python manage.py createsuperuser
 ```
 
+_Shell_
 
+```
+python manage.py shell
+```
 
 
 
