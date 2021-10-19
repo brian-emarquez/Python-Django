@@ -723,5 +723,3 @@ Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKls
         <td>G</td>
     </tr>
 </table>
-
-
