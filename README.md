@@ -707,7 +707,7 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
 
 ## Serealizers
 
-|B3| [Serealizers]()      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
+|B3| [Serealizers](https://github.com/BrianMarquez3/Python-Django/tree/master/Serealizers)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 
 
