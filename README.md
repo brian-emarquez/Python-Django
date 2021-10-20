@@ -92,6 +92,7 @@
 | Numeration   | Check  |    Topic     |   Quantization  |    Edit Gitpot    |    Downloads   |  link   |
 |:------------:|:------:|:------------:|:----------------:|:----------------:|:----------------:|:--------:|
 | B1         |:heavy_check_mark:      | [APP ](#APP) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+| B2         |:heavy_check_mark:      | [REST API ](#REST-API) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 
@@ -699,6 +700,11 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
 |B1| [APP](https://github.com/BrianMarquez3/Python-Django/tree/master/App)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
+
+## REST API
+
+|B2| [REST API](https://github.com/BrianMarquez3/Python-Django/tree/master/App)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
+
 
 
 ---
