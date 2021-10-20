@@ -717,7 +717,7 @@ Mas Informacion documentacion [docs.djangoproject](https://docs.djangoproject.co
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|A| [Web personal]()       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+|A| [Web personal](https://github.com/BrianMarquez3/Python-Django/tree/master/webpersonal)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
 
 
