@@ -93,8 +93,8 @@
 |:------------:|:------:|:------------:|:----------------:|:----------------:|:----------------:|:--------:|
 | B1         |:heavy_check_mark:      | [APP ](#APP) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | B2         |:heavy_check_mark:      | [REST API ](#REST-API) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-
-
+| B3         |:heavy_check_mark:      | [Serealizers ](#Serealizers) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+Serealizers
 
 ---
 
@@ -704,6 +704,11 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
 ## REST API
 
 |B2| [REST API](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
+
+## Serealizers
+
+|B3| [Serealizers]()      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
+
 
 
 
