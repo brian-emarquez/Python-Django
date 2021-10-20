@@ -78,6 +78,8 @@
 
 ## Fundamentos Django
 
+| Numeration   | Check  |    Topic     |   Quantization   |    Edit Gitpot   |    Downloads     |  link    |
+|:------------:|:------:|:------------:|:----------------:|:----------------:|:----------------:|:--------:|
 | A1         |:heavy_check_mark:      | [Mysite ](#mysite) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | A2         |:heavy_check_mark:      | [Forms Generic Views ](#forms-Generic-Views) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
@@ -87,6 +89,8 @@
 
 ## Django API Rest Framework
 
+| Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link   |
+|:------------:|:------:|:------------:|:----------------:|:----------------:|:----------------:|:--------:|
 | B1         |:heavy_check_mark:      | [APP ](#APP) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
