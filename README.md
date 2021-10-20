@@ -645,9 +645,12 @@ _Documentacion_
 
 Mas Informacion documentacion [docs.djangoproject](https://docs.djangoproject.com/en/3.2/)
 
-|Number   | Carpeta                    | Link |     Home   |  Code | Version | Estado |
-|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|A1| [Mysite]()          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
+
+
+
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
+|A1| [Mysite](https://github.com/BrianMarquez3/Python-Django/tree/master/formsGenericViews)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
 
 ## SHELL
@@ -672,13 +675,13 @@ Mas Informacion documentacion [docs.djangoproject](https://docs.djangoproject.co
 
 ## Forms Generic Views
 
-
-|Number   | Carpeta                    | Link |     Home   |  Code | Version | Estado |
-|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|A2| [Forms Generic Views](https://github.com/BrianMarquez3/Python-Django/tree/master/formsGenericViews)          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
+|A2| [Forms Generic Views](https://github.com/BrianMarquez3/Python-Django/tree/master/formsGenericViews)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
 
 ---
+
 
 **Djando Api Rest Framenwork**
 
@@ -695,9 +698,9 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
 
 ## APP
 
-|Number   | Carpeta                    | Link |     Home   |  Code | Version | Estado |
-|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|B1| [APPP](https://github.com/BrianMarquez3/Python-Django/tree/master/App)          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
+|B1| [APP](https://github.com/BrianMarquez3/Python-Django/tree/master/App)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 
 ---
