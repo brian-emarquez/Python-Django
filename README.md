@@ -85,6 +85,7 @@
 | A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | A4         |:heavy_check_mark:      | [Static ](#static) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | A5         |:heavy_check_mark:      | [Template ](#template) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+| A6         |:heavy_check_mark:      | [Vista plantillas](#vista-plantillas) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
 
@@ -698,6 +699,12 @@ Mas Informacion documentacion [docs.djangoproject](https://docs.djangoproject.co
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
 |A4| [Template](https://github.com/BrianMarquez3/Python-Django/tree/master/templates)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
+## Vista plantillas
+
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
+|A5| [Vista plantillas]()       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+
 ---
 
 **Djando Api Rest Framenwork**
@@ -730,7 +737,7 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
 
 ## Viewset
 
-|B4| [Viewset]()      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
+|B4| [Viewset](https://github.com/BrianMarquez3/Python-Django/tree/master/viewSets)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 
 
