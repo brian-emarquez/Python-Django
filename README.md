@@ -80,10 +80,7 @@
 
 | A1         |:heavy_check_mark:      | [Mysite ](#mysite) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | A2         |:heavy_check_mark:      | [Forms Generic Views ](#forms-Generic-Views) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| A3        |:heavy_check_mark:      | [SHELL ](#SHELL) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| A4         |:heavy_check_mark:      | [SHELL ](#SHELL) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| A5         |:heavy_check_mark:      | [SHELL ](#SHELL) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| A6         |:heavy_check_mark:      | [SHELL ](#SHELL) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+
 
 
 ---
