@@ -1,0 +1,231 @@
+body{
+    background: #f2f2f2;
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    margin-top: 30px; 
+}
+
+header .nav{
+    min-height: 80px;
+    overflow: hidden;
+    background: #fff;
+}
+/* Logo */
+header .logo a,
+header .logo samp,
+header .logo p{
+    font-size: 16px;
+    display: inline-block;
+    margin: 0;
+}
+
+header .logo .nombre{
+    font-weight: 800;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+}
+
+header .logo .icono{
+    color: #bfbfbf;
+}
+header .logo p{
+    color: #777777;
+}
+/* Menu de navegacion */
+header .menu{
+    padding: 0;
+}
+
+header .menu a{
+    display: block;
+    padding: 0 30px;
+    text-decoration: none;
+    color: #f2f2f2;
+}
+
+header .menu a div span{
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+header .menu .c-1 {background: #1aaf7e;}
+header .menu .c-2 {background: #108d63;}
+header .menu .c-3 {background: #0c7754;}
+
+header .menu .c-1:hover {background: #3fdda8;}
+header .menu .c-2:hover {background: #2ca77e;}
+header .menu .c-3:hover {background: #319775;}
+
+/* Slider */
+
+.slider{
+    margin-bottom: 40px;
+}
+.slider .col{
+    padding: 0;
+}
+/*Portafolio */
+.contenedor{
+    background: #fff;
+    border-top: 5px solid #0c7754;
+    padding: 0 20px;
+}
+
+.titulo{
+    padding: 40px 0;
+    text-align: center;
+    color: #0c7754;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.title-project{
+    padding: 10px 0;
+    color: #0c7754;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.contenedor .projects .content-project .link-project{
+    background: #108d63;
+    display: inline-block;
+    color: #fff;
+}
+
+.contenedor .projects .content-project .link-project:hover{
+    background: #1faa7c;
+    display: inline-block;
+    color: #fff;
+}
+
+.contenedor .projects .content-project{
+    margin-bottom: 40px;
+    max-height: 200px;
+    overflow: hidden;
+}
+
+.contenedor .projects .content-project a{
+    background: #25d198;
+    display: inline-block;
+}
+.contenedor .projects .content-project:hover img{
+    opacity: .3;
+}
+
+.contenedor .modal-dialog{
+    margin: 0px auto;
+    height: 100%;
+    max-width: 1000px;
+}
+
+.contenedor .modal-content{
+    width: auto;
+}
+/* Contacto */
+.contacto{
+    padding: 10px 0;
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+
+.contacto .icono{
+    width: 80px;
+    height: 80px;
+    font-size: 40px;
+    line-height: 80px;
+    color: #fff;
+    text-align: center;
+    background: #c5cac8;
+    display: inline-block;
+    margin: 0px 20px;
+    text-decoration: none;
+    border-radius: 80px;
+    transition: all .3s ease;
+    overflow: hidden;
+    
+}
+
+.contacto .phone{background: #151618}
+.contacto .mail{background: #ec2525}
+.contacto .mobile{background: #293a33}
+.contacto .whatsapp{background: #1ca144}
+
+.contacto .phone:hover:hover{background: #585e63}
+.contacto .mail:hover{background: #ca5454}
+.contacto .mobile:hover{background: #629b83}
+.contacto .whatsapp:hover{background: #4e9b65}
+
+/* footer*/
+.redes-sociales{
+    padding: 40px 0;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.redes-sociales .icono{
+    width: 80px;
+    height: 80px;
+    font-size: 40px;
+    line-height: 80px;
+    color: #fff;
+    text-align: center;
+    background: #108d63;
+    display: inline-block;
+    margin: 0px 20px;
+    text-decoration: none;
+    border-radius: 80px;
+    transition: all .3s ease;
+}
+.redes-sociales .icono:hover{
+    background: #1aaf7e;
+}
+.redes-sociales .copyright{
+    padding: 20PX 0;
+}
+
+.redes-sociales .copyright samp P{
+    font-family: 'Open Sans', sans-serif;
+}
+/*---MEDIAQUERIES--- */
+/* Dispositivo xl */
+@media screen and (max-width:1199px){}
+
+/* Dispositivo lg */
+@media screen and (max-width:991px){
+    .logo {
+        height: 76px;
+    }
+    .menu {
+        min-height: 76px;
+    }
+    .menu a {
+        width: 100%;
+    }
+    .menu a div{
+        width: 100%;
+    }
+
+    .modal .modal-dialog{
+        width: 90%;
+    }
+    .modal .modal-dialog .modal-content img{
+        width: 100%;
+    }
+}
+
+/* Dispositivo md */
+@media screen and (max-width:767px){}
+
+/* Dispositivo sm */
+@media screen and (max-width:575px){
+    header{
+        margin-top: 0;
+    }
+    header .logo .nombre,
+    header .logo p {
+        font-size: 13px;
+    }
+    header .menu a{
+        font-size: 14px;
+    }
+}
