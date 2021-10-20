@@ -703,7 +703,7 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
 
 ## REST API
 
-|B2| [REST API](https://github.com/BrianMarquez3/Python-Django/tree/master/App)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
+|B2| [REST API](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 
 
