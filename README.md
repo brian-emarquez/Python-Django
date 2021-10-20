@@ -674,7 +674,7 @@ Mas Informacion documentacion [docs.djangoproject](https://docs.djangoproject.co
 
 |Number   | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|A2| [Forms Generic Views]()          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
+|A2| [Forms Generic Views](https://github.com/BrianMarquez3/Python-Django/tree/master/formsGenericViews)          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
 
 
 ---
