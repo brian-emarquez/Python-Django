@@ -711,13 +711,13 @@ Mas Informacion documentacion [docs.djangoproject](https://docs.djangoproject.co
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|A| [Web Dinamica]()       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+|A| [Web Dinamica](https://github.com/BrianMarquez3/Python-Django/tree/master/webDinamica)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
 ## Web personal 
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|A| [Web Dinamica]()       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+|A| [Web personal]()       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
 
 
