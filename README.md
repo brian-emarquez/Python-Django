@@ -84,7 +84,7 @@
 | A2         |:heavy_check_mark:      | [Forms Generic Views ](#forms-Generic-Views) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | A4         |:heavy_check_mark:      | [Static ](#static) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-
+| A5         |:heavy_check_mark:      | [Template ](#template) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
 
@@ -95,7 +95,7 @@
 | B1         |:heavy_check_mark:      | [APP ](#APP) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | B2         |:heavy_check_mark:      | [REST API ](#REST-API) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | B3         |:heavy_check_mark:      | [Serealizers ](#Serealizers) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-Serealizers
+| B4         |:heavy_check_mark:      | [Viewset ](#Viewset) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
 
@@ -690,9 +690,13 @@ Mas Informacion documentacion [docs.djangoproject](https://docs.djangoproject.co
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|A4| [Static](https://github.com/BrianMarquez3/Python-Django/tree/master/formsGenericViews)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+|A4| [Static](https://github.com/BrianMarquez3/Python-Django/tree/master/static)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
+## Template
 
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
+|A4| [Template]()       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
 ---
 
@@ -723,6 +727,10 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
 
 |B3| [Serealizers](https://github.com/BrianMarquez3/Python-Django/tree/master/Serealizers)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
+
+## Viewset
+
+|B4| [Viewset]()      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 
 
