@@ -82,7 +82,7 @@
 |:------------:|:------:|:------------:|:----------------:|:----------------:|:----------------:|:--------:|
 | A1         |:heavy_check_mark:      | [Mysite ](#mysite) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | A2         |:heavy_check_mark:      | [Forms Generic Views ](#forms-Generic-Views) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-
+| A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ---
@@ -679,8 +679,15 @@ Mas Informacion documentacion [docs.djangoproject](https://docs.djangoproject.co
 |A2| [Forms Generic Views](https://github.com/BrianMarquez3/Python-Django/tree/master/formsGenericViews)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
 
----
+## Shell
 
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
+|A3| [Shell](git push)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+
+
+
+---
 
 **Djando Api Rest Framenwork**
 
