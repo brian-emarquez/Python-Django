@@ -646,11 +646,9 @@ _Documentacion_
 Mas Informacion documentacion [docs.djangoproject](https://docs.djangoproject.com/en/3.2/)
 
 
-
-
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|A1| [Mysite](https://github.com/BrianMarquez3/Python-Django/tree/master/formsGenericViews)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+|A1| [Mysite](https://github.com/BrianMarquez3/Python-Django/tree/master/mysite)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
 
 ## SHELL
