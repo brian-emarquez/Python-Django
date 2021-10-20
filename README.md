@@ -683,7 +683,7 @@ Mas Informacion documentacion [docs.djangoproject](https://docs.djangoproject.co
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|A3| [Shell](git push)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+|A3| [Shell](https://github.com/BrianMarquez3/Python-Django/tree/master/shell)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
 
 
