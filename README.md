@@ -86,6 +86,8 @@
 | A4         |:heavy_check_mark:      | [Static ](#static) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | A5         |:heavy_check_mark:      | [Template ](#template) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | A6         |:heavy_check_mark:      | [Vista plantillas](#vista-plantillas) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+| A7         |:heavy_check_mark:      | [Web dinamica](#web-dinamica) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+| A8         |:heavy_check_mark:      | [Web personal](#web-personal) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
 
@@ -703,7 +705,22 @@ Mas Informacion documentacion [docs.djangoproject](https://docs.djangoproject.co
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|A5| [Vista plantillas]()       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+|A5| [Vista plantillas](https://github.com/BrianMarquez3/Python-Django/tree/master/vistasPlantillas)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+
+## Web dinamica
+
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
+|A| [Web Dinamica]()       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+
+## Web personal 
+
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
+|A| [Web Dinamica]()       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+
+
+
 
 ---
 
