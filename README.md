@@ -801,17 +801,17 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
 
 ## REST API avanzado
 
-|C1| [REST API avanzado](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API_avanzado)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](Django-API-Rest-Framework-Avanzando) |
+|C1| [REST API avanzado](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API_avanzado)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
 
 
 ## REST API avanzado enlistarUsuarios
 
 
-|C2| [REST API avanzado enlistarUsuarios](h)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](Django-API-Rest-Framework-Avanzando) |
+|C2| [REST API avanzado enlistarUsuarios](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API_avanzado_enlistarUsuarios)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](Django-API-Rest-Framework-Avanzando) |
 
 ## REST API avanzado ModeloUsuario
 
-|C3| [REST API avanzado ModeloUsuario]()      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](Django-API-Rest-Framework-Avanzando) |
+|C3| [REST API avanzado ModeloUsuario](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API_avanzado_ModeloUsuario)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
 
 
 
