@@ -799,7 +799,7 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
 
 ## REST_API_avanzado
 
-|C1| [REST API avanzado]()      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
+|C1| [REST API avanzado](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API_avanzado)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 
 
