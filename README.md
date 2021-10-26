@@ -113,6 +113,8 @@ Creación y consumo de APIs con Django REST Framework.
 | Numeration   | Check  |    Topic     |   Quantization  |    Edit Gitpot    |    Downloads   |  link   |
 |:------------:|:------:|:------------:|:----------------:|:----------------:|:----------------:|:--------:|
 | C1         |:heavy_check_mark:      | [REST API avanzado](#REST-API-avanzado) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+| C2         |:heavy_check_mark:      | [REST API avanzado enlistarUsuarios](#REST-API-avanzado-enlistarUsuarios) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+| C3         |:heavy_check_mark:      | [REST API avanzado ModeloUsuario](#REST-API-avanzado-ModeloUsuario) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 
@@ -797,15 +799,28 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
   </tr>
 </table>
 
-## REST_API_avanzado
+## REST API avanzado
 
-|C1| [REST API avanzado](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API_avanzado)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
+|C1| [REST API avanzado](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API_avanzado)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](Django-API-Rest-Framework-Avanzando) |
+
+
+## REST API avanzado enlistarUsuarios
+
+
+|C2| [REST API avanzado enlistarUsuarios](h)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](Django-API-Rest-Framework-Avanzando) |
+
+## REST API avanzado ModeloUsuario
+
+|C3| [REST API avanzado ModeloUsuario]()      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](Django-API-Rest-Framework-Avanzando) |
 
 
 
 
 
 ---
+
+
+
 
 
 ## Books
