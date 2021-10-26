@@ -836,13 +836,14 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|C4| [REST API avanzado superuser]()      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
+|C4| [REST API avanzado superuser](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API_avanzado_superuser)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
 
 ## RetrieveUpdatePartialUpdateDestroy
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|C4| [etrieveUpdatePartialUpdateDestroy]()      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
+|C4| [EetrieveUpdatePartialUpdateDestroy](https://github.com/BrianMarquez3/Python-Django/tree/master/RetrieveUpdatePartialUpdateDestroy)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
+
 
 ---
 
