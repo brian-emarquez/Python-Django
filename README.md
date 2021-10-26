@@ -106,6 +106,18 @@
 ---
 
 
+## Django API Rest Framework Avanzando
+
+Creación y consumo de APIs con Django REST Framework.
+
+| Numeration   | Check  |    Topic     |   Quantization  |    Edit Gitpot    |    Downloads   |  link   |
+|:------------:|:------:|:------------:|:----------------:|:----------------:|:----------------:|:--------:|
+| C1         |:heavy_check_mark:      | [REST API avanzado](#REST-API-avanzado) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+
+
+
+---
+
 ## Que es Django 
 
 Django es un framework de desarrollo web de código abierto, escrito en Python, que respeta el patrón de diseño conocido como MVC (Modelo–Vista–Controlador). Fue desarrollado en origen para gestionar varias páginas orientadas a noticias de la World Company de Lawrence, Kansas, y fue liberada al público bajo una licencia BSD en julio de 2005; el framework fue nombrado en alusión al guitarrista de jazz gitano Django Reinhardt. En junio de 2008 fue anunciado que la recién formada Django Software Foundation se haría cargo de Django en el futuro.
@@ -771,12 +783,23 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
 
 ## filtrarUsuarios
 
-|B7| [filtrarUsuarios]()      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
+|B7| [filtrarUsuarios](https://github.com/BrianMarquez3/Python-Django/tree/master/filtrarUsuarios)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 
 
+---
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/Django-REST-Framework.png" />
+    </td>
+  </tr>
+</table>
 
+## REST_API_avanzado
+
+|C1| [REST API avanzado]()      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 
 
