@@ -4,6 +4,6 @@ django-environ==0.8.0
 environs==9.3.4
 psycopg2==2.8.6
 dj-database-url==0.5.0
-sqlparse==0.4.1
+sqlparse==0.4.2
 six==1.15.0
 PyJWT==2.0.1
