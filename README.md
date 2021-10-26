@@ -115,7 +115,8 @@ Creación y consumo de APIs con Django REST Framework.
 | C1         |:heavy_check_mark:      | [REST API avanzado](#REST-API-avanzado) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | C2         |:heavy_check_mark:      | [REST API avanzado enlistarUsuarios](#REST-API-avanzado-enlistarUsuarios) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | C3         |:heavy_check_mark:      | [REST API avanzado ModeloUsuario](#REST-API-avanzado-ModeloUsuario) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-
+| C4         |:heavy_check_mark:      | [REST API avanzado superuser](#REST-API-avanzado-superuser) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+| C5         |:heavy_check_mark:      | [RetrieveUpdatePartialUpdateDestroy](#RetrieveUpdatePartialUpdateDestroy) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ---
@@ -762,29 +763,41 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
 
 ## REST API
 
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
 |B2| [REST API](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 ## Serealizers
 
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
 |B3| [Serealizers](https://github.com/BrianMarquez3/Python-Django/tree/master/Serealizers)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 
 ## Viewset
 
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
 |B4| [Viewset](https://github.com/BrianMarquez3/Python-Django/tree/master/viewSets)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 
 ## APIfeed
 
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
 |B5| [APIfeed](https://github.com/BrianMarquez3/Python-Django/tree/master/APIfeed)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 ## AreaLogin
 
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
 |B6| [AreaLogin](https://github.com/BrianMarquez3/Python-Django/tree/master/AreaLogin)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 
 ## filtrarUsuarios
 
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
 |B7| [filtrarUsuarios](https://github.com/BrianMarquez3/Python-Django/tree/master/filtrarUsuarios)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 
@@ -801,26 +814,37 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
 
 ## REST API avanzado
 
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
 |C1| [REST API avanzado](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API_avanzado)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
 
 
 ## REST API avanzado enlistarUsuarios
 
-
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
 |C2| [REST API avanzado enlistarUsuarios](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API_avanzado_enlistarUsuarios)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](Django-API-Rest-Framework-Avanzando) |
 
 ## REST API avanzado ModeloUsuario
 
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
 |C3| [REST API avanzado ModeloUsuario](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API_avanzado_ModeloUsuario)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
 
 
+## REST API avanzado superuser
 
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
+|C4| [REST API avanzado superuser]()      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
 
+## RetrieveUpdatePartialUpdateDestroy
+
+|Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
+|:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
+|C4| [etrieveUpdatePartialUpdateDestroy]()      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
 
 ---
-
-
-
 
 
 ## Books
