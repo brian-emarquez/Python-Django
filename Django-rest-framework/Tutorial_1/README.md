@@ -1,6 +1,5 @@
 ## Django REST framework
 
-
 * Install
 
 ```python
