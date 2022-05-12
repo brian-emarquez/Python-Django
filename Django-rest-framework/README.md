@@ -34,6 +34,12 @@ pip install djangorestframework
 pip install pygments
 ```
 
+*Install PostgreSQL Linux*
+
+```diff
+sudo apt install postgresql postgresql-contrib
+```
+
 
 
 ---
