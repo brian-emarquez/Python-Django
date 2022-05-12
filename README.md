@@ -1,4 +1,4 @@
-<h2 align="center">🦄Framework Web | Learn Django</h2>
+<h2 align="center">🦄Framework | Learn Django - Rest framework </h2>
 
 <p align="center">
   
