@@ -846,6 +846,19 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
 
 
 ---
+# Ubuntu (Adicional)
+
+*Procesos en Ubuntu*
+
+```diff
+ps -aux
+```
+
+Ubuntu - [procesos en ejecución en Linux](https://howtoforge.es/como-ver-los-procesos-en-ejecucion-en-linux/#:~:text=El%20comando%20ps%20puede%20listar,Linux%20con%20la%20opci%C3%B3n%20%2De.&text=La%20salida%20de%20ps%20nos,se%20est%C3%A1%20ejecutando%20el%20proceso).
+
+*PostgreSQL*
+
+Cómo conectar una base de datos - [PostgreSQL con Django](https://cosasdedevs.com/posts/como-conectar-una-base-de-datos-postgresql-con-django/).
 
 
 ## Books
