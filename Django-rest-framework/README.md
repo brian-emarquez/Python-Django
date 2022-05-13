@@ -52,7 +52,7 @@ Notice that we're using hyperlinked relations in this case with HyperlinkedModel
 
 ---
 
-* WSL 
+# WSL 
 
 ```diff	
 wsl --install -d ubuntu
@@ -61,7 +61,7 @@ wsl --install -d ubuntu
 [Instalación de WSL](https://docs.microsoft.com/es-es/windows/wsl/install#install)
 
 
-* PostgreSQL
+# PostgreSQL
 
 
 ```diff	
@@ -70,5 +70,5 @@ sudo apt install postgresql postgresql-contrib
 
 _Tutorial PostgraSQL_
 
-[PostgreSQL](https://www.cherryservers.com/blog/how-to-install-and-setup-postgresql-server-on-ubuntu-20-04)
+Comience a usar la herramienta de línea de comandos de PostgreSQL - [PostgreSQL](https://www.cherryservers.com/blog/how-to-install-and-setup-postgresql-server-on-ubuntu-20-04)
 
