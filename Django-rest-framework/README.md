@@ -49,3 +49,26 @@ sudo apt install postgresql postgresql-contrib
 Documentation [Serializers](https://www.django-rest-framework.org/tutorial/quickstart/#serializers)
 
 Notice that we're using hyperlinked relations in this case with HyperlinkedModelSerializer. You can also use primary key and various other relationships, but hyperlinking is good RESTful design.
+
+---
+
+* WSL 
+
+```diff	
+wsl --install -d ubuntu
+```
+
+[Instalación de WSL](https://docs.microsoft.com/es-es/windows/wsl/install#install)
+
+
+* PostgreSQL
+
+
+```diff	
+sudo apt install postgresql postgresql-contrib
+```
+
+_Tutorial PostgraSQL_
+
+[PostgreSQL](https://www.cherryservers.com/blog/how-to-install-and-setup-postgresql-server-on-ubuntu-20-04)
+
