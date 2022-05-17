@@ -79,6 +79,18 @@ _Relaciones_
 
 [Many-to-one relationships](https://docs.djangoproject.com/en/4.0/topics/db/models/#relationships)
 
+```python
+from django.db import models
+
+class Topping(models.Model):
+    # ...
+    pass
+
+class Pizza(models.Model):
+    # ...
+    toppings = models.ManyToManyField(Topping)
+```
+
 [Many-to-one relationships](https://docs.djangoproject.com/en/4.0/topics/db/models/#many-to-many-relationships)
 
 [One-to-one relationships](https://docs.djangoproject.com/en/4.0/topics/db/models/#one-to-one-relationships)
