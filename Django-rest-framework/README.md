@@ -8,7 +8,7 @@
   </tr>
 </table>
 
-* Comands
+## Comands
 
 *Use Freeze*
 
@@ -40,9 +40,39 @@ pip install pygments
 sudo apt install postgresql postgresql-contrib
 ```
 
+*Sheel Django*
+
+```diff
+python manage.py shell
+```
 
 
 ---
+
+* Model
+
+_Ejemplo practico_
+
+```python
+class Person(models.Model):
+    SHIRT_SIZES = (
+        ('S', 'Small'),
+        ('M', 'Medium'),
+        ('L', 'Large'),
+    )
+    name = models.CharField(max_length=60)
+    shirt_size = models.CharField(max_length=1, choices=SHIRT_SIZES)
+```
+
+```diff
+from application.modeldemo.models import *
+from django.db import models
+p = Person(name="Fred Flintstone", shirt_size="L")
+p.save()
+p.get_shirt_size_display()
+```
+
+
 
 * Serializers
 
@@ -52,7 +82,7 @@ Notice that we're using hyperlinked relations in this case with HyperlinkedModel
 
 ---
 
-# WSL 
+## WSL 
 
 ```diff	
 wsl --install -d ubuntu
@@ -61,7 +91,7 @@ wsl --install -d ubuntu
 [Instalación de WSL](https://docs.microsoft.com/es-es/windows/wsl/install#install)
 
 
-# PostgreSQL
+## PostgreSQL
 
 
 ```diff	
