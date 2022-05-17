@@ -75,6 +75,15 @@ p.get_shirt_size_display()
 [Model Django](https://docs.djangoproject.com/en/4.0/topics/db/models/)
 
 
+_Relaciones_
+
+[Many-to-one relationships](https://docs.djangoproject.com/en/4.0/topics/db/models/#relationships)
+
+[Many-to-one relationships](https://docs.djangoproject.com/en/4.0/topics/db/models/#many-to-many-relationships)
+
+[One-to-one relationships](https://docs.djangoproject.com/en/4.0/topics/db/models/#one-to-one-relationships)
+
+
 * Serializers
 
 Documentation [Serializers](https://www.django-rest-framework.org/tutorial/quickstart/#serializers)
