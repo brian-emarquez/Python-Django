@@ -80,7 +80,7 @@ _Argumentos_
 
 <ol class="toc"><li><a href="#argumento-cascade">Argumento <code>CASCADE</code></a></li><li><a href="#argumento-protect">Argumento <code>PROTECT</code></a></li><li><a href="#argumento-restrict">Argumento <code>RESTRICT</code></a></li><li><a href="#argumento-set_null">Argumento <code>SET_NULL</code></a></li><li><a href="#argumento-set_default">Argumento <code>SET_DEFAULT</code></a></li><li><a href="#set-argumento"><code>SET()</code> Argumento</a></li><li><a href="#argumento-do_nothing">Argumento <code>DO_NOTHING</code></a></li></ol>
 
-[Argumentos](hhttps://www.delftstack.com/es/howto/django/django-on_delete-parameter/)
+[Función del parámetro - Argumentos](hhttps://www.delftstack.com/es/howto/django/django-on_delete-parameter/)
 
 
 _Relaciones_
