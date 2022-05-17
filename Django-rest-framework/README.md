@@ -72,6 +72,7 @@ p.save()
 p.get_shirt_size_display()
 ```
 
+[Model Django](https://docs.djangoproject.com/en/4.0/topics/db/models/)
 
 
 * Serializers
