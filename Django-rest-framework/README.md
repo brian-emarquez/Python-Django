@@ -1,4 +1,4 @@
-## Django REST Framework (Ubuntu)
+## Django REST Framework (Ubuntu Linux)
 
 <table align="center">
   <tr>
