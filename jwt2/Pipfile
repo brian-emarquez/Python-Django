@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "===3.0.1"
+djangorestframework-simplejwt = "*"
+djangorestframework = "*"
+
+[dev-packages]
+pytest = "*"
+
+[requires]
+python_version = "3.8"
