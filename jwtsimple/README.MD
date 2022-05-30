@@ -1,0 +1,1 @@
+https://egcoder.com/posts/django-rest-framework-custom-jwt-authentication/
