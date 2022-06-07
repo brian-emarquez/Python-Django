@@ -844,8 +844,12 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
 |C4| [EetrieveUpdatePartialUpdateDestroy](https://github.com/BrianMarquez3/Python-Django/tree/master/RetrieveUpdatePartialUpdateDestroy)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
 
-
 ---
+
+## Compilador Online (Python)
+
+[www.programiz.com](https://www.programiz.com/python-programming/online-compiler/?ref=225a29ac)
+
 # Ubuntu (Adicional)
 
 *Procesos en Ubuntu*
@@ -885,7 +889,7 @@ Cómo conectar una base de datos - [PostgreSQL con Django](https://cosasdedevs.c
 
 </table>
 
-## Spotify Django
+## Spotify Python
 
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
 
