@@ -1,7 +1,7 @@
 asgiref==3.5.1
 backports.zoneinfo==0.2.1
 dj-database-url==0.5.0
-Django==4.0.4
+Django==4.0.7
 django-extensions==3.1.5
 djangorestframework==3.13.1
 environs==9.5.0
