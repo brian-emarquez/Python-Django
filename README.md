@@ -827,8 +827,6 @@ Cómo conectar una base de datos - [PostgreSQL con Django](https://cosasdedevs.c
 
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
 
-![python](./Images/django2.jpg)
-
 ---
 
 ## Paypal
