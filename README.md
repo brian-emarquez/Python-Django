@@ -352,20 +352,6 @@ DATABASES = {
     }
 }
 ```
-### Django BBDD
-
-Soportados Oficialmente:
-- SQLite3 : Gestor de BBDD por defecto
-- PostgreSQL: Gestor Recomendado
-- MySql
-- Oracle
-
-Con conectores ofrecidos por terceros:
-- SQL Server
-- SAP SQL
-- DB2
-- Firebird
-
 
 | Carpeta                    | Link         |     Home   |  Code       | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
