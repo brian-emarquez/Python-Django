@@ -70,8 +70,6 @@
 | 023          |:heavy_check_mark:      | [Implementando decoradores](#Implementando-decoradores) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 024          |:heavy_check_mark:      | [Sobreescritura del metodo post](#Sobreescritura-del-metodo-post) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
-
-
 ---
 
 
@@ -103,7 +101,6 @@
 | B7         |:heavy_check_mark:      | [filtrarUsuarios ](#filtrarUsuarios) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) 
 
 ---
-
 
 ## Django API Rest Framework Avanzando
 
@@ -251,12 +248,12 @@ _Shell_
 python manage.py shell
 ```
 
-
-
 ---
+
 ## Base de datos
 
 _Principales conectores a gestores de base de datos_
+
 ### Crear Super Usuario
 
 ```python
@@ -268,6 +265,10 @@ python manage.py createsuperuser
 _Driver_
 ```
 pip install psycopg2
+```
+
+```
+pip install psycopg2-binary
 ```
 
 _Libreria_
