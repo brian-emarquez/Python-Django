@@ -118,6 +118,14 @@ Creación y consumo de APIs con Django REST Framework.
 
 ## Instalador
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/fractal001.gif" />
+    </td>
+  </tr>
+</table>
+
 📦 Download installer -  [Install Django](https://www.djangoproject.com/) Intalador de Django.<br>
 📦 Download installer - [Install PyCham](https://www.jetbrains.com/es-es/pycharm/download/#section=windows) Intalador de PyCham.<br>
 📦 Download installer - [Install Python](https://www.python.org/) Instalador de Python.<br>
@@ -361,6 +369,7 @@ Con conectores ofrecidos por terceros:
 
 ---
 ## Manejo de datos por Consola
+
 ### Insertar datos BBDD - Consola
 
 ```python
