@@ -595,20 +595,7 @@ _Documentacion_
 |024| [Sobreescriturdel metodo post](https://github.com/BrianMarquez3/Python-Django/tree/master/Sobreescritura_del_metodo_dispatch)          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
 
 
-
-
 ---
-
-**Fundamentos en Django**
-
-<table align="center">
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./Images/sider.gif" />
-    </td>
-  </tr>
-</table>
-
 
 ## Mysite
 
@@ -748,8 +735,6 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
 |B7| [filtrarUsuarios](https://github.com/BrianMarquez3/Python-Django/tree/master/filtrarUsuarios)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
-
-
 
 ---
 
