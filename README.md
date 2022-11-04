@@ -131,10 +131,11 @@ Creación y consumo de APIs con Django REST Framework.
 para desarrolladores profesionales. <br>
 📦 [Install Python](https://www.python.org/) Python is a programming language that lets you work quickly
 and integrate systems more effectively.<br>
-📦 [PIP](https://www.python.org/) ncuentre, instale y publique paquetes de Python con el Índice de paquetes de Python <br>
-
+📦 [PIP](https://www.python.org/) Encuentre, instale y publique paquetes de Python con el Índice de paquetes de Python <br>
+📦 [Postman](https://www.postman.com/) Postman <br>
 
 ---
+
 ##  Modelo Vista Controlador 
 
 - Model Template View
