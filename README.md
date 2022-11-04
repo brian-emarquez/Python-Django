@@ -121,9 +121,9 @@ Creación y consumo de APIs con Django REST Framework.
 
 ## Instalador
 
-📦 [Install Django](https://www.djangoproject.com/) Intalador de Django.<br>
-📦 [Install PyCham](https://www.jetbrains.com/es-es/pycharm/download/#section=windows) Intalador de PyCham.<br>
-📦 [Install Python](https://www.python.org/) Instalador de Python.<br>
+📦 Download installer -  [Install Django](https://www.djangoproject.com/) Intalador de Django.<br>
+📦 Download installer - [Install PyCham](https://www.jetbrains.com/es-es/pycharm/download/#section=windows) Intalador de PyCham.<br>
+📦 Download installer - [Install Python](https://www.python.org/) Instalador de Python.<br>
 
 ---
 ##  Modelo Vista Controlador 
