@@ -132,17 +132,6 @@ Creación y consumo de APIs con Django REST Framework.
 ![django](./Images/MTV1.jpg)
 
 ---
-## Características
-
-- Un mapeador objeto-relacional.
-- Aplicaciones "enchufables" que pueden instalarse en cualquier página gestionada con Django.
-- Una API de base de datos robusta.
-- Un sistema incorporado de "vistas genéricas" que ahorra tener que escribir la lógica de ciertas tareas comunes.
-- Un sistema extensible de plantillas basado en etiquetas, con herencia de plantillas.
-- Un despachador de URLs basado en expresiones regulares.
-- Soporte de internacionalización, incluyendo traducciones incorporadas de la interfaz de administración.
-
----
 
 ## Principales Comandos
 
