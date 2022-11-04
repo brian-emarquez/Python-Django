@@ -38,7 +38,7 @@
   </tr>
 </table>
 
-[Django Github](https://github.com/django/django)
+Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Thanks for checking it out. - [Django Github](https://github.com/django/django)
 
 
 ## Tabla de Contenidos
