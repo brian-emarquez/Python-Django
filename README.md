@@ -133,7 +133,7 @@ para desarrolladores profesionales. <br>
 and integrate systems more effectively.<br>
 📦 [PIP](https://www.python.org/) Encuentre, instale y publique paquetes de Python con el Índice de paquetes de Python <br>
 📦 [Postman](https://www.postman.com/) Postman <br>
-📦 [PostgreSQL](https://www.postgresql.org/) The World's Most Advanced Open Source Relational Database | Repository Postgres (https://github.com/BrianMarquez3/PostgreSQL-Training) <br>
+📦 [PostgreSQL](https://www.postgresql.org/) The World's Most Advanced Open Source Relational Database | [Repository Postgres] (https://github.com/BrianMarquez3/PostgreSQL-Training) <br>
 
 ---
 
