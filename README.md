@@ -45,7 +45,6 @@
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-| 001          |:heavy_check_mark:      | [Que es Django ](#Que-es-Django) |  <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 002          |:heavy_check_mark:      | [Instalador ](#Instalador) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 003          |:heavy_check_mark:      | [Modelo Vista Controlador  ](#Modelo-Vista-Controlador) |  <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 003          |:heavy_check_mark:      | [Características ](#Características) |  <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
@@ -117,25 +116,6 @@ Creación y consumo de APIs con Django REST Framework.
 | C3         |:heavy_check_mark:      | [REST API avanzado ModeloUsuario](#REST-API-avanzado-ModeloUsuario) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | C4         |:heavy_check_mark:      | [REST API avanzado superuser](#REST-API-avanzado-superuser) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | C5         |:heavy_check_mark:      | [RetrieveUpdatePartialUpdateDestroy](#RetrieveUpdatePartialUpdateDestroy) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-
-
----
-
-## Que es Django 
-
-Django es un framework de desarrollo web de código abierto, escrito en Python, que respeta el patrón de diseño conocido como MVC (Modelo–Vista–Controlador). Fue desarrollado en origen para gestionar varias páginas orientadas a noticias de la World Company de Lawrence, Kansas, y fue liberada al público bajo una licencia BSD en julio de 2005; el framework fue nombrado en alusión al guitarrista de jazz gitano Django Reinhardt. En junio de 2008 fue anunciado que la recién formada Django Software Foundation se haría cargo de Django en el futuro.
-
-La meta fundamental de Django es facilitar la creación de sitios web complejos. Django pone énfasis en el re-uso, la conectividad y extensibilidad de componentes, el desarrollo rápido y el principio No te repitas (DRY, del inglés Don't Repeat Yourself). Python es usado en todas las partes del framework, incluso en configuraciones, archivos, y en los modelos de datos. [WIKIPEDIA](https://es.wikipedia.org/wiki/Django_(framework)#:~:text=Django%20es%20un%20framework%20de,vista%E2%80%93controlador%20(MVC).&text=En%20junio%20de%202008%20fue,de%20Django%20en%20el%20futuro.) <br>
-
-### Framework
-
-Un Framework es un marco de trabajo formado por un conjunto de herramientas, librerias y buenas practicas.
-
-### Para qué Sirve Django
-
-- Para crear sitios web (Complejos) de forma rapida y sencilla
-- Hay tareas que son repetitivas, pesadas y comunes en el momento de crear deferentes sitios web, django viene a facilitar la realizacion de estas tareas.
-- Hay codigos que podemos reutilizar de un sitio web a otro, Django tambien nos permite esta reutilizacion de forma sencilla.
 
 ---
 
