@@ -126,9 +126,13 @@ Creación y consumo de APIs con Django REST Framework.
   </tr>
 </table>
 
-📦 Download installer -  [Install Django](https://www.djangoproject.com/) Intalador de Django.<br>
-📦 Download installer - [Install PyCham](https://www.jetbrains.com/es-es/pycharm/download/#section=windows) Intalador de PyCham.<br>
-📦 Download installer - [Install Python](https://www.python.org/) Instalador de Python.<br>
+📦 Download installer -  [Install Django](https://www.djangoproject.com/)Django makes it easier to build better web apps more quickly and with less code.<br>
+📦 Download installer - [Install PyCham](https://www.jetbrains.com/es-es/pycharm/download/#section=windows) IDE de Python
+para desarrolladores profesionales. <br>
+📦 Download installer - [Install Python](https://www.python.org/) Python is a programming language that lets you work quickly
+and integrate systems more effectively.<br>
+📦 Encuentre, instale y publique paquetes de Python con el Índice de paquetes de Python - [PIP](https://www.python.org/) pip is the package installer for Python. You can use pip to install packages from the Python Package Index and other indexes.<br>
+
 
 ---
 ##  Modelo Vista Controlador 
