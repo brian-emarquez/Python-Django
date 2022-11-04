@@ -126,7 +126,7 @@ Creación y consumo de APIs con Django REST Framework.
   </tr>
 </table>
 
-📦 [Install Django](https://www.djangoproject.com/)Django makes it easier to build better web apps more quickly and with less code.<br>
+📦 [Install Django](https://www.djangoproject.com/) Django makes it easier to build better web apps more quickly and with less code.<br>
 📦 [Install PyCham](https://www.jetbrains.com/es-es/pycharm/download/#section=windows) IDE de Python
 para desarrolladores profesionales. <br>
 📦 [Install Python](https://www.python.org/) Python is a programming language that lets you work quickly
