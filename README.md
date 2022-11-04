@@ -154,7 +154,7 @@ pip install --upgrade pip
 _Django Version_
 
 ```
-pip install Django==3.2.8
+pip install Django
 ```
 
 _Crear Entornos Virtuales y Paquetes(env)_
