@@ -2,21 +2,21 @@
 
 ## JET (django-jet 4) & REDOC
 
-```
+```bash
 pip install https://github.com/Barukimang/django-jet/archive/dev.zip
 ```
 
-Se presenta la manera de insltalar Jet 4 en Django.
+Install Jet 4 en Django.
 
 [Mojtaba-saf/django-jet](https://github.com/Mojtaba-saf/django-jet)
 
-```
+```bash
 pip install https://github.com/Barukimang/django-jet/archive/dev.zip
 # or
 easy_install https://github.com/Barukimang/django-jet/archive/dev.zip
+```
 
-
-_Ejemple_
+_Example_
 
 
 * Setting.py
@@ -31,6 +31,7 @@ INSTALLED_APPS = [
     # -----------: Redoc :---------------
     'coreapi', 
     'drf_yasg',.
+    ...
     ...
 ]
 ```
@@ -47,8 +48,8 @@ MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
 ]
 ```
-```python
 
+```python
 JET_SIDE_MENU_COMPACT = True
 JET_THEMES = [
     {
@@ -83,7 +84,6 @@ JET_THEMES = [
     }
 ]
 ```
-
 
 * urls.py
 
