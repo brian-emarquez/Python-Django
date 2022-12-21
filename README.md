@@ -42,6 +42,10 @@
 
 Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Thanks for checking it out. - [Django Github](https://github.com/django/django)
 
+_Instalar Django_
+
+[www.djangoproject.com](https://www.djangoproject.com/download/)
+
 
 ## Tabla de Contenidos
 
@@ -148,9 +152,47 @@ and integrate systems more effectively.<br>
 
 ## Principales Comandos
 
-_Instalar Django_
+_Crear Proyecto_
 
-[www.djangoproject.com](https://www.djangoproject.com/download/)
+```
+django-admin startproject nombreProyecto
+```
+
+_Crear Aplicacion_
+
+```python
+python manage.py startapp nombreAplicacion
+```
+
+_Crear Entornos Virtual Windows - Linux_
+
+```python
+python -m venv env
+```
+
+_Activar Entorno Virtual_
+
+__Windows__
+```
+env\Scripts\activate
+```
+
+__Linux__
+```
+source env\bin\activate
+```
+
+_Migrar_
+
+```python
+python manage.py migrate
+```
+
+_Generar la Base de Datos_
+
+```python
+python manage.py makemigrations
+```
 
 _Actualiza Django_
 
@@ -170,24 +212,6 @@ _Django Version_
 pip install Django
 ```
 
-_Crear Entornos Virtual Windows - Linux_
-
-```python
-python -m venv env
-```
-
-_Activar Entorno Virtual_
-
-**Windows**
-```
-env\Scripts\activate
-```
-
-**Linux**
-```
-source env\bin\activate
-```
-
 _Instalar requirements.txt_
 
 ```python
@@ -200,21 +224,10 @@ _Version de Django_
 python -m django --version
 ```
 
-_Primer Projecto_
-
-```
-django-admin startproject nombreProyecto
-```
-
 _Ejecutar Servidor Django_
 
 ```python
 python manage.py runserver
-```
-_Crear Aplicacion_
-
-```python
-python manage.py startapp nombreAplicacion
 ```
 
 _Check de la Aplicacion_
@@ -233,11 +246,6 @@ _Generar Codigo SQL_
 
 ```python
 python manage.py sqlmigrate nombreAplicacion 000n
-```
-_Migrate_
-
-```python
-python manage.py migrate
 ```
 
 _mysqlclient_
