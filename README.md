@@ -172,12 +172,12 @@ python -m venv env
 
 _Activar Entorno Virtual_
 
-__Windows__
+_Windows_
 ```
 env\Scripts\activate
 ```
 
-__Linux__
+_Linux_
 ```
 source env\bin\activate
 ```
