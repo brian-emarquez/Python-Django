@@ -27,6 +27,7 @@
    </a>
     <a href="https://github.com/BrianMarquez3/Python-Django/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
+  <img src="https://img.shields.io/badge/Plataform-Linux-red">
   </a><br>
  
   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Django?color=yellow&style=for-the-badge">
