@@ -170,16 +170,22 @@ _Django Version_
 pip install Django
 ```
 
-_Crear Entornos Virtuales y Paquetes(env)_
+_Crear Entornos Virtual Windows - Linux_
 
 ```python
 python -m venv env
 ```
 
-_Activar Entorno Virtuale y Paquete(env)_
+_Activar Entorno Virtual_
 
+*Windows*
 ```
 env\Scripts\activate
+```
+
+*Linux*
+```
+source env\bin\activate
 ```
 
 _Instalar requirements.txt_
