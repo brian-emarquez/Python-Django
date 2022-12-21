@@ -1,21 +1,21 @@
 <h2 align="center"> Framework | Learn Django - Rest framework </h2>
-<h4 align="center"> The web framework for perfectionists with deadlines</h4>
-
+<h4 align="center"> The web framework for perfectionists with deadlines </h4>
 
 <p align="center">
   
-   </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Python-Django?color=red">
-  </a>
-  <a href="https://github.com/BrianMarquez3/Python-Django/stargazers">
-    <img src="https://img.shields.io/github/stars/BrianMarquez3/Python-Django.svg?style=flat" alt="Stars">
-  </a>
-  <a href="https://github.com/BrianMarquez3/Python-Django/network">
-    <img src="https://img.shields.io/github/forks/BrianMarquez3/Python-Django.svg?style=flat" alt="Forks">
-  </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Python-Django?color=gren&label=Version&logo=python">
+  <a>
+      <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Python-Django?color=red">
   </a>
   
+  <a href="https://github.com/BrianMarquez3/Python-Django/stargazers">
+      <img src="https://img.shields.io/github/stars/BrianMarquez3/Python-Django.svg?style=flat" alt="Stars">
+  </a>
+  
+  <a href="https://github.com/BrianMarquez3/Python-Django/network">
+      <img src="https://img.shields.io/github/forks/BrianMarquez3/Python-Django.svg?style=flat" alt="Forks">
+  </a>
+  
+<!-- Tamaño -->
   </a>
     <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Python-Django">
   </a>
@@ -25,7 +25,7 @@
   </a>
   
    </a>
-   <a href="https://github.com/BrianMarquez3/Python-Django/network">
+    <a href="https://github.com/BrianMarquez3/Python-Django/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
  
