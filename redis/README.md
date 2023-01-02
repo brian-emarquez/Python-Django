@@ -1,1 +1,0 @@
-https://enlear.academy/hands-on-with-redis-and-django-ed7df9104343
