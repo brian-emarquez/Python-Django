@@ -11,7 +11,7 @@ channels-redis==4.0.0
 constantly==15.1.0
 cryptography==39.0.0
 daphne==4.0.0
-Django==4.1.5
+Django==4.1.6
 exceptiongroup==1.1.0
 h11==0.14.0
 hyperlink==21.0.0
