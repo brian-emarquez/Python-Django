@@ -7,11 +7,11 @@
       <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Python-Django?color=red">
   </a>
   
-  <a href="https://github.com/BrianMarquez3/Python-Django/stargazers">
+  <a href="https://github.com/brian-emarquez/Python-Django/stargazers">
       <img src="https://img.shields.io/github/stars/BrianMarquez3/Python-Django.svg?style=flat" alt="Stars">
   </a>
   
-  <a href="https://github.com/BrianMarquez3/Python-Django/network">
+  <a href="https://github.com/brian-emarquez/Python-Django/network">
       <img src="https://img.shields.io/github/forks/BrianMarquez3/Python-Django.svg?style=flat" alt="Forks">
   </a>
   
@@ -25,7 +25,7 @@
   </a>
   
    </a>
-    <a href="https://github.com/BrianMarquez3/Python-Django/network">
+    <a href="https://github.com/brian-emarquez/Python-Django/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   <img src="https://img.shields.io/badge/Plataform-Linux-red">
   </a><br>
@@ -52,30 +52,30 @@ _Instalar Django_
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-| 002          |:heavy_check_mark:      | [Instalador ](#Instalador) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 003          |:heavy_check_mark:      | [Modelo Vista Controlador  ](#Modelo-Vista-Controlador) |  <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 003          |:heavy_check_mark:      | [Características ](#Características) |  <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 004          |:heavy_check_mark:      |[Principales Comandos ](#Principales-Comandos) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 005          |:heavy_check_mark:      | [Base de datos](#Base-de-datos) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 006          |:heavy_check_mark:      | [Manejo de datos por Consola ](#Manejo-de-datos-por-Consola) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 007          |:heavy_check_mark:      | [Arquitectura](#Arquitectura) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 008          |:heavy_check_mark:      | [Jerarquia u orden de llamadas desde plantilla](#Jerarquia-u-orden-de-llamadas-desde-plantilla) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 009          |:heavy_check_mark:      | [API Forms ](#api-form) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 010          |:heavy_check_mark:      | [Proyecto vs Aplicacion ](#Proyecto-vs-Aplicacion) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 011          |:heavy_check_mark:      | [Pycharm ](#Pycharm) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 012          |:heavy_check_mark:      | [Envio de Email ](#Envio-de-Email) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 013          |:heavy_check_mark:      | [Models ](#Models ) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 014          |:heavy_check_mark:      | [ORM ](#ORM ) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 015          |:heavy_check_mark:      | [Archivos estaticos](#Archivos-estaticos) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 016          |:heavy_check_mark:      | [Views](#views) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 017          |:heavy_check_mark:      | [Parametros](#Parametros) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 018          |:heavy_check_mark:      | [Plantillas](#plantillas) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 019          |:heavy_check_mark:      | [Panel de Administrador](#Panel-de-Administrador) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 020          |:heavy_check_mark:      | [ListView vistas basadas en clases](#ListView-vistas-basadas-en-clases) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 021          |:heavy_check_mark:      | [ListView II vistas basadas en clases](#ListView-II-vistas-basadas-en-clases) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 022          |:heavy_check_mark:      | [Sobreescritura del metodo dispatch](#Sobreescritura-del-metodo-dispatch) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 |[ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 023          |:heavy_check_mark:      | [Implementando decoradores](#Implementando-decoradores) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| 024          |:heavy_check_mark:      | [Sobreescritura del metodo post](#Sobreescritura-del-metodo-post) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 002          |:heavy_check_mark:      | [Instalador ](#Instalador) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 003          |:heavy_check_mark:      | [Modelo Vista Controlador  ](#Modelo-Vista-Controlador) |  <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 003          |:heavy_check_mark:      | [Características ](#Características) |  <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 004          |:heavy_check_mark:      |[Principales Comandos ](#Principales-Comandos) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 005          |:heavy_check_mark:      | [Base de datos](#Base-de-datos) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 006          |:heavy_check_mark:      | [Manejo de datos por Consola ](#Manejo-de-datos-por-Consola) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 007          |:heavy_check_mark:      | [Arquitectura](#Arquitectura) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 008          |:heavy_check_mark:      | [Jerarquia u orden de llamadas desde plantilla](#Jerarquia-u-orden-de-llamadas-desde-plantilla) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 009          |:heavy_check_mark:      | [API Forms ](#api-form) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 010          |:heavy_check_mark:      | [Proyecto vs Aplicacion ](#Proyecto-vs-Aplicacion) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 011          |:heavy_check_mark:      | [Pycharm ](#Pycharm) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 012          |:heavy_check_mark:      | [Envio de Email ](#Envio-de-Email) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 013          |:heavy_check_mark:      | [Models ](#Models ) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 014          |:heavy_check_mark:      | [ORM ](#ORM ) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 015          |:heavy_check_mark:      | [Archivos estaticos](#Archivos-estaticos) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 016          |:heavy_check_mark:      | [Views](#views) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 017          |:heavy_check_mark:      | [Parametros](#Parametros) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 018          |:heavy_check_mark:      | [Plantillas](#plantillas) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 019          |:heavy_check_mark:      | [Panel de Administrador](#Panel-de-Administrador) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 020          |:heavy_check_mark:      | [ListView vistas basadas en clases](#ListView-vistas-basadas-en-clases) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 021          |:heavy_check_mark:      | [ListView II vistas basadas en clases](#ListView-II-vistas-basadas-en-clases) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 022          |:heavy_check_mark:      | [Sobreescritura del metodo dispatch](#Sobreescritura-del-metodo-dispatch) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 |[ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 023          |:heavy_check_mark:      | [Implementando decoradores](#Implementando-decoradores) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
+| 024          |:heavy_check_mark:      | [Sobreescritura del metodo post](#Sobreescritura-del-metodo-post) | <img src="https://media.giphy.com/media/QyyxtvcuD2Zn71yBis/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/n5D9zrPhi98Z59tsdH/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) | 
 
 ---
 
@@ -84,14 +84,14 @@ _Instalar Django_
 
 | Numeration   | Check  |    Topic     |   Quantization   |    Edit Gitpot   |    Downloads     |  link    |
 |:------------:|:------:|:------------:|:----------------:|:----------------:|:----------------:|:--------:|
-| A1         |:heavy_check_mark:      | [Mysite ](#mysite) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| A2         |:heavy_check_mark:      | [Forms Generic Views ](#forms-Generic-Views) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| A4         |:heavy_check_mark:      | [Static ](#static) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| A5         |:heavy_check_mark:      | [Template ](#template) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| A6         |:heavy_check_mark:      | [Vista plantillas](#vista-plantillas) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| A7         |:heavy_check_mark:      | [Web dinamica](#web-dinamica) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| A8         |:heavy_check_mark:      | [Web personal](#web-personal) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+| A1         |:heavy_check_mark:      | [Mysite ](#mysite) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+| A2         |:heavy_check_mark:      | [Forms Generic Views ](#forms-Generic-Views) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+| A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+| A4         |:heavy_check_mark:      | [Static ](#static) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+| A5         |:heavy_check_mark:      | [Template ](#template) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+| A6         |:heavy_check_mark:      | [Vista plantillas](#vista-plantillas) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+| A7         |:heavy_check_mark:      | [Web dinamica](#web-dinamica) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+| A8         |:heavy_check_mark:      | [Web personal](#web-personal) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) || A3         |:heavy_check_mark:      | [Shell ](#shell) | <img src="https://media.giphy.com/media/UtoTtcO5EudVBWkWCo/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/HVAAGmBfhl6MfS69om/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
 
 ---
 
@@ -99,13 +99,13 @@ _Instalar Django_
 
 | Numeration   | Check  |    Topic     |   Quantization  |    Edit Gitpot    |    Downloads   |  link   |
 |:------------:|:------:|:------------:|:----------------:|:----------------:|:----------------:|:--------:|
-| B1         |:heavy_check_mark:      | [APP ](#APP) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| B2         |:heavy_check_mark:      | [REST API ](#REST-API) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| B3         |:heavy_check_mark:      | [Serealizers ](#Serealizers) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| B4         |:heavy_check_mark:      | [Viewset ](#Viewset) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| B5         |:heavy_check_mark:      | [APIfeed ](#APIfeed) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| B6         |:heavy_check_mark:      | [AreaLogin ](#AreaLogin) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| B7         |:heavy_check_mark:      | [filtrarUsuarios ](#filtrarUsuarios) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) 
+| B1         |:heavy_check_mark:      | [APP ](#APP) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+| B2         |:heavy_check_mark:      | [REST API ](#REST-API) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+| B3         |:heavy_check_mark:      | [Serealizers ](#Serealizers) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+| B4         |:heavy_check_mark:      | [Viewset ](#Viewset) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+| B5         |:heavy_check_mark:      | [APIfeed ](#APIfeed) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+| B6         |:heavy_check_mark:      | [AreaLogin ](#AreaLogin) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+| B7         |:heavy_check_mark:      | [filtrarUsuarios ](#filtrarUsuarios) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) 
 
 ---
 
@@ -115,11 +115,11 @@ Creación y consumo de APIs con Django REST Framework.
 
 | Numeration   | Check  |    Topic     |   Quantization  |    Edit Gitpot    |    Downloads   |  link   |
 |:------------:|:------:|:------------:|:----------------:|:----------------:|:----------------:|:--------:|
-| C1         |:heavy_check_mark:      | [REST API avanzado](#REST-API-avanzado) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| C2         |:heavy_check_mark:      | [REST API avanzado enlistarUsuarios](#REST-API-avanzado-enlistarUsuarios) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| C3         |:heavy_check_mark:      | [REST API avanzado ModeloUsuario](#REST-API-avanzado-ModeloUsuario) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| C4         |:heavy_check_mark:      | [REST API avanzado superuser](#REST-API-avanzado-superuser) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| C5         |:heavy_check_mark:      | [RetrieveUpdatePartialUpdateDestroy](#RetrieveUpdatePartialUpdateDestroy) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+| C1         |:heavy_check_mark:      | [REST API avanzado](#REST-API-avanzado) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+| C2         |:heavy_check_mark:      | [REST API avanzado enlistarUsuarios](#REST-API-avanzado-enlistarUsuarios) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+| C3         |:heavy_check_mark:      | [REST API avanzado ModeloUsuario](#REST-API-avanzado-ModeloUsuario) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+| C4         |:heavy_check_mark:      | [REST API avanzado superuser](#REST-API-avanzado-superuser) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
+| C5         |:heavy_check_mark:      | [RetrieveUpdatePartialUpdateDestroy](#RetrieveUpdatePartialUpdateDestroy) | <img src="https://media.giphy.com/media/f8W1VYgiA6gBEfEPPl/giphy.gif" width="25px">    |  <img src="https://media.giphy.com/media/cNYPz37tVqWA1UJtBf/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/brian-emarquez) |
 
 ---
 
@@ -140,7 +140,7 @@ para desarrolladores profesionales. <br>
 and integrate systems more effectively.<br>
 📦 [PIP](https://www.python.org/) Encuentre, instale y publique paquetes de Python con el Índice de paquetes de Python <br>
 📦 [Postman](https://www.postman.com/) Postman <br>
-📦 [PostgreSQL](https://www.postgresql.org/) The World's Most Advanced Open Source Relational Database  - [Repository Postgres](https://github.com/BrianMarquez3/PostgreSQL-Training)
+📦 [PostgreSQL](https://www.postgresql.org/) The World's Most Advanced Open Source Relational Database  - [Repository Postgres](https://github.com/brian-emarquez/PostgreSQL-Training)
 
 ---
 
@@ -416,7 +416,7 @@ print(miformulario)
 
 | Carpeta                    | Link         |     Home   |  Code       | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [API FORM](https://github.com/BrianMarquez3/Python-Django/tree/master/API_Forms)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [API FORM](https://github.com/brian-emarquez/Python-Django/tree/master/API_Forms)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
@@ -465,7 +465,7 @@ send_mail('el asusntoo', 'mensaje del correo, 'tu correo', ['correo destinatario
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Envio de Email](https://github.com/BrianMarquez3/Python-Django/tree/master/TiendaOnline_EnvioEmails)          |      ✔️     |[⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ | 
+| [Envio de Email](https://github.com/brian-emarquez/Python-Django/tree/master/TiendaOnline_EnvioEmails)          |      ✔️     |[⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ | 
 
 ---
 ## Models 
@@ -477,8 +477,8 @@ Un modelo es la fuente única y definitiva de información sobre sus datos. Cont
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Model](https://github.com/BrianMarquez3/Python-Django/tree/master/Models)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-| [Model Relaciones](https://github.com/BrianMarquez3/Python-Django/tree/master/Models_II_Relaciones)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ | 
+| [Model](https://github.com/brian-emarquez/Python-Django/tree/master/Models)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Model Relaciones](https://github.com/brian-emarquez/Python-Django/tree/master/Models_II_Relaciones)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ | 
 
 
 ---
@@ -490,8 +490,8 @@ Un ORM es un modelo de programación que permite mapear las estructuras de una b
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [ORM I](https://github.com/BrianMarquez3/Python-Django/tree/master/ORM)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-| [ORM II](https://github.com/BrianMarquez3/Python-Django/tree/master/ORM_II)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [ORM I](https://github.com/brian-emarquez/Python-Django/tree/master/ORM)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [ORM II](https://github.com/brian-emarquez/Python-Django/tree/master/ORM_II)          |      ✔️     | [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
@@ -511,7 +511,7 @@ Un ORM es un modelo de programación que permite mapear las estructuras de una b
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Archivos_estaticos](https://github.com/BrianMarquez3/Python-Django/tree/master/Archivos_estaticos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Archivos_estaticos](https://github.com/brian-emarquez/Python-Django/tree/master/Archivos_estaticos)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 
 ---
@@ -535,30 +535,30 @@ C = Templates (Pantallas)
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Mi Primera View](https://github.com/BrianMarquez3/Python-Django/tree/master/Mi_primera_view)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Mi Primera View](https://github.com/brian-emarquez/Python-Django/tree/master/Mi_primera_view)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Parametros
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Paramentros URL](https://github.com/BrianMarquez3/Python-Django/tree/master/ParametroURL)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-| [Parametros En URL](https://github.com/BrianMarquez3/Python-Django/tree/master/ParametrosEnURL)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Paramentros URL](https://github.com/brian-emarquez/Python-Django/tree/master/ParametroURL)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Parametros En URL](https://github.com/brian-emarquez/Python-Django/tree/master/ParametrosEnURL)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 ## Plantillas
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [PLantillas I](https://github.com/BrianMarquez3/Python-Django/tree/master/Plantillas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-| [PLantillas II](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasII)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-| [PLantillas III](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasIII)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-| [PLantillas IV](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasIV)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-| [PLantillas V ](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasV)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-| [PLantillas IV](https://github.com/BrianMarquez3/Python-Django/tree/master/PlantillasVI)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-| [Templates I](https://github.com/BrianMarquez3/Python-Django/tree/master/Templates_I)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-| [Templates II](https://github.com/BrianMarquez3/Python-Django/tree/master/Templates_II)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
-| [Templates Integrando Platntilla adminLT3](https://github.com/BrianMarquez3/Python-Django/tree/master/Templates_III_%20Integrando_Platntilla_adminLT3)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [PLantillas I](https://github.com/brian-emarquez/Python-Django/tree/master/Plantillas)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [PLantillas II](https://github.com/brian-emarquez/Python-Django/tree/master/PlantillasII)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [PLantillas III](https://github.com/brian-emarquez/Python-Django/tree/master/PlantillasIII)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [PLantillas IV](https://github.com/brian-emarquez/Python-Django/tree/master/PlantillasIV)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [PLantillas V ](https://github.com/brian-emarquez/Python-Django/tree/master/PlantillasV)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [PLantillas IV](https://github.com/brian-emarquez/Python-Django/tree/master/PlantillasVI)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Templates I](https://github.com/brian-emarquez/Python-Django/tree/master/Templates_I)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Templates II](https://github.com/brian-emarquez/Python-Django/tree/master/Templates_II)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Templates Integrando Platntilla adminLT3](https://github.com/brian-emarquez/Python-Django/tree/master/Templates_III_%20Integrando_Platntilla_adminLT3)          |     ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
@@ -566,7 +566,7 @@ C = Templates (Pantallas)
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Panel de Adminitracion](https://github.com/BrianMarquez3/Python-Django/tree/master/panel_administrador)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |    | 
+| [Panel de Adminitracion](https://github.com/brian-emarquez/Python-Django/tree/master/panel_administrador)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |    | 
 
 
 ## ListView vistas basadas en clases
@@ -574,7 +574,7 @@ C = Templates (Pantallas)
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [ListView_vistas_basadas_en_clases](https://github.com/BrianMarquez3/Python-Django/tree/master/ListView_vistas_basadas_en_clases)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [ListView_vistas_basadas_en_clases](https://github.com/brian-emarquez/Python-Django/tree/master/ListView_vistas_basadas_en_clases)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
@@ -583,7 +583,7 @@ C = Templates (Pantallas)
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [ListView II_vistas_basadas_en_clases](https://github.com/BrianMarquez3/Python-Django/tree/master/ListView_II_Vistas_basadas_en_clases)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [ListView II_vistas_basadas_en_clases](https://github.com/brian-emarquez/Python-Django/tree/master/ListView_II_Vistas_basadas_en_clases)          |      ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
@@ -591,7 +591,7 @@ C = Templates (Pantallas)
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Sobreescritura del metodo dispatch](https://github.com/BrianMarquez3/Python-Django/tree/master/Sobreescritura_del_metodo_dispatch)          |    ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
+| [Sobreescritura del metodo dispatch](https://github.com/brian-emarquez/Python-Django/tree/master/Sobreescritura_del_metodo_dispatch)          |    ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |
 
 ---
 
@@ -603,7 +603,7 @@ _Documentacion_
 
 | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Implementando decoradores](https://github.com/BrianMarquez3/Python-Django/tree/master/Implementando_decoradores)          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
+| [Implementando decoradores](https://github.com/brian-emarquez/Python-Django/tree/master/Implementando_decoradores)          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
 
 
 
@@ -611,7 +611,7 @@ _Documentacion_
 
 |Number   | Carpeta                    | Link |     Home   |  Code | Version | Estado |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|024| [Sobreescriturdel metodo post](https://github.com/BrianMarquez3/Python-Django/tree/master/Sobreescritura_del_metodo_dispatch)          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
+|024| [Sobreescriturdel metodo post](https://github.com/brian-emarquez/Python-Django/tree/master/Sobreescritura_del_metodo_dispatch)          | ✔️     |  [⬅️Atras](#Tabla-de-contenidos) | yes | yes | ✔️ |     ✔️     |
 
 
 ---
@@ -626,7 +626,7 @@ Mas Informacion documentacion [docs.djangoproject](https://docs.djangoproject.co
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|A1| [Mysite](https://github.com/BrianMarquez3/Python-Django/tree/master/mysite)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+|A1| [Mysite](https://github.com/brian-emarquez/Python-Django/tree/master/mysite)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
 
 ## SHELL - Demo
@@ -653,44 +653,44 @@ Mas Informacion documentacion [docs.djangoproject](https://docs.djangoproject.co
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|A2| [Forms Generic Views](https://github.com/BrianMarquez3/Python-Django/tree/master/formsGenericViews)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+|A2| [Forms Generic Views](https://github.com/brian-emarquez/Python-Django/tree/master/formsGenericViews)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
 
 ## Shell
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|A3| [Shell](https://github.com/BrianMarquez3/Python-Django/tree/master/shell)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+|A3| [Shell](https://github.com/brian-emarquez/Python-Django/tree/master/shell)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
 ## Static
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|A4| [Static](https://github.com/BrianMarquez3/Python-Django/tree/master/static)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+|A4| [Static](https://github.com/brian-emarquez/Python-Django/tree/master/static)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
 ## Template
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|A4| [Template](https://github.com/BrianMarquez3/Python-Django/tree/master/templates)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+|A4| [Template](https://github.com/brian-emarquez/Python-Django/tree/master/templates)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
 ## Vista plantillas
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|A5| [Vista plantillas](https://github.com/BrianMarquez3/Python-Django/tree/master/vistasPlantillas)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+|A5| [Vista plantillas](https://github.com/brian-emarquez/Python-Django/tree/master/vistasPlantillas)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
 ## Web dinamica
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|A| [Web Dinamica](https://github.com/BrianMarquez3/Python-Django/tree/master/webDinamica)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+|A| [Web Dinamica](https://github.com/brian-emarquez/Python-Django/tree/master/webDinamica)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
 ## Web personal 
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|A| [Web personal](https://github.com/BrianMarquez3/Python-Django/tree/master/webpersonal)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
+|A| [Web personal](https://github.com/brian-emarquez/Python-Django/tree/master/webpersonal)       | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Fundamentos-Django) |
 
 
 
@@ -714,46 +714,46 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|B1| [APP](https://github.com/BrianMarquez3/Python-Django/tree/master/App)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
+|B1| [APP](https://github.com/brian-emarquez/Python-Django/tree/master/App)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 ## REST API
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|B2| [REST API](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
+|B2| [REST API](https://github.com/brian-emarquez/Python-Django/tree/master/REST_API)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 ## Serealizers
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|B3| [Serealizers](https://github.com/BrianMarquez3/Python-Django/tree/master/Serealizers)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
+|B3| [Serealizers](https://github.com/brian-emarquez/Python-Django/tree/master/Serealizers)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 
 ## Viewset
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|B4| [Viewset](https://github.com/BrianMarquez3/Python-Django/tree/master/viewSets)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
+|B4| [Viewset](https://github.com/brian-emarquez/Python-Django/tree/master/viewSets)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 
 ## APIfeed
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|B5| [APIfeed](https://github.com/BrianMarquez3/Python-Django/tree/master/APIfeed)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
+|B5| [APIfeed](https://github.com/brian-emarquez/Python-Django/tree/master/APIfeed)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 ## AreaLogin
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|B6| [AreaLogin](https://github.com/BrianMarquez3/Python-Django/tree/master/AreaLogin)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
+|B6| [AreaLogin](https://github.com/brian-emarquez/Python-Django/tree/master/AreaLogin)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 
 ## filtrarUsuarios
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|B7| [filtrarUsuarios](https://github.com/BrianMarquez3/Python-Django/tree/master/filtrarUsuarios)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
+|B7| [filtrarUsuarios](https://github.com/brian-emarquez/Python-Django/tree/master/filtrarUsuarios)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework) |
 
 ---
 
@@ -769,33 +769,33 @@ Documentacion [Django Api REST Framework ](https://www.django-rest-framework.org
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|C1| [REST API avanzado](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API_avanzado)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
+|C1| [REST API avanzado](https://github.com/brian-emarquez/Python-Django/tree/master/REST_API_avanzado)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
 
 
 ## REST API avanzado enlistarUsuarios
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|C2| [REST API avanzado enlistarUsuarios](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API_avanzado_enlistarUsuarios)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](Django-API-Rest-Framework-Avanzando) |
+|C2| [REST API avanzado enlistarUsuarios](https://github.com/brian-emarquez/Python-Django/tree/master/REST_API_avanzado_enlistarUsuarios)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](Django-API-Rest-Framework-Avanzando) |
 
 ## REST API avanzado ModeloUsuario
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|C3| [REST API avanzado ModeloUsuario](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API_avanzado_ModeloUsuario)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
+|C3| [REST API avanzado ModeloUsuario](https://github.com/brian-emarquez/Python-Django/tree/master/REST_API_avanzado_ModeloUsuario)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
 
 
 ## REST API avanzado superuser
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|C4| [REST API avanzado superuser](https://github.com/BrianMarquez3/Python-Django/tree/master/REST_API_avanzado_superuser)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
+|C4| [REST API avanzado superuser](https://github.com/brian-emarquez/Python-Django/tree/master/REST_API_avanzado_superuser)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
 
 ## RetrieveUpdatePartialUpdateDestroy
 
 |Number   | Carpeta                    | Link        |   Code      | Version     | Estado      |  Home     |
 |:-------:|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:---------:|
-|C4| [EetrieveUpdatePartialUpdateDestroy](https://github.com/BrianMarquez3/Python-Django/tree/master/RetrieveUpdatePartialUpdateDestroy)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
+|C4| [EetrieveUpdatePartialUpdateDestroy](https://github.com/brian-emarquez/Python-Django/tree/master/RetrieveUpdatePartialUpdateDestroy)      | ✔️ |  yes |  yes | ✔️ |     ✔️     |  [⬅️Atras](#Django-API-Rest-Framework-Avanzando) |
 
 ---
 
