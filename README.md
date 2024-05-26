@@ -4,24 +4,24 @@
 <p align="center">
   
   <a>
-      <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Python-Django?color=red">
+      <img src="https://img.shields.io/github/languages/top/brian-emarquez/Python-Django?color=red">
   </a>
   
   <a href="https://github.com/brian-emarquez/Python-Django/stargazers">
-      <img src="https://img.shields.io/github/stars/BrianMarquez3/Python-Django.svg?style=flat" alt="Stars">
+      <img src="https://img.shields.io/github/stars/brian-emarquez/Python-Django.svg?style=flat" alt="Stars">
   </a>
   
   <a href="https://github.com/brian-emarquez/Python-Django/network">
-      <img src="https://img.shields.io/github/forks/BrianMarquez3/Python-Django.svg?style=flat" alt="Forks">
+      <img src="https://img.shields.io/github/forks/brian-emarquez/Python-Django.svg?style=flat" alt="Forks">
   </a>
   
 <!-- Tamaño -->
   </a>
-    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Python-Django">
+    <img src="https://img.shields.io/github/languages/code-size/brian-emarquez/Python-Django">
   </a>
   
   </a>
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Python-Django/total?color=violet">
+    <img src="https://img.shields.io/github/downloads/brian-emarquez/Python-Django/total?color=violet">
   </a>
   
    </a>
@@ -30,8 +30,8 @@
   <img src="https://img.shields.io/badge/Plataform-Linux-red">
   </a><br>
  
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Django?color=yellow&style=for-the-badge">
-  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Python-Django?style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/brian-emarquez/Python-Django?color=yellow&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/brian-emarquez/Python-Django?style=for-the-badge">
 
 <table align="center">
   <tr>
