@@ -155,127 +155,127 @@ and integrate systems more effectively.<br>
 
 _Crear Proyecto_
 
-```
+```bash
 django-admin startproject nombreProyecto
 ```
 
 _Crear Aplicacion_
 
-```python
+```bash
 python manage.py startapp nombreAplicacion
 ```
 
 _Crear Entornos Virtual Windows - Linux_
 
-```python
+```bash
 python -m venv env
 ```
 
 _Activar Entorno Virtual_
 
 _Windows_
-```
+```bash
 env\Scripts\activate
 ```
 
 _Linux_
-```
+```bash
 source env\bin\activate
 ```
 
 _Migrar_
 
-```python
+```bash
 python manage.py migrate
 ```
 
 _Generar la Base de Datos_
 
-```python
+```bash
 python manage.py makemigrations
 ```
 
 _Actualiza Django_
 
-```python
+```bash
 pip install --upgrade Django
 ```
 
 _Actualizar PIP_
 
-```python
+```bash
 pip install --upgrade pip
 ```
 
 _Django Version_
 
-```
+```bash
 pip install Django
 ```
 
 _Instalar requirements.txt_
 
-```python
+```bash
 pip install -r requirements.txt
 ```
 
 _Version de Django_
 
-```python
+```bash
 python -m django --version
 ```
 
 _Ejecutar Servidor Django_
 
-```python
+```bash
 python manage.py runserver
 ```
 
 _Check de la Aplicacion_
 
-```python
+```bash
 python manage.py check nombreAplicacion
 ```
 
 _Generar la Base de Datos_
 
-```python
+```bash
 python manage.py makemigrations
 ```
 
 _Generar Codigo SQL_
 
-```python
+```bash
 python manage.py sqlmigrate nombreAplicacion 000n
 ```
 
 _mysqlclient_
 
-```python
+```bash
 pip install mysqlclient
 ```
 
 _Django- yodbc azure_
 
-```python
+```bash
 pip install django-pyodbc-azure
 ```
 
 _Crear listado de requerimeintos_
 
-```python
+```bash
 python freeze > requerimientos.txt
 ```
 
 _Crear un superusuario_
 
-```python
+```bash
 python manage.py createsuperuser
 ```
 
 _Shell_
 
-```
+```bash
 python manage.py shell
 ```
 
@@ -287,18 +287,18 @@ _Principales conectores a gestores de base de datos_
 
 ### Crear Super Usuario
 
-```python
+```bash
 python manage.py createsuperuser
 ```
 
 ### Conector PostgreSQL
 
 _Driver_
-```
+```bash
 pip install psycopg2
 ```
 
-```
+```bash
 pip install psycopg2-binary
 ```
 
